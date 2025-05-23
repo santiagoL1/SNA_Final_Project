@@ -1,0 +1,4638 @@
+[{
+  "type": "tweet",
+  "id": "1900890105004650903",
+  "url": "https://x.com/CinemaRareIN/status/1900890105004650903",
+  "twitterUrl": "https://twitter.com/CinemaRareIN/status/1900890105004650903",
+  "text": "A masterclass in cinematography, filmmaking &amp; acting. #Adolescence on Netflix is incredibly devastating. The gripping single-take episodes makes you feel entangled in a spiral along with the characters, are not an easy watch, but leaves a solid gut punch. Highly recommended. https://t.co/sVHart9nlC",
+  "fullText": "A masterclass in cinematography, filmmaking &amp; acting. #Adolescence on Netflix is incredibly devastating. The gripping single-take episodes makes you feel entangled in a spiral along with the characters, are not an easy watch, but leaves a solid gut punch. Highly recommended. https://t.co/sVHart9nlC",
+  "source": "Twitter for Android",
+  "retweetCount": 110,
+  "replyCount": 17,
+  "likeCount": 711,
+  "quoteCount": 31,
+  "viewCount": 68238,
+  "createdAt": "Sat Mar 15 12:41:32 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 128,
+  "isReply": false,
+  "conversationId": "1900890105004650903",
+  "possiblySensitive": false,
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "CinemaRareIN",
+    "url": "https://x.com/CinemaRareIN",
+    "twitterUrl": "https://twitter.com/CinemaRareIN",
+    "id": "918723043798560768",
+    "name": "CinemaRare",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1459351425830436864/V4a412cn_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/918723043798560768/1733716206",
+    "description": "Digital Platform Updates.\nTrivias.\nStills.\nVideos.\n\nAnd threads!\n\n(p.s: Not just rare cinema)",
+    "location": "Mumbai, India",
+    "followers": 57259,
+    "following": 5753,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Fri Oct 13 06:20:17 +0000 2017",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 20702,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 53475,
+    "statusesCount": 71524,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1907103401306951865"
+    ]
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "display_url": "pic.x.com/sVHart9nlC",
+        "expanded_url": "https://x.com/CinemaRareIN/status/1900890105004650903/photo/1",
+        "id_str": "1900889845834436608",
+        "indices": [
+          280,
+          303
+        ],
+        "media_key": "3_1900889845834436608",
+        "media_url_https": "https://pbs.twimg.com/media/GmFRPlIb0AALeIA.jpg",
+        "type": "photo",
+        "url": "https://t.co/sVHart9nlC",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "x": 873,
+                "y": 298,
+                "h": 165,
+                "w": 165
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "x": 545,
+                "y": 186,
+                "h": 103,
+                "w": 103
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "x": 309,
+                "y": 105,
+                "h": 58,
+                "w": 58
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "x": 873,
+                "y": 298,
+                "h": 165,
+                "w": 165
+              }
+            ]
+          }
+        },
+        "sizes": {
+          "large": {
+            "h": 1080,
+            "w": 1920,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 675,
+            "w": 1200,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 383,
+            "w": 680,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 1080,
+          "width": 1920,
+          "focus_rects": [
+            {
+              "x": 0,
+              "y": 0,
+              "w": 1920,
+              "h": 1075
+            },
+            {
+              "x": 372,
+              "y": 0,
+              "w": 1080,
+              "h": 1080
+            },
+            {
+              "x": 439,
+              "y": 0,
+              "w": 947,
+              "h": 1080
+            },
+            {
+              "x": 642,
+              "y": 0,
+              "w": 540,
+              "h": 1080
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 1920,
+              "h": 1080
+            }
+          ]
+        },
+        "media_results": {
+          "result": {
+            "media_key": "3_1900889845834436608"
+          }
+        }
+      },
+      {
+        "display_url": "pic.x.com/sVHart9nlC",
+        "expanded_url": "https://x.com/CinemaRareIN/status/1900890105004650903/photo/1",
+        "id_str": "1900889846056648704",
+        "indices": [
+          280,
+          303
+        ],
+        "media_key": "3_1900889846056648704",
+        "media_url_https": "https://pbs.twimg.com/media/GmFRPl9agAAU2H8.jpg",
+        "type": "photo",
+        "url": "https://t.co/sVHart9nlC",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": []
+          },
+          "medium": {
+            "faces": []
+          },
+          "small": {
+            "faces": []
+          },
+          "orig": {
+            "faces": []
+          }
+        },
+        "sizes": {
+          "large": {
+            "h": 1080,
+            "w": 1920,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 675,
+            "w": 1200,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 383,
+            "w": 680,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 1080,
+          "width": 1920,
+          "focus_rects": [
+            {
+              "x": 0,
+              "y": 0,
+              "w": 1920,
+              "h": 1075
+            },
+            {
+              "x": 660,
+              "y": 0,
+              "w": 1080,
+              "h": 1080
+            },
+            {
+              "x": 727,
+              "y": 0,
+              "w": 947,
+              "h": 1080
+            },
+            {
+              "x": 930,
+              "y": 0,
+              "w": 540,
+              "h": 1080
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 1920,
+              "h": 1080
+            }
+          ]
+        },
+        "media_results": {
+          "result": {
+            "media_key": "3_1900889846056648704"
+          }
+        }
+      },
+      {
+        "display_url": "pic.x.com/sVHart9nlC",
+        "expanded_url": "https://x.com/CinemaRareIN/status/1900890105004650903/photo/1",
+        "id_str": "1900889846589292544",
+        "indices": [
+          280,
+          303
+        ],
+        "media_key": "3_1900889846589292544",
+        "media_url_https": "https://pbs.twimg.com/media/GmFRPn8aAAA7ZUO.jpg",
+        "type": "photo",
+        "url": "https://t.co/sVHart9nlC",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "x": 862,
+                "y": 97,
+                "h": 436,
+                "w": 436
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "x": 538,
+                "y": 60,
+                "h": 272,
+                "w": 272
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "x": 305,
+                "y": 34,
+                "h": 154,
+                "w": 154
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "x": 862,
+                "y": 97,
+                "h": 436,
+                "w": 436
+              }
+            ]
+          }
+        },
+        "sizes": {
+          "large": {
+            "h": 1080,
+            "w": 1920,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 675,
+            "w": 1200,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 383,
+            "w": 680,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 1080,
+          "width": 1920,
+          "focus_rects": [
+            {
+              "x": 0,
+              "y": 0,
+              "w": 1920,
+              "h": 1075
+            },
+            {
+              "x": 564,
+              "y": 0,
+              "w": 1080,
+              "h": 1080
+            },
+            {
+              "x": 631,
+              "y": 0,
+              "w": 947,
+              "h": 1080
+            },
+            {
+              "x": 834,
+              "y": 0,
+              "w": 540,
+              "h": 1080
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 1920,
+              "h": 1080
+            }
+          ]
+        },
+        "media_results": {
+          "result": {
+            "media_key": "3_1900889846589292544"
+          }
+        }
+      },
+      {
+        "display_url": "pic.x.com/sVHart9nlC",
+        "expanded_url": "https://x.com/CinemaRareIN/status/1900890105004650903/photo/1",
+        "id_str": "1900889847218515968",
+        "indices": [
+          280,
+          303
+        ],
+        "media_key": "3_1900889847218515968",
+        "media_url_https": "https://pbs.twimg.com/media/GmFRPqSbMAAEXha.jpg",
+        "type": "photo",
+        "url": "https://t.co/sVHart9nlC",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "x": 691,
+                "y": 65,
+                "h": 682,
+                "w": 682
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "x": 431,
+                "y": 40,
+                "h": 426,
+                "w": 426
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "x": 244,
+                "y": 23,
+                "h": 241,
+                "w": 241
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "x": 691,
+                "y": 65,
+                "h": 682,
+                "w": 682
+              }
+            ]
+          }
+        },
+        "sizes": {
+          "large": {
+            "h": 1080,
+            "w": 1920,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 675,
+            "w": 1200,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 383,
+            "w": 680,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 1080,
+          "width": 1920,
+          "focus_rects": [
+            {
+              "x": 0,
+              "y": 0,
+              "w": 1920,
+              "h": 1075
+            },
+            {
+              "x": 564,
+              "y": 0,
+              "w": 1080,
+              "h": 1080
+            },
+            {
+              "x": 631,
+              "y": 0,
+              "w": 947,
+              "h": 1080
+            },
+            {
+              "x": 834,
+              "y": 0,
+              "w": 540,
+              "h": 1080
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 1920,
+              "h": 1080
+            }
+          ]
+        },
+        "media_results": {
+          "result": {
+            "media_key": "3_1900889847218515968"
+          }
+        }
+      }
+    ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          58,
+          70
+        ],
+        "text": "Adolescence"
+      }
+    ],
+    "media": [
+      {
+        "display_url": "pic.x.com/sVHart9nlC",
+        "expanded_url": "https://x.com/CinemaRareIN/status/1900890105004650903/photo/1",
+        "id_str": "1900889845834436608",
+        "indices": [
+          280,
+          303
+        ],
+        "media_key": "3_1900889845834436608",
+        "media_url_https": "https://pbs.twimg.com/media/GmFRPlIb0AALeIA.jpg",
+        "type": "photo",
+        "url": "https://t.co/sVHart9nlC",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "x": 873,
+                "y": 298,
+                "h": 165,
+                "w": 165
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "x": 545,
+                "y": 186,
+                "h": 103,
+                "w": 103
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "x": 309,
+                "y": 105,
+                "h": 58,
+                "w": 58
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "x": 873,
+                "y": 298,
+                "h": 165,
+                "w": 165
+              }
+            ]
+          }
+        },
+        "sizes": {
+          "large": {
+            "h": 1080,
+            "w": 1920,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 675,
+            "w": 1200,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 383,
+            "w": 680,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 1080,
+          "width": 1920,
+          "focus_rects": [
+            {
+              "x": 0,
+              "y": 0,
+              "w": 1920,
+              "h": 1075
+            },
+            {
+              "x": 372,
+              "y": 0,
+              "w": 1080,
+              "h": 1080
+            },
+            {
+              "x": 439,
+              "y": 0,
+              "w": 947,
+              "h": 1080
+            },
+            {
+              "x": 642,
+              "y": 0,
+              "w": 540,
+              "h": 1080
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 1920,
+              "h": 1080
+            }
+          ]
+        },
+        "media_results": {
+          "result": {
+            "media_key": "3_1900889845834436608"
+          }
+        }
+      },
+      {
+        "display_url": "pic.x.com/sVHart9nlC",
+        "expanded_url": "https://x.com/CinemaRareIN/status/1900890105004650903/photo/1",
+        "id_str": "1900889846056648704",
+        "indices": [
+          280,
+          303
+        ],
+        "media_key": "3_1900889846056648704",
+        "media_url_https": "https://pbs.twimg.com/media/GmFRPl9agAAU2H8.jpg",
+        "type": "photo",
+        "url": "https://t.co/sVHart9nlC",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": []
+          },
+          "medium": {
+            "faces": []
+          },
+          "small": {
+            "faces": []
+          },
+          "orig": {
+            "faces": []
+          }
+        },
+        "sizes": {
+          "large": {
+            "h": 1080,
+            "w": 1920,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 675,
+            "w": 1200,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 383,
+            "w": 680,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 1080,
+          "width": 1920,
+          "focus_rects": [
+            {
+              "x": 0,
+              "y": 0,
+              "w": 1920,
+              "h": 1075
+            },
+            {
+              "x": 660,
+              "y": 0,
+              "w": 1080,
+              "h": 1080
+            },
+            {
+              "x": 727,
+              "y": 0,
+              "w": 947,
+              "h": 1080
+            },
+            {
+              "x": 930,
+              "y": 0,
+              "w": 540,
+              "h": 1080
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 1920,
+              "h": 1080
+            }
+          ]
+        },
+        "media_results": {
+          "result": {
+            "media_key": "3_1900889846056648704"
+          }
+        }
+      },
+      {
+        "display_url": "pic.x.com/sVHart9nlC",
+        "expanded_url": "https://x.com/CinemaRareIN/status/1900890105004650903/photo/1",
+        "id_str": "1900889846589292544",
+        "indices": [
+          280,
+          303
+        ],
+        "media_key": "3_1900889846589292544",
+        "media_url_https": "https://pbs.twimg.com/media/GmFRPn8aAAA7ZUO.jpg",
+        "type": "photo",
+        "url": "https://t.co/sVHart9nlC",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "x": 862,
+                "y": 97,
+                "h": 436,
+                "w": 436
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "x": 538,
+                "y": 60,
+                "h": 272,
+                "w": 272
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "x": 305,
+                "y": 34,
+                "h": 154,
+                "w": 154
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "x": 862,
+                "y": 97,
+                "h": 436,
+                "w": 436
+              }
+            ]
+          }
+        },
+        "sizes": {
+          "large": {
+            "h": 1080,
+            "w": 1920,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 675,
+            "w": 1200,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 383,
+            "w": 680,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 1080,
+          "width": 1920,
+          "focus_rects": [
+            {
+              "x": 0,
+              "y": 0,
+              "w": 1920,
+              "h": 1075
+            },
+            {
+              "x": 564,
+              "y": 0,
+              "w": 1080,
+              "h": 1080
+            },
+            {
+              "x": 631,
+              "y": 0,
+              "w": 947,
+              "h": 1080
+            },
+            {
+              "x": 834,
+              "y": 0,
+              "w": 540,
+              "h": 1080
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 1920,
+              "h": 1080
+            }
+          ]
+        },
+        "media_results": {
+          "result": {
+            "media_key": "3_1900889846589292544"
+          }
+        }
+      },
+      {
+        "display_url": "pic.x.com/sVHart9nlC",
+        "expanded_url": "https://x.com/CinemaRareIN/status/1900890105004650903/photo/1",
+        "id_str": "1900889847218515968",
+        "indices": [
+          280,
+          303
+        ],
+        "media_key": "3_1900889847218515968",
+        "media_url_https": "https://pbs.twimg.com/media/GmFRPqSbMAAEXha.jpg",
+        "type": "photo",
+        "url": "https://t.co/sVHart9nlC",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "x": 691,
+                "y": 65,
+                "h": 682,
+                "w": 682
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "x": 431,
+                "y": 40,
+                "h": 426,
+                "w": 426
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "x": 244,
+                "y": 23,
+                "h": 241,
+                "w": 241
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "x": 691,
+                "y": 65,
+                "h": 682,
+                "w": 682
+              }
+            ]
+          }
+        },
+        "sizes": {
+          "large": {
+            "h": 1080,
+            "w": 1920,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 675,
+            "w": 1200,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 383,
+            "w": 680,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 1080,
+          "width": 1920,
+          "focus_rects": [
+            {
+              "x": 0,
+              "y": 0,
+              "w": 1920,
+              "h": 1075
+            },
+            {
+              "x": 564,
+              "y": 0,
+              "w": 1080,
+              "h": 1080
+            },
+            {
+              "x": 631,
+              "y": 0,
+              "w": 947,
+              "h": 1080
+            },
+            {
+              "x": 834,
+              "y": 0,
+              "w": 540,
+              "h": 1080
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 1920,
+              "h": 1080
+            }
+          ]
+        },
+        "media_results": {
+          "result": {
+            "media_key": "3_1900889847218515968"
+          }
+        }
+      }
+    ],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [
+    "https://pbs.twimg.com/media/GmFRPlIb0AALeIA.jpg",
+    "https://pbs.twimg.com/media/GmFRPl9agAAU2H8.jpg",
+    "https://pbs.twimg.com/media/GmFRPn8aAAA7ZUO.jpg",
+    "https://pbs.twimg.com/media/GmFRPqSbMAAEXha.jpg"
+  ],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "1902719046174511448",
+  "url": "https://x.com/Mayurishh/status/1902719046174511448",
+  "twitterUrl": "https://twitter.com/Mayurishh/status/1902719046174511448",
+  "text": "#Adolesence web series on Netflix is pure cinema. The bold narrative structure and one shot filming style sets it apart. The entire cast starting from the veteran Stephen Graham to debutant Owen Cooper has given a stellar performance. https://t.co/fUqj8ia1Tb",
+  "fullText": "#Adolesence web series on Netflix is pure cinema. The bold narrative structure and one shot filming style sets it apart. The entire cast starting from the veteran Stephen Graham to debutant Owen Cooper has given a stellar performance. https://t.co/fUqj8ia1Tb",
+  "source": "Twitter for Android",
+  "retweetCount": 0,
+  "replyCount": 2,
+  "likeCount": 15,
+  "quoteCount": 0,
+  "viewCount": 3845,
+  "createdAt": "Thu Mar 20 13:49:06 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "conversationId": "1902719046174511448",
+  "possiblySensitive": false,
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "Mayurishh",
+    "url": "https://x.com/Mayurishh",
+    "twitterUrl": "https://twitter.com/Mayurishh",
+    "id": "323388765",
+    "name": "Mayuri",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1892132431089532928/Mi3L65fk_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/323388765/1724690387",
+    "description": "तेरा मेरा रिश्ता क्या, ट्विटर स्पेसेस सोशल मीडिया...\n                              |Que Será Será|",
+    "location": "",
+    "followers": 634,
+    "following": 63,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": false,
+    "createdAt": "Fri Jun 24 19:00:09 +0000 2011",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 8571,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "mediaCount": 1007,
+    "statusesCount": 8925,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": []
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "display_url": "pic.x.com/fUqj8ia1Tb",
+        "expanded_url": "https://x.com/Mayurishh/status/1902719046174511448/photo/1",
+        "id_str": "1902719043083362305",
+        "indices": [
+          235,
+          258
+        ],
+        "media_key": "3_1902719043083362305",
+        "media_url_https": "https://pbs.twimg.com/media/GmfQ435a4AETeoO.jpg",
+        "type": "photo",
+        "url": "https://t.co/fUqj8ia1Tb",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "x": 415,
+                "y": 92,
+                "h": 118,
+                "w": 118
+              },
+              {
+                "x": 523,
+                "y": 947,
+                "h": 137,
+                "w": 137
+              },
+              {
+                "x": 96,
+                "y": 84,
+                "h": 218,
+                "w": 218
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "x": 368,
+                "y": 81,
+                "h": 104,
+                "w": 104
+              },
+              {
+                "x": 464,
+                "y": 841,
+                "h": 121,
+                "w": 121
+              },
+              {
+                "x": 85,
+                "y": 74,
+                "h": 193,
+                "w": 193
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "x": 209,
+                "y": 46,
+                "h": 59,
+                "w": 59
+              },
+              {
+                "x": 263,
+                "y": 477,
+                "h": 69,
+                "w": 69
+              },
+              {
+                "x": 48,
+                "y": 42,
+                "h": 109,
+                "w": 109
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "x": 415,
+                "y": 92,
+                "h": 118,
+                "w": 118
+              },
+              {
+                "x": 523,
+                "y": 947,
+                "h": 137,
+                "w": 137
+              },
+              {
+                "x": 96,
+                "y": 84,
+                "h": 218,
+                "w": 218
+              }
+            ]
+          }
+        },
+        "sizes": {
+          "large": {
+            "h": 1350,
+            "w": 1080,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 1200,
+            "w": 960,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 680,
+            "w": 544,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 1350,
+          "width": 1080,
+          "focus_rects": [
+            {
+              "x": 0,
+              "y": 744,
+              "w": 1080,
+              "h": 605
+            },
+            {
+              "x": 0,
+              "y": 270,
+              "w": 1080,
+              "h": 1080
+            },
+            {
+              "x": 0,
+              "y": 119,
+              "w": 1080,
+              "h": 1231
+            },
+            {
+              "x": 304,
+              "y": 0,
+              "w": 675,
+              "h": 1350
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 1080,
+              "h": 1350
+            }
+          ]
+        },
+        "media_results": {
+          "result": {
+            "media_key": "3_1902719043083362305"
+          }
+        }
+      },
+      {
+        "display_url": "pic.x.com/fUqj8ia1Tb",
+        "expanded_url": "https://x.com/Mayurishh/status/1902719046174511448/photo/1",
+        "id_str": "1902719043280474112",
+        "indices": [
+          235,
+          258
+        ],
+        "media_key": "3_1902719043280474112",
+        "media_url_https": "https://pbs.twimg.com/media/GmfQ44oakAA2iZA.jpg",
+        "type": "photo",
+        "url": "https://t.co/fUqj8ia1Tb",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "x": 691,
+                "y": 65,
+                "h": 682,
+                "w": 682
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "x": 431,
+                "y": 40,
+                "h": 426,
+                "w": 426
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "x": 244,
+                "y": 23,
+                "h": 241,
+                "w": 241
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "x": 691,
+                "y": 65,
+                "h": 682,
+                "w": 682
+              }
+            ]
+          }
+        },
+        "sizes": {
+          "large": {
+            "h": 1080,
+            "w": 1920,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 675,
+            "w": 1200,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 383,
+            "w": 680,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 1080,
+          "width": 1920,
+          "focus_rects": [
+            {
+              "x": 0,
+              "y": 0,
+              "w": 1920,
+              "h": 1075
+            },
+            {
+              "x": 564,
+              "y": 0,
+              "w": 1080,
+              "h": 1080
+            },
+            {
+              "x": 631,
+              "y": 0,
+              "w": 947,
+              "h": 1080
+            },
+            {
+              "x": 834,
+              "y": 0,
+              "w": 540,
+              "h": 1080
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 1920,
+              "h": 1080
+            }
+          ]
+        },
+        "media_results": {
+          "result": {
+            "media_key": "3_1902719043280474112"
+          }
+        }
+      }
+    ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          0,
+          11
+        ],
+        "text": "Adolesence"
+      }
+    ],
+    "media": [
+      {
+        "display_url": "pic.x.com/fUqj8ia1Tb",
+        "expanded_url": "https://x.com/Mayurishh/status/1902719046174511448/photo/1",
+        "id_str": "1902719043083362305",
+        "indices": [
+          235,
+          258
+        ],
+        "media_key": "3_1902719043083362305",
+        "media_url_https": "https://pbs.twimg.com/media/GmfQ435a4AETeoO.jpg",
+        "type": "photo",
+        "url": "https://t.co/fUqj8ia1Tb",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "x": 415,
+                "y": 92,
+                "h": 118,
+                "w": 118
+              },
+              {
+                "x": 523,
+                "y": 947,
+                "h": 137,
+                "w": 137
+              },
+              {
+                "x": 96,
+                "y": 84,
+                "h": 218,
+                "w": 218
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "x": 368,
+                "y": 81,
+                "h": 104,
+                "w": 104
+              },
+              {
+                "x": 464,
+                "y": 841,
+                "h": 121,
+                "w": 121
+              },
+              {
+                "x": 85,
+                "y": 74,
+                "h": 193,
+                "w": 193
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "x": 209,
+                "y": 46,
+                "h": 59,
+                "w": 59
+              },
+              {
+                "x": 263,
+                "y": 477,
+                "h": 69,
+                "w": 69
+              },
+              {
+                "x": 48,
+                "y": 42,
+                "h": 109,
+                "w": 109
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "x": 415,
+                "y": 92,
+                "h": 118,
+                "w": 118
+              },
+              {
+                "x": 523,
+                "y": 947,
+                "h": 137,
+                "w": 137
+              },
+              {
+                "x": 96,
+                "y": 84,
+                "h": 218,
+                "w": 218
+              }
+            ]
+          }
+        },
+        "sizes": {
+          "large": {
+            "h": 1350,
+            "w": 1080,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 1200,
+            "w": 960,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 680,
+            "w": 544,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 1350,
+          "width": 1080,
+          "focus_rects": [
+            {
+              "x": 0,
+              "y": 744,
+              "w": 1080,
+              "h": 605
+            },
+            {
+              "x": 0,
+              "y": 270,
+              "w": 1080,
+              "h": 1080
+            },
+            {
+              "x": 0,
+              "y": 119,
+              "w": 1080,
+              "h": 1231
+            },
+            {
+              "x": 304,
+              "y": 0,
+              "w": 675,
+              "h": 1350
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 1080,
+              "h": 1350
+            }
+          ]
+        },
+        "media_results": {
+          "result": {
+            "media_key": "3_1902719043083362305"
+          }
+        }
+      },
+      {
+        "display_url": "pic.x.com/fUqj8ia1Tb",
+        "expanded_url": "https://x.com/Mayurishh/status/1902719046174511448/photo/1",
+        "id_str": "1902719043280474112",
+        "indices": [
+          235,
+          258
+        ],
+        "media_key": "3_1902719043280474112",
+        "media_url_https": "https://pbs.twimg.com/media/GmfQ44oakAA2iZA.jpg",
+        "type": "photo",
+        "url": "https://t.co/fUqj8ia1Tb",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "x": 691,
+                "y": 65,
+                "h": 682,
+                "w": 682
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "x": 431,
+                "y": 40,
+                "h": 426,
+                "w": 426
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "x": 244,
+                "y": 23,
+                "h": 241,
+                "w": 241
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "x": 691,
+                "y": 65,
+                "h": 682,
+                "w": 682
+              }
+            ]
+          }
+        },
+        "sizes": {
+          "large": {
+            "h": 1080,
+            "w": 1920,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 675,
+            "w": 1200,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 383,
+            "w": 680,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 1080,
+          "width": 1920,
+          "focus_rects": [
+            {
+              "x": 0,
+              "y": 0,
+              "w": 1920,
+              "h": 1075
+            },
+            {
+              "x": 564,
+              "y": 0,
+              "w": 1080,
+              "h": 1080
+            },
+            {
+              "x": 631,
+              "y": 0,
+              "w": 947,
+              "h": 1080
+            },
+            {
+              "x": 834,
+              "y": 0,
+              "w": 540,
+              "h": 1080
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 1920,
+              "h": 1080
+            }
+          ]
+        },
+        "media_results": {
+          "result": {
+            "media_key": "3_1902719043280474112"
+          }
+        }
+      }
+    ],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [
+    "https://pbs.twimg.com/media/GmfQ435a4AETeoO.jpg",
+    "https://pbs.twimg.com/media/GmfQ44oakAA2iZA.jpg"
+  ],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "1907985803839520811",
+  "url": "https://x.com/InfernoOmni/status/1907985803839520811",
+  "twitterUrl": "https://twitter.com/InfernoOmni/status/1907985803839520811",
+  "text": "y’all watch Adolescence on Netflix yet? great television for self aware emotionally intelligent trauma existers. also give this kid an Emmy i haven’t seen acting this good at such a young age in maybe forever https://t.co/C9qc0HYzuU",
+  "fullText": "y’all watch Adolescence on Netflix yet? great television for self aware emotionally intelligent trauma existers. also give this kid an Emmy i haven’t seen acting this good at such a young age in maybe forever https://t.co/C9qc0HYzuU",
+  "source": "Twitter for iPhone",
+  "retweetCount": 57,
+  "replyCount": 25,
+  "likeCount": 883,
+  "quoteCount": 11,
+  "viewCount": 62972,
+  "createdAt": "Fri Apr 04 02:37:18 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 52,
+  "isReply": false,
+  "conversationId": "1907985803839520811",
+  "possiblySensitive": false,
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "InfernoOmni",
+    "url": "https://x.com/InfernoOmni",
+    "twitterUrl": "https://twitter.com/InfernoOmni",
+    "id": "2185713181",
+    "name": "Omni ☕️",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1696373550708314112/gLPNks-o_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/2185713181/1728491442",
+    "description": "Your #1 source for all things that don’t matter. #LayItOmni host. Biz: InfernoOmniTV@gmail.com",
+    "location": "DMV",
+    "followers": 111288,
+    "following": 257,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": false,
+    "createdAt": "Sun Nov 10 05:58:54 +0000 2013",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "youtube.com/InfernoOmni",
+            "expanded_url": "https://www.youtube.com/InfernoOmni",
+            "url": "https://t.co/o1tsC918pf",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 108849,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 12875,
+    "statusesCount": 55691,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1563264238734700544"
+    ]
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "display_url": "pic.x.com/C9qc0HYzuU",
+        "expanded_url": "https://x.com/InfernoOmni/status/1907985803839520811/photo/1",
+        "id_str": "1907985800760819712",
+        "indices": [
+          209,
+          232
+        ],
+        "media_key": "3_1907985800760819712",
+        "media_url_https": "https://pbs.twimg.com/media/GnqG-hLWgAApFje.jpg",
+        "type": "photo",
+        "url": "https://t.co/C9qc0HYzuU",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "x": 778,
+                "y": 178,
+                "h": 236,
+                "w": 236
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "x": 778,
+                "y": 178,
+                "h": 236,
+                "w": 236
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "x": 440,
+                "y": 100,
+                "h": 133,
+                "w": 133
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "x": 778,
+                "y": 178,
+                "h": 236,
+                "w": 236
+              }
+            ]
+          }
+        },
+        "sizes": {
+          "large": {
+            "h": 720,
+            "w": 1200,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 720,
+            "w": 1200,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 408,
+            "w": 680,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 720,
+          "width": 1200,
+          "focus_rects": [
+            {
+              "x": 0,
+              "y": 0,
+              "w": 1200,
+              "h": 672
+            },
+            {
+              "x": 480,
+              "y": 0,
+              "w": 720,
+              "h": 720
+            },
+            {
+              "x": 568,
+              "y": 0,
+              "w": 632,
+              "h": 720
+            },
+            {
+              "x": 750,
+              "y": 0,
+              "w": 360,
+              "h": 720
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 1200,
+              "h": 720
+            }
+          ]
+        },
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "media_results": {
+          "result": {
+            "media_key": "3_1907985800760819712"
+          }
+        }
+      }
+    ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [],
+    "media": [
+      {
+        "display_url": "pic.x.com/C9qc0HYzuU",
+        "expanded_url": "https://x.com/InfernoOmni/status/1907985803839520811/photo/1",
+        "id_str": "1907985800760819712",
+        "indices": [
+          209,
+          232
+        ],
+        "media_key": "3_1907985800760819712",
+        "media_url_https": "https://pbs.twimg.com/media/GnqG-hLWgAApFje.jpg",
+        "type": "photo",
+        "url": "https://t.co/C9qc0HYzuU",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "x": 778,
+                "y": 178,
+                "h": 236,
+                "w": 236
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "x": 778,
+                "y": 178,
+                "h": 236,
+                "w": 236
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "x": 440,
+                "y": 100,
+                "h": 133,
+                "w": 133
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "x": 778,
+                "y": 178,
+                "h": 236,
+                "w": 236
+              }
+            ]
+          }
+        },
+        "sizes": {
+          "large": {
+            "h": 720,
+            "w": 1200,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 720,
+            "w": 1200,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 408,
+            "w": 680,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 720,
+          "width": 1200,
+          "focus_rects": [
+            {
+              "x": 0,
+              "y": 0,
+              "w": 1200,
+              "h": 672
+            },
+            {
+              "x": 480,
+              "y": 0,
+              "w": 720,
+              "h": 720
+            },
+            {
+              "x": 568,
+              "y": 0,
+              "w": 632,
+              "h": 720
+            },
+            {
+              "x": 750,
+              "y": 0,
+              "w": 360,
+              "h": 720
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 1200,
+              "h": 720
+            }
+          ]
+        },
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "media_results": {
+          "result": {
+            "media_key": "3_1907985800760819712"
+          }
+        }
+      }
+    ],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [
+    "https://pbs.twimg.com/media/GnqG-hLWgAApFje.jpg"
+  ],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "1907470687503311286",
+  "url": "https://x.com/StandUptoWoke/status/1907470687503311286",
+  "twitterUrl": "https://twitter.com/StandUptoWoke/status/1907470687503311286",
+  "text": "The REAL lie of Netflix's \"Adolesence\" is that the main character is a boy\n\n- GIRLS are the ones impacted most by social media\n- GIRLS are the ones adopting extreme political views &amp; becoming radicalised \n- GIRLS are the ones with high rates of mental instability &amp; emotionality https://t.co/zJlQHcXM1B",
+  "fullText": "The REAL lie of Netflix's \"Adolesence\" is that the main character is a boy\n\n- GIRLS are the ones impacted most by social media\n- GIRLS are the ones adopting extreme political views &amp; becoming radicalised \n- GIRLS are the ones with high rates of mental instability &amp; emotionality https://t.co/zJlQHcXM1B",
+  "source": "Twitter for Android",
+  "retweetCount": 763,
+  "replyCount": 148,
+  "likeCount": 5964,
+  "quoteCount": 50,
+  "viewCount": 164032,
+  "createdAt": "Wed Apr 02 16:30:25 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 1141,
+  "isReply": false,
+  "conversationId": "1907470687503311286",
+  "possiblySensitive": false,
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "StandUptoWoke",
+    "url": "https://x.com/StandUptoWoke",
+    "twitterUrl": "https://twitter.com/StandUptoWoke",
+    "id": "1371458611084472322",
+    "name": "Amy Gallagher",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1695498616742244352/rzI2cHxV_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1371458611084472322/1715510795",
+    "description": "Suing the Tavistock NHS for discrimination & victimisation/@NewCultureForum commentator/ https://t.co/E9VGMb8oUQ",
+    "location": "London",
+    "followers": 24564,
+    "following": 2810,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Mon Mar 15 13:49:57 +0000 2021",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "amylgallagher.substack.com",
+            "expanded_url": "https://amylgallagher.substack.com/",
+            "url": "https://t.co/E9VGMb8oUQ",
+            "indices": [
+              89,
+              112
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "gofundme.com/f/standuptowoke",
+            "expanded_url": "https://www.gofundme.com/f/standuptowoke",
+            "url": "https://t.co/62HKcdr9LH",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 21784,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 234,
+    "statusesCount": 2296,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1559885718339592193"
+    ]
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "display_url": "pic.x.com/zJlQHcXM1B",
+        "expanded_url": "https://x.com/StandUptoWoke/status/1907470687503311286/photo/1",
+        "id_str": "1907470684152016898",
+        "indices": [
+          287,
+          310
+        ],
+        "media_key": "3_1907470684152016898",
+        "media_url_https": "https://pbs.twimg.com/media/GniyeyRaMAIlfoh.jpg",
+        "type": "photo",
+        "url": "https://t.co/zJlQHcXM1B",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": []
+          },
+          "medium": {
+            "faces": []
+          },
+          "small": {
+            "faces": []
+          },
+          "orig": {
+            "faces": []
+          }
+        },
+        "sizes": {
+          "large": {
+            "h": 1255,
+            "w": 1347,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 1118,
+            "w": 1200,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 634,
+            "w": 680,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 1255,
+          "width": 1347,
+          "focus_rects": [
+            {
+              "x": 0,
+              "y": 0,
+              "w": 1347,
+              "h": 754
+            },
+            {
+              "x": 46,
+              "y": 0,
+              "w": 1255,
+              "h": 1255
+            },
+            {
+              "x": 123,
+              "y": 0,
+              "w": 1101,
+              "h": 1255
+            },
+            {
+              "x": 359,
+              "y": 0,
+              "w": 628,
+              "h": 1255
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 1347,
+              "h": 1255
+            }
+          ]
+        },
+        "media_results": {
+          "result": {
+            "media_key": "3_1907470684152016898"
+          }
+        }
+      },
+      {
+        "display_url": "pic.x.com/zJlQHcXM1B",
+        "expanded_url": "https://x.com/StandUptoWoke/status/1907470687503311286/photo/1",
+        "id_str": "1907470683187326983",
+        "indices": [
+          287,
+          310
+        ],
+        "media_key": "3_1907470683187326983",
+        "media_url_https": "https://pbs.twimg.com/media/GniyeuraMAcp-4j.jpg",
+        "type": "photo",
+        "url": "https://t.co/zJlQHcXM1B",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "x": 98,
+                "y": 320,
+                "h": 82,
+                "w": 82
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "x": 98,
+                "y": 320,
+                "h": 82,
+                "w": 82
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "x": 98,
+                "y": 320,
+                "h": 82,
+                "w": 82
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "x": 98,
+                "y": 320,
+                "h": 82,
+                "w": 82
+              }
+            ]
+          }
+        },
+        "sizes": {
+          "large": {
+            "h": 434,
+            "w": 679,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 434,
+            "w": 679,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 434,
+            "w": 679,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 434,
+          "width": 679,
+          "focus_rects": [
+            {
+              "x": 0,
+              "y": 0,
+              "w": 679,
+              "h": 380
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 434,
+              "h": 434
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 381,
+              "h": 434
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 217,
+              "h": 434
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 679,
+              "h": 434
+            }
+          ]
+        },
+        "media_results": {
+          "result": {
+            "media_key": "3_1907470683187326983"
+          }
+        }
+      }
+    ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [],
+    "media": [
+      {
+        "display_url": "pic.x.com/zJlQHcXM1B",
+        "expanded_url": "https://x.com/StandUptoWoke/status/1907470687503311286/photo/1",
+        "id_str": "1907470684152016898",
+        "indices": [
+          287,
+          310
+        ],
+        "media_key": "3_1907470684152016898",
+        "media_url_https": "https://pbs.twimg.com/media/GniyeyRaMAIlfoh.jpg",
+        "type": "photo",
+        "url": "https://t.co/zJlQHcXM1B",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": []
+          },
+          "medium": {
+            "faces": []
+          },
+          "small": {
+            "faces": []
+          },
+          "orig": {
+            "faces": []
+          }
+        },
+        "sizes": {
+          "large": {
+            "h": 1255,
+            "w": 1347,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 1118,
+            "w": 1200,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 634,
+            "w": 680,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 1255,
+          "width": 1347,
+          "focus_rects": [
+            {
+              "x": 0,
+              "y": 0,
+              "w": 1347,
+              "h": 754
+            },
+            {
+              "x": 46,
+              "y": 0,
+              "w": 1255,
+              "h": 1255
+            },
+            {
+              "x": 123,
+              "y": 0,
+              "w": 1101,
+              "h": 1255
+            },
+            {
+              "x": 359,
+              "y": 0,
+              "w": 628,
+              "h": 1255
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 1347,
+              "h": 1255
+            }
+          ]
+        },
+        "media_results": {
+          "result": {
+            "media_key": "3_1907470684152016898"
+          }
+        }
+      },
+      {
+        "display_url": "pic.x.com/zJlQHcXM1B",
+        "expanded_url": "https://x.com/StandUptoWoke/status/1907470687503311286/photo/1",
+        "id_str": "1907470683187326983",
+        "indices": [
+          287,
+          310
+        ],
+        "media_key": "3_1907470683187326983",
+        "media_url_https": "https://pbs.twimg.com/media/GniyeuraMAcp-4j.jpg",
+        "type": "photo",
+        "url": "https://t.co/zJlQHcXM1B",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "x": 98,
+                "y": 320,
+                "h": 82,
+                "w": 82
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "x": 98,
+                "y": 320,
+                "h": 82,
+                "w": 82
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "x": 98,
+                "y": 320,
+                "h": 82,
+                "w": 82
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "x": 98,
+                "y": 320,
+                "h": 82,
+                "w": 82
+              }
+            ]
+          }
+        },
+        "sizes": {
+          "large": {
+            "h": 434,
+            "w": 679,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 434,
+            "w": 679,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 434,
+            "w": 679,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 434,
+          "width": 679,
+          "focus_rects": [
+            {
+              "x": 0,
+              "y": 0,
+              "w": 679,
+              "h": 380
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 434,
+              "h": 434
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 381,
+              "h": 434
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 217,
+              "h": 434
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 679,
+              "h": 434
+            }
+          ]
+        },
+        "media_results": {
+          "result": {
+            "media_key": "3_1907470683187326983"
+          }
+        }
+      }
+    ],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [
+    "https://pbs.twimg.com/media/GniyeyRaMAIlfoh.jpg",
+    "https://pbs.twimg.com/media/GniyeuraMAcp-4j.jpg"
+  ],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "1901387425126961392",
+  "url": "https://x.com/daisyyy_s/status/1901387425126961392",
+  "twitterUrl": "https://twitter.com/daisyyy_s/status/1901387425126961392",
+  "text": "#adolesence on netflix is so good\nthe acting is so good\nthe story is so good\nthe message is so good\nFAWKKK https://t.co/exA4m6Oc8Z",
+  "fullText": "#adolesence on netflix is so good\nthe acting is so good\nthe story is so good\nthe message is so good\nFAWKKK https://t.co/exA4m6Oc8Z",
+  "source": "Twitter for iPhone",
+  "retweetCount": 2,
+  "replyCount": 0,
+  "likeCount": 19,
+  "quoteCount": 0,
+  "viewCount": 3306,
+  "createdAt": "Sun Mar 16 21:37:42 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "conversationId": "1901387425126961392",
+  "possiblySensitive": false,
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "daisyyy_s",
+    "url": "https://x.com/daisyyy_s",
+    "twitterUrl": "https://twitter.com/daisyyy_s",
+    "id": "1096949301975097344",
+    "name": "Daisyyyy🇳🇬",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1884321278233829377/J-7Gn11H_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1096949301975097344/1741922259",
+    "description": "DYKE 🫡 IWTV ENTHUSIAST #LOUSTAT #CLAUDELINE https://t.co/BCGtjpNA19",
+    "location": "",
+    "followers": 141,
+    "following": 228,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Sun Feb 17 01:47:48 +0000 2019",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "linktr.ee/daisyy._.s?utm…",
+            "expanded_url": "https://linktr.ee/daisyy._.s?utm_source=linktree_profile_share&ltsid=e458ce43-a4f8-4fed-ac53-373e696fd145",
+            "url": "https://t.co/BCGtjpNA19",
+            "indices": [
+              44,
+              67
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 52273,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 1059,
+    "statusesCount": 21000,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1871682104406524164"
+    ]
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "display_url": "pic.x.com/exA4m6Oc8Z",
+        "expanded_url": "https://x.com/daisyyy_s/status/1901387425126961392/photo/1",
+        "id_str": "1901387419015897088",
+        "indices": [
+          107,
+          130
+        ],
+        "media_key": "16_1901387419015897088",
+        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/GmMVyJrW4AAromX.jpg",
+        "type": "animated_gif",
+        "url": "https://t.co/exA4m6Oc8Z",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "sizes": {
+          "large": {
+            "h": 318,
+            "w": 220,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 318,
+            "w": 220,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 318,
+            "w": 220,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 318,
+          "width": 220,
+          "focus_rects": []
+        },
+        "video_info": {
+          "aspect_ratio": [
+            110,
+            159
+          ],
+          "variants": [
+            {
+              "bitrate": 0,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/tweet_video/GmMVyJrW4AAromX.mp4"
+            }
+          ]
+        },
+        "media_results": {
+          "result": {
+            "media_key": "16_1901387419015897088"
+          }
+        }
+      }
+    ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          0,
+          11
+        ],
+        "text": "adolesence"
+      }
+    ],
+    "media": [
+      {
+        "display_url": "pic.x.com/exA4m6Oc8Z",
+        "expanded_url": "https://x.com/daisyyy_s/status/1901387425126961392/photo/1",
+        "id_str": "1901387419015897088",
+        "indices": [
+          107,
+          130
+        ],
+        "media_key": "16_1901387419015897088",
+        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/GmMVyJrW4AAromX.jpg",
+        "type": "animated_gif",
+        "url": "https://t.co/exA4m6Oc8Z",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "sizes": {
+          "large": {
+            "h": 318,
+            "w": 220,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 318,
+            "w": 220,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 318,
+            "w": 220,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 318,
+          "width": 220,
+          "focus_rects": []
+        },
+        "video_info": {
+          "aspect_ratio": [
+            110,
+            159
+          ],
+          "variants": [
+            {
+              "bitrate": 0,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/tweet_video/GmMVyJrW4AAromX.mp4"
+            }
+          ]
+        },
+        "media_results": {
+          "result": {
+            "media_key": "16_1901387419015897088"
+          }
+        }
+      }
+    ],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [
+    "https://pbs.twimg.com/tweet_video_thumb/GmMVyJrW4AAromX.jpg"
+  ],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "1913598379570983060",
+  "url": "https://x.com/i_bonil/status/1913598379570983060",
+  "twitterUrl": "https://twitter.com/i_bonil/status/1913598379570983060",
+  "text": "I'm crazy about episode 3 of \"Adolescence\" (on Netflix), a master class on how to combat deep-rooted machismo: confident, analytical, and questioning. How painful it is when brutality penetrates a child, to face a stunted tenderness. https://t.co/YAjdCf7MqD",
+  "fullText": "I'm crazy about episode 3 of \"Adolescence\" (on Netflix), a master class on how to combat deep-rooted machismo: confident, analytical, and questioning. How painful it is when brutality penetrates a child, to face a stunted tenderness. https://t.co/YAjdCf7MqD",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 1,
+  "quoteCount": 0,
+  "viewCount": 298,
+  "createdAt": "Sat Apr 19 14:19:41 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "conversationId": "1913598379570983060",
+  "possiblySensitive": false,
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "i_bonil",
+    "url": "https://x.com/i_bonil",
+    "twitterUrl": "https://twitter.com/i_bonil",
+    "id": "796547636765618176",
+    "name": "ًًً",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1913612601155567618/hkqOWjpW_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/796547636765618176/1727867634",
+    "description": "",
+    "location": "",
+    "followers": 924,
+    "following": 494,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Thu Nov 10 02:58:50 +0000 2016",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 255,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "mediaCount": 100,
+    "statusesCount": 1766,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1845130056194195585"
+    ]
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "display_url": "pic.x.com/YAjdCf7MqD",
+        "expanded_url": "https://x.com/i_bonil/status/1913598379570983060/photo/1",
+        "id_str": "1913598373799608320",
+        "indices": [
+          234,
+          257
+        ],
+        "media_key": "3_1913598373799608320",
+        "media_url_https": "https://pbs.twimg.com/media/Go53lREXQAA4Jkq.jpg",
+        "type": "photo",
+        "url": "https://t.co/YAjdCf7MqD",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": []
+          },
+          "medium": {
+            "faces": []
+          },
+          "small": {
+            "faces": []
+          },
+          "orig": {
+            "faces": []
+          }
+        },
+        "sizes": {
+          "large": {
+            "h": 345,
+            "w": 614,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 345,
+            "w": 614,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 345,
+            "w": 614,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 345,
+          "width": 614,
+          "focus_rects": [
+            {
+              "x": 0,
+              "y": 1,
+              "w": 614,
+              "h": 344
+            },
+            {
+              "x": 269,
+              "y": 0,
+              "w": 345,
+              "h": 345
+            },
+            {
+              "x": 293,
+              "y": 0,
+              "w": 303,
+              "h": 345
+            },
+            {
+              "x": 358,
+              "y": 0,
+              "w": 173,
+              "h": 345
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 614,
+              "h": 345
+            }
+          ]
+        },
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "media_results": {
+          "result": {
+            "media_key": "3_1913598373799608320"
+          }
+        }
+      }
+    ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [],
+    "media": [
+      {
+        "display_url": "pic.x.com/YAjdCf7MqD",
+        "expanded_url": "https://x.com/i_bonil/status/1913598379570983060/photo/1",
+        "id_str": "1913598373799608320",
+        "indices": [
+          234,
+          257
+        ],
+        "media_key": "3_1913598373799608320",
+        "media_url_https": "https://pbs.twimg.com/media/Go53lREXQAA4Jkq.jpg",
+        "type": "photo",
+        "url": "https://t.co/YAjdCf7MqD",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": []
+          },
+          "medium": {
+            "faces": []
+          },
+          "small": {
+            "faces": []
+          },
+          "orig": {
+            "faces": []
+          }
+        },
+        "sizes": {
+          "large": {
+            "h": 345,
+            "w": 614,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 345,
+            "w": 614,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 345,
+            "w": 614,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 345,
+          "width": 614,
+          "focus_rects": [
+            {
+              "x": 0,
+              "y": 1,
+              "w": 614,
+              "h": 344
+            },
+            {
+              "x": 269,
+              "y": 0,
+              "w": 345,
+              "h": 345
+            },
+            {
+              "x": 293,
+              "y": 0,
+              "w": 303,
+              "h": 345
+            },
+            {
+              "x": 358,
+              "y": 0,
+              "w": 173,
+              "h": 345
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 614,
+              "h": 345
+            }
+          ]
+        },
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "media_results": {
+          "result": {
+            "media_key": "3_1913598373799608320"
+          }
+        }
+      }
+    ],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [
+    "https://pbs.twimg.com/media/Go53lREXQAA4Jkq.jpg"
+  ],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "1901461592648126638",
+  "url": "https://x.com/ivieani/status/1901461592648126638",
+  "twitterUrl": "https://twitter.com/ivieani/status/1901461592648126638",
+  "text": "Highly recommend watching Adolescence on Netflix. It does an excellent job of laying out how kids are being affected by incel culture online. Impeccable acting, writing, and cinematography. And the fact that it’s shot in one long continuous take. Brilliant show",
+  "fullText": "Highly recommend watching Adolescence on Netflix. It does an excellent job of laying out how kids are being affected by incel culture online. Impeccable acting, writing, and cinematography. And the fact that it’s shot in one long continuous take. Brilliant show",
+  "source": "Twitter for iPhone",
+  "retweetCount": 6843,
+  "replyCount": 147,
+  "likeCount": 69126,
+  "quoteCount": 271,
+  "viewCount": 4498757,
+  "createdAt": "Mon Mar 17 02:32:25 +0000 2025",
+  "lang": "en",
+  "quoteId": "1900574521578393641",
+  "bookmarkCount": 18063,
+  "isReply": false,
+  "conversationId": "1901461592648126638",
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "ivieani",
+    "url": "https://x.com/ivieani",
+    "twitterUrl": "https://twitter.com/ivieani",
+    "id": "2159700978",
+    "name": "Ivie Ani",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1852561102791487488/QytRKGmV_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/2159700978/1615783249",
+    "description": "Award-winning culture journalist. Writer. Editor. Host. NYU Alumna. Naija • Newsletter: https://t.co/jLvbO2CLon • Booking: info@ivieani.com • IG: ivie.ani",
+    "location": "Bronx, NY ",
+    "followers": 35375,
+    "following": 1806,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sun Oct 27 21:58:13 +0000 2013",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "infulleffect.substack.com",
+            "expanded_url": "http://infulleffect.substack.com",
+            "url": "https://t.co/jLvbO2CLon",
+            "indices": [
+              88,
+              111
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "ivieani.com",
+            "expanded_url": "http://ivieani.com",
+            "url": "https://t.co/ByVpPCR4hU",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 20995,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 2338,
+    "statusesCount": 58440,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1810780667283980583"
+    ]
+  },
+  "extendedEntities": {},
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": true,
+  "quote": {
+    "type": "tweet",
+    "id": "1900574521578393641",
+    "text": "Will need 3-5 business days to recover from #Adolescence. https://t.co/Hb0a9sBTN4",
+    "source": "Netflix",
+    "retweetCount": 1472,
+    "replyCount": 240,
+    "likeCount": 9121,
+    "quoteCount": 1076,
+    "viewCount": 5540732,
+    "createdAt": "Fri Mar 14 15:47:31 +0000 2025",
+    "lang": "en",
+    "bookmarkCount": 1083,
+    "possiblySensitive": false,
+    "isPinned": false,
+    "author": {
+      "type": "user",
+      "userName": "NetflixUK",
+      "url": "https://x.com/NetflixUK",
+      "twitterUrl": "https://twitter.com/NetflixUK",
+      "id": "231183280",
+      "name": "Netflix UK & Ireland",
+      "isVerified": false,
+      "verifiedType": "Business",
+      "isBlueVerified": true,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1885000307316310019/FWwmPD5i_normal.jpg",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/231183280/1744268418",
+      "description": "New realities, loaded. ▓▓▓▓▓▓▓▓▓▓ 100%",
+      "location": "UK & Ireland",
+      "followers": 1052341,
+      "following": 1712,
+      "status": "",
+      "canDm": false,
+      "canMediaTag": true,
+      "createdAt": "Mon Dec 27 20:54:09 +0000 2010",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "netflix.com",
+              "expanded_url": "http://netflix.com",
+              "url": "https://t.co/mLRU3ay0w1",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        }
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 11186,
+      "hasCustomTimelines": true,
+      "isTranslator": false,
+      "mediaCount": 12934,
+      "statusesCount": 58646,
+      "withheldInCountries": [],
+      "affiliatesHighlightedLabel": {
+        "label": {
+          "url": {
+            "url": "https://twitter.com/netflix",
+            "urlType": "DeepLink"
+          },
+          "badge": {
+            "url": "https://pbs.twimg.com/profile_images/1872671711700582400/6WLZxYpq_bigger.jpg"
+          },
+          "description": "Netflix",
+          "userLabelType": "BusinessLabel",
+          "userLabelDisplayType": "Badge"
+        }
+      },
+      "possiblySensitive": false,
+      "pinnedTweetIds": []
+    },
+    "extendedEntities": {
+      "media": [
+        {
+          "display_url": "pic.x.com/Hb0a9sBTN4",
+          "expanded_url": "https://x.com/NetflixUK/status/1900574521578393641/photo/1",
+          "id_str": "1900573881066283008",
+          "indices": [
+            58,
+            81
+          ],
+          "media_key": "3_1900573881066283008",
+          "media_url_https": "https://pbs.twimg.com/media/GmAx4ApXYAA_C6G.jpg",
+          "type": "photo",
+          "url": "https://t.co/Hb0a9sBTN4",
+          "ext_media_availability": {
+            "status": "Available"
+          },
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "x": 691,
+                  "y": 65,
+                  "h": 682,
+                  "w": 682
+                }
+              ]
+            },
+            "medium": {
+              "faces": [
+                {
+                  "x": 431,
+                  "y": 40,
+                  "h": 426,
+                  "w": 426
+                }
+              ]
+            },
+            "small": {
+              "faces": [
+                {
+                  "x": 244,
+                  "y": 23,
+                  "h": 241,
+                  "w": 241
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "x": 691,
+                  "y": 65,
+                  "h": 682,
+                  "w": 682
+                }
+              ]
+            }
+          },
+          "sizes": {
+            "large": {
+              "h": 1080,
+              "w": 1920,
+              "resize": "fit"
+            },
+            "medium": {
+              "h": 675,
+              "w": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 383,
+              "w": 680,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "original_info": {
+            "height": 1080,
+            "width": 1920,
+            "focus_rects": [
+              {
+                "x": 0,
+                "y": 0,
+                "w": 1920,
+                "h": 1075
+              },
+              {
+                "x": 564,
+                "y": 0,
+                "w": 1080,
+                "h": 1080
+              },
+              {
+                "x": 631,
+                "y": 0,
+                "w": 947,
+                "h": 1080
+              },
+              {
+                "x": 834,
+                "y": 0,
+                "w": 540,
+                "h": 1080
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "w": 1920,
+                "h": 1080
+              }
+            ]
+          },
+          "media_results": {
+            "result": {
+              "media_key": "3_1900573881066283008"
+            }
+          }
+        },
+        {
+          "display_url": "pic.x.com/Hb0a9sBTN4",
+          "expanded_url": "https://x.com/NetflixUK/status/1900574521578393641/photo/1",
+          "id_str": "1900573886422355968",
+          "indices": [
+            58,
+            81
+          ],
+          "media_key": "3_1900573886422355968",
+          "media_url_https": "https://pbs.twimg.com/media/GmAx4UmWkAAOoWw.jpg",
+          "type": "photo",
+          "url": "https://t.co/Hb0a9sBTN4",
+          "ext_media_availability": {
+            "status": "Available"
+          },
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "x": 873,
+                  "y": 298,
+                  "h": 165,
+                  "w": 165
+                }
+              ]
+            },
+            "medium": {
+              "faces": [
+                {
+                  "x": 545,
+                  "y": 186,
+                  "h": 103,
+                  "w": 103
+                }
+              ]
+            },
+            "small": {
+              "faces": [
+                {
+                  "x": 309,
+                  "y": 105,
+                  "h": 58,
+                  "w": 58
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "x": 873,
+                  "y": 298,
+                  "h": 165,
+                  "w": 165
+                }
+              ]
+            }
+          },
+          "sizes": {
+            "large": {
+              "h": 1080,
+              "w": 1920,
+              "resize": "fit"
+            },
+            "medium": {
+              "h": 675,
+              "w": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 383,
+              "w": 680,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "original_info": {
+            "height": 1080,
+            "width": 1920,
+            "focus_rects": [
+              {
+                "x": 0,
+                "y": 0,
+                "w": 1920,
+                "h": 1075
+              },
+              {
+                "x": 372,
+                "y": 0,
+                "w": 1080,
+                "h": 1080
+              },
+              {
+                "x": 439,
+                "y": 0,
+                "w": 947,
+                "h": 1080
+              },
+              {
+                "x": 642,
+                "y": 0,
+                "w": 540,
+                "h": 1080
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "w": 1920,
+                "h": 1080
+              }
+            ]
+          },
+          "media_results": {
+            "result": {
+              "media_key": "3_1900573886422355968"
+            }
+          }
+        },
+        {
+          "display_url": "pic.x.com/Hb0a9sBTN4",
+          "expanded_url": "https://x.com/NetflixUK/status/1900574521578393641/photo/1",
+          "id_str": "1900573892428640256",
+          "indices": [
+            58,
+            81
+          ],
+          "media_key": "3_1900573892428640256",
+          "media_url_https": "https://pbs.twimg.com/media/GmAx4q-XMAAbTQ4.jpg",
+          "type": "photo",
+          "url": "https://t.co/Hb0a9sBTN4",
+          "ext_media_availability": {
+            "status": "Available"
+          },
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "x": 862,
+                  "y": 97,
+                  "h": 436,
+                  "w": 436
+                }
+              ]
+            },
+            "medium": {
+              "faces": [
+                {
+                  "x": 538,
+                  "y": 60,
+                  "h": 272,
+                  "w": 272
+                }
+              ]
+            },
+            "small": {
+              "faces": [
+                {
+                  "x": 305,
+                  "y": 34,
+                  "h": 154,
+                  "w": 154
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "x": 862,
+                  "y": 97,
+                  "h": 436,
+                  "w": 436
+                }
+              ]
+            }
+          },
+          "sizes": {
+            "large": {
+              "h": 1080,
+              "w": 1920,
+              "resize": "fit"
+            },
+            "medium": {
+              "h": 675,
+              "w": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 383,
+              "w": 680,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "original_info": {
+            "height": 1080,
+            "width": 1920,
+            "focus_rects": [
+              {
+                "x": 0,
+                "y": 0,
+                "w": 1920,
+                "h": 1075
+              },
+              {
+                "x": 564,
+                "y": 0,
+                "w": 1080,
+                "h": 1080
+              },
+              {
+                "x": 631,
+                "y": 0,
+                "w": 947,
+                "h": 1080
+              },
+              {
+                "x": 834,
+                "y": 0,
+                "w": 540,
+                "h": 1080
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "w": 1920,
+                "h": 1080
+              }
+            ]
+          },
+          "media_results": {
+            "result": {
+              "media_key": "3_1900573892428640256"
+            }
+          }
+        },
+        {
+          "display_url": "pic.x.com/Hb0a9sBTN4",
+          "expanded_url": "https://x.com/NetflixUK/status/1900574521578393641/photo/1",
+          "id_str": "1900573905225445377",
+          "indices": [
+            58,
+            81
+          ],
+          "media_key": "3_1900573905225445377",
+          "media_url_https": "https://pbs.twimg.com/media/GmAx5apW8AE-5N_.jpg",
+          "type": "photo",
+          "url": "https://t.co/Hb0a9sBTN4",
+          "ext_media_availability": {
+            "status": "Available"
+          },
+          "features": {
+            "large": {
+              "faces": []
+            },
+            "medium": {
+              "faces": []
+            },
+            "small": {
+              "faces": []
+            },
+            "orig": {
+              "faces": []
+            }
+          },
+          "sizes": {
+            "large": {
+              "h": 1080,
+              "w": 1920,
+              "resize": "fit"
+            },
+            "medium": {
+              "h": 675,
+              "w": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 383,
+              "w": 680,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "original_info": {
+            "height": 1080,
+            "width": 1920,
+            "focus_rects": [
+              {
+                "x": 0,
+                "y": 0,
+                "w": 1920,
+                "h": 1075
+              },
+              {
+                "x": 660,
+                "y": 0,
+                "w": 1080,
+                "h": 1080
+              },
+              {
+                "x": 727,
+                "y": 0,
+                "w": 947,
+                "h": 1080
+              },
+              {
+                "x": 930,
+                "y": 0,
+                "w": 540,
+                "h": 1080
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "w": 1920,
+                "h": 1080
+              }
+            ]
+          },
+          "media_results": {
+            "result": {
+              "media_key": "3_1900573905225445377"
+            }
+          }
+        }
+      ]
+    },
+    "card": {},
+    "place": {},
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            44,
+            56
+          ],
+          "text": "Adolescence"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.x.com/Hb0a9sBTN4",
+          "expanded_url": "https://x.com/NetflixUK/status/1900574521578393641/photo/1",
+          "id_str": "1900573881066283008",
+          "indices": [
+            58,
+            81
+          ],
+          "media_key": "3_1900573881066283008",
+          "media_url_https": "https://pbs.twimg.com/media/GmAx4ApXYAA_C6G.jpg",
+          "type": "photo",
+          "url": "https://t.co/Hb0a9sBTN4",
+          "ext_media_availability": {
+            "status": "Available"
+          },
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "x": 691,
+                  "y": 65,
+                  "h": 682,
+                  "w": 682
+                }
+              ]
+            },
+            "medium": {
+              "faces": [
+                {
+                  "x": 431,
+                  "y": 40,
+                  "h": 426,
+                  "w": 426
+                }
+              ]
+            },
+            "small": {
+              "faces": [
+                {
+                  "x": 244,
+                  "y": 23,
+                  "h": 241,
+                  "w": 241
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "x": 691,
+                  "y": 65,
+                  "h": 682,
+                  "w": 682
+                }
+              ]
+            }
+          },
+          "sizes": {
+            "large": {
+              "h": 1080,
+              "w": 1920,
+              "resize": "fit"
+            },
+            "medium": {
+              "h": 675,
+              "w": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 383,
+              "w": 680,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "original_info": {
+            "height": 1080,
+            "width": 1920,
+            "focus_rects": [
+              {
+                "x": 0,
+                "y": 0,
+                "w": 1920,
+                "h": 1075
+              },
+              {
+                "x": 564,
+                "y": 0,
+                "w": 1080,
+                "h": 1080
+              },
+              {
+                "x": 631,
+                "y": 0,
+                "w": 947,
+                "h": 1080
+              },
+              {
+                "x": 834,
+                "y": 0,
+                "w": 540,
+                "h": 1080
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "w": 1920,
+                "h": 1080
+              }
+            ]
+          },
+          "media_results": {
+            "result": {
+              "media_key": "3_1900573881066283008"
+            }
+          }
+        },
+        {
+          "display_url": "pic.x.com/Hb0a9sBTN4",
+          "expanded_url": "https://x.com/NetflixUK/status/1900574521578393641/photo/1",
+          "id_str": "1900573886422355968",
+          "indices": [
+            58,
+            81
+          ],
+          "media_key": "3_1900573886422355968",
+          "media_url_https": "https://pbs.twimg.com/media/GmAx4UmWkAAOoWw.jpg",
+          "type": "photo",
+          "url": "https://t.co/Hb0a9sBTN4",
+          "ext_media_availability": {
+            "status": "Available"
+          },
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "x": 873,
+                  "y": 298,
+                  "h": 165,
+                  "w": 165
+                }
+              ]
+            },
+            "medium": {
+              "faces": [
+                {
+                  "x": 545,
+                  "y": 186,
+                  "h": 103,
+                  "w": 103
+                }
+              ]
+            },
+            "small": {
+              "faces": [
+                {
+                  "x": 309,
+                  "y": 105,
+                  "h": 58,
+                  "w": 58
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "x": 873,
+                  "y": 298,
+                  "h": 165,
+                  "w": 165
+                }
+              ]
+            }
+          },
+          "sizes": {
+            "large": {
+              "h": 1080,
+              "w": 1920,
+              "resize": "fit"
+            },
+            "medium": {
+              "h": 675,
+              "w": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 383,
+              "w": 680,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "original_info": {
+            "height": 1080,
+            "width": 1920,
+            "focus_rects": [
+              {
+                "x": 0,
+                "y": 0,
+                "w": 1920,
+                "h": 1075
+              },
+              {
+                "x": 372,
+                "y": 0,
+                "w": 1080,
+                "h": 1080
+              },
+              {
+                "x": 439,
+                "y": 0,
+                "w": 947,
+                "h": 1080
+              },
+              {
+                "x": 642,
+                "y": 0,
+                "w": 540,
+                "h": 1080
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "w": 1920,
+                "h": 1080
+              }
+            ]
+          },
+          "media_results": {
+            "result": {
+              "media_key": "3_1900573886422355968"
+            }
+          }
+        },
+        {
+          "display_url": "pic.x.com/Hb0a9sBTN4",
+          "expanded_url": "https://x.com/NetflixUK/status/1900574521578393641/photo/1",
+          "id_str": "1900573892428640256",
+          "indices": [
+            58,
+            81
+          ],
+          "media_key": "3_1900573892428640256",
+          "media_url_https": "https://pbs.twimg.com/media/GmAx4q-XMAAbTQ4.jpg",
+          "type": "photo",
+          "url": "https://t.co/Hb0a9sBTN4",
+          "ext_media_availability": {
+            "status": "Available"
+          },
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "x": 862,
+                  "y": 97,
+                  "h": 436,
+                  "w": 436
+                }
+              ]
+            },
+            "medium": {
+              "faces": [
+                {
+                  "x": 538,
+                  "y": 60,
+                  "h": 272,
+                  "w": 272
+                }
+              ]
+            },
+            "small": {
+              "faces": [
+                {
+                  "x": 305,
+                  "y": 34,
+                  "h": 154,
+                  "w": 154
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "x": 862,
+                  "y": 97,
+                  "h": 436,
+                  "w": 436
+                }
+              ]
+            }
+          },
+          "sizes": {
+            "large": {
+              "h": 1080,
+              "w": 1920,
+              "resize": "fit"
+            },
+            "medium": {
+              "h": 675,
+              "w": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 383,
+              "w": 680,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "original_info": {
+            "height": 1080,
+            "width": 1920,
+            "focus_rects": [
+              {
+                "x": 0,
+                "y": 0,
+                "w": 1920,
+                "h": 1075
+              },
+              {
+                "x": 564,
+                "y": 0,
+                "w": 1080,
+                "h": 1080
+              },
+              {
+                "x": 631,
+                "y": 0,
+                "w": 947,
+                "h": 1080
+              },
+              {
+                "x": 834,
+                "y": 0,
+                "w": 540,
+                "h": 1080
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "w": 1920,
+                "h": 1080
+              }
+            ]
+          },
+          "media_results": {
+            "result": {
+              "media_key": "3_1900573892428640256"
+            }
+          }
+        },
+        {
+          "display_url": "pic.x.com/Hb0a9sBTN4",
+          "expanded_url": "https://x.com/NetflixUK/status/1900574521578393641/photo/1",
+          "id_str": "1900573905225445377",
+          "indices": [
+            58,
+            81
+          ],
+          "media_key": "3_1900573905225445377",
+          "media_url_https": "https://pbs.twimg.com/media/GmAx5apW8AE-5N_.jpg",
+          "type": "photo",
+          "url": "https://t.co/Hb0a9sBTN4",
+          "ext_media_availability": {
+            "status": "Available"
+          },
+          "features": {
+            "large": {
+              "faces": []
+            },
+            "medium": {
+              "faces": []
+            },
+            "small": {
+              "faces": []
+            },
+            "orig": {
+              "faces": []
+            }
+          },
+          "sizes": {
+            "large": {
+              "h": 1080,
+              "w": 1920,
+              "resize": "fit"
+            },
+            "medium": {
+              "h": 675,
+              "w": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 383,
+              "w": 680,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "original_info": {
+            "height": 1080,
+            "width": 1920,
+            "focus_rects": [
+              {
+                "x": 0,
+                "y": 0,
+                "w": 1920,
+                "h": 1075
+              },
+              {
+                "x": 660,
+                "y": 0,
+                "w": 1080,
+                "h": 1080
+              },
+              {
+                "x": 727,
+                "y": 0,
+                "w": 947,
+                "h": 1080
+              },
+              {
+                "x": 930,
+                "y": 0,
+                "w": 540,
+                "h": 1080
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "w": 1920,
+                "h": 1080
+              }
+            ]
+          },
+          "media_results": {
+            "result": {
+              "media_key": "3_1900573905225445377"
+            }
+          }
+        }
+      ],
+      "symbols": [],
+      "timestamps": [],
+      "urls": [],
+      "user_mentions": []
+    }
+  },
+  "media": [],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "1903969081440784757",
+  "url": "https://x.com/kanrike/status/1903969081440784757",
+  "twitterUrl": "https://twitter.com/kanrike/status/1903969081440784757",
+  "text": "Btw. Watch Adolesence on Netflix if you havent yet https://t.co/IcUjyjBRU7",
+  "fullText": "Btw. Watch Adolesence on Netflix if you havent yet https://t.co/IcUjyjBRU7",
+  "source": "Twitter for Android",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 1,
+  "quoteCount": 0,
+  "viewCount": 219,
+  "createdAt": "Mon Mar 24 00:36:17 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "conversationId": "1903969081440784757",
+  "possiblySensitive": false,
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "kanrike",
+    "url": "https://x.com/kanrike",
+    "twitterUrl": "https://twitter.com/kanrike",
+    "id": "271952650",
+    "name": "Kanrike",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1902558655138136064/gojqkaTC_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/271952650/1737477121",
+    "description": "mamu enjoyer",
+    "location": "",
+    "followers": 365,
+    "following": 594,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": false,
+    "createdAt": "Fri Mar 25 14:22:56 +0000 2011",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "fb.gg/kanrike",
+            "expanded_url": "http://fb.gg/kanrike",
+            "url": "https://t.co/JROcUC7m5j",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 17859,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 931,
+    "statusesCount": 24364,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1913179161231040932"
+    ]
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "display_url": "pic.x.com/IcUjyjBRU7",
+        "expanded_url": "https://x.com/kanrike/status/1903969081440784757/photo/1",
+        "id_str": "1903969071592599552",
+        "indices": [
+          51,
+          74
+        ],
+        "media_key": "16_1903969071592599552",
+        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/GmxByG-bcAA27mo.jpg",
+        "type": "animated_gif",
+        "url": "https://t.co/IcUjyjBRU7",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "sizes": {
+          "large": {
+            "h": 498,
+            "w": 496,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 498,
+            "w": 496,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 498,
+            "w": 496,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 498,
+          "width": 496,
+          "focus_rects": []
+        },
+        "video_info": {
+          "aspect_ratio": [
+            248,
+            249
+          ],
+          "variants": [
+            {
+              "bitrate": 0,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/tweet_video/GmxByG-bcAA27mo.mp4"
+            }
+          ]
+        },
+        "media_results": {
+          "result": {
+            "media_key": "16_1903969071592599552"
+          }
+        }
+      }
+    ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [],
+    "media": [
+      {
+        "display_url": "pic.x.com/IcUjyjBRU7",
+        "expanded_url": "https://x.com/kanrike/status/1903969081440784757/photo/1",
+        "id_str": "1903969071592599552",
+        "indices": [
+          51,
+          74
+        ],
+        "media_key": "16_1903969071592599552",
+        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/GmxByG-bcAA27mo.jpg",
+        "type": "animated_gif",
+        "url": "https://t.co/IcUjyjBRU7",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "sizes": {
+          "large": {
+            "h": 498,
+            "w": 496,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 498,
+            "w": 496,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 498,
+            "w": 496,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 498,
+          "width": 496,
+          "focus_rects": []
+        },
+        "video_info": {
+          "aspect_ratio": [
+            248,
+            249
+          ],
+          "variants": [
+            {
+              "bitrate": 0,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/tweet_video/GmxByG-bcAA27mo.mp4"
+            }
+          ]
+        },
+        "media_results": {
+          "result": {
+            "media_key": "16_1903969071592599552"
+          }
+        }
+      }
+    ],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [
+    "https://pbs.twimg.com/tweet_video_thumb/GmxByG-bcAA27mo.jpg"
+  ],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "1900715902770770290",
+  "url": "https://x.com/snowyl4ndo/status/1900715902770770290",
+  "twitterUrl": "https://twitter.com/snowyl4ndo/status/1900715902770770290",
+  "text": "adolescence on netflix is fucking brilliant. it really highlights the epidemic of femicide caused by men and boys consuming so much content by andr*w t*te and men like him. how much harm and brainwashing these men do to young boys. this series is so raw and so powerful.",
+  "fullText": "adolescence on netflix is fucking brilliant. it really highlights the epidemic of femicide caused by men and boys consuming so much content by andr*w t*te and men like him. how much harm and brainwashing these men do to young boys. this series is so raw and so powerful.",
+  "source": "Twitter for iPhone",
+  "retweetCount": 1009,
+  "replyCount": 35,
+  "likeCount": 5539,
+  "quoteCount": 25,
+  "viewCount": 250371,
+  "createdAt": "Sat Mar 15 01:09:19 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 324,
+  "isReply": false,
+  "conversationId": "1900715902770770290",
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "snowyl4ndo",
+    "url": "https://x.com/snowyl4ndo",
+    "twitterUrl": "https://twitter.com/snowyl4ndo",
+    "id": "605649925",
+    "name": "alisha⁴ | ‎أليشا",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1901171985654185984/ygtQ-gqv_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/605649925/1744725826",
+    "description": "♡ lando norris is my #1 ♡ SILVERSTONE LANDOSTAND 2025 ♡ LN1 ♡",
+    "location": "25 • uk • she/they • autistic",
+    "followers": 1258,
+    "following": 1093,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Mon Jun 11 18:41:56 +0000 2012",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 215230,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 3689,
+    "statusesCount": 69305,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1789111226972189123"
+    ]
+  },
+  "extendedEntities": {},
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "1900213381279195646",
+  "url": "https://x.com/Lou__007/status/1900213381279195646",
+  "twitterUrl": "https://twitter.com/Lou__007/status/1900213381279195646",
+  "text": "#Adolescence on #Netflix.. well done all. Outstanding cast, writing, beautifully shot in real time. Makes it feel real. The veteran cast is on point, but the youngsters steal the show. \nHeartbreakingly sad seeing children living in an adult world. And reflective of today's issues https://t.co/IndfD1VvsJ",
+  "fullText": "#Adolescence on #Netflix.. well done all. Outstanding cast, writing, beautifully shot in real time. Makes it feel real. The veteran cast is on point, but the youngsters steal the show. \nHeartbreakingly sad seeing children living in an adult world. And reflective of today's issues https://t.co/IndfD1VvsJ",
+  "source": "Twitter for Android",
+  "retweetCount": 54,
+  "replyCount": 19,
+  "likeCount": 565,
+  "quoteCount": 4,
+  "viewCount": 109813,
+  "createdAt": "Thu Mar 13 15:52:29 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 16,
+  "isReply": false,
+  "conversationId": "1900213381279195646",
+  "possiblySensitive": false,
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "Lou__007",
+    "url": "https://x.com/Lou__007",
+    "twitterUrl": "https://twitter.com/Lou__007",
+    "id": "872614843",
+    "name": "Louise C.",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1838891321936814080/keU1fTQq_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/872614843/1738964702",
+    "description": "Cornwall, my love, my home 🌊\nTennis #Nolefam 🎾\nHorror #StephenKing 🎈\n#TrueCrime 🧐\n\nDon't let your fears stand in the way of your dreams.",
+    "location": "Cornwall",
+    "followers": 1782,
+    "following": 1060,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": false,
+    "createdAt": "Wed Oct 10 22:36:35 +0000 2012",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 106359,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 4818,
+    "statusesCount": 74926,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1383846351943786504"
+    ]
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "display_url": "pic.x.com/IndfD1VvsJ",
+        "expanded_url": "https://x.com/Lou__007/status/1900213381279195646/photo/1",
+        "id_str": "1900213372785680384",
+        "indices": [
+          281,
+          304
+        ],
+        "media_key": "16_1900213372785680384",
+        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Gl7p_qpWYAArLWV.jpg",
+        "type": "animated_gif",
+        "url": "https://t.co/IndfD1VvsJ",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "sizes": {
+          "large": {
+            "h": 280,
+            "w": 500,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 280,
+            "w": 500,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 280,
+            "w": 500,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 280,
+          "width": 500,
+          "focus_rects": []
+        },
+        "video_info": {
+          "aspect_ratio": [
+            25,
+            14
+          ],
+          "variants": [
+            {
+              "bitrate": 0,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/tweet_video/Gl7p_qpWYAArLWV.mp4"
+            }
+          ]
+        },
+        "media_results": {
+          "result": {
+            "media_key": "16_1900213372785680384"
+          }
+        }
+      }
+    ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          0,
+          12
+        ],
+        "text": "Adolescence"
+      },
+      {
+        "indices": [
+          16,
+          24
+        ],
+        "text": "Netflix"
+      }
+    ],
+    "media": [
+      {
+        "display_url": "pic.x.com/IndfD1VvsJ",
+        "expanded_url": "https://x.com/Lou__007/status/1900213381279195646/photo/1",
+        "id_str": "1900213372785680384",
+        "indices": [
+          281,
+          304
+        ],
+        "media_key": "16_1900213372785680384",
+        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Gl7p_qpWYAArLWV.jpg",
+        "type": "animated_gif",
+        "url": "https://t.co/IndfD1VvsJ",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "sizes": {
+          "large": {
+            "h": 280,
+            "w": 500,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 280,
+            "w": 500,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 280,
+            "w": 500,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 280,
+          "width": 500,
+          "focus_rects": []
+        },
+        "video_info": {
+          "aspect_ratio": [
+            25,
+            14
+          ],
+          "variants": [
+            {
+              "bitrate": 0,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/tweet_video/Gl7p_qpWYAArLWV.mp4"
+            }
+          ]
+        },
+        "media_results": {
+          "result": {
+            "media_key": "16_1900213372785680384"
+          }
+        }
+      }
+    ],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [
+    "https://pbs.twimg.com/tweet_video_thumb/Gl7p_qpWYAArLWV.jpg"
+  ],
+  "isConversationControlled": false
+}]

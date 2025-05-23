@@ -1,0 +1,2040 @@
+[{
+  "type": "tweet",
+  "id": "1911906955314033123",
+  "url": "https://x.com/LatifahLives/status/1911906955314033123",
+  "twitterUrl": "https://twitter.com/LatifahLives/status/1911906955314033123",
+  "text": "Me every episode 🥹🥹\n#loveonthespectrum https://t.co/FaqfbObw2Q",
+  "fullText": "Me every episode 🥹🥹\n#loveonthespectrum https://t.co/FaqfbObw2Q",
+  "source": "Twitter for iPhone",
+  "retweetCount": 29,
+  "replyCount": 0,
+  "likeCount": 106,
+  "quoteCount": 0,
+  "viewCount": 3892,
+  "createdAt": "Mon Apr 14 22:18:34 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 1,
+  "isReply": false,
+  "conversationId": "1911906955314033123",
+  "possiblySensitive": false,
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "LatifahLives",
+    "url": "https://x.com/LatifahLives",
+    "twitterUrl": "https://twitter.com/LatifahLives",
+    "id": "62623292",
+    "name": "Latifah 👑",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1890169822085894144/gfPEp0TN_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/62623292/1739587613",
+    "description": "Fearfully and Wonderfully made 👁🦉 | Professional Thinker 🧠💡",
+    "location": "",
+    "followers": 1185,
+    "following": 827,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": false,
+    "createdAt": "Mon Aug 03 21:12:56 +0000 2009",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 81704,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 1953,
+    "statusesCount": 50415,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1522094991593644034"
+    ]
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "display_url": "pic.x.com/FaqfbObw2Q",
+        "expanded_url": "https://x.com/LatifahLives/status/1911906955314033123/photo/1",
+        "ext_alt_text": "Long Tears GIF",
+        "id_str": "1911906949513273344",
+        "indices": [
+          39,
+          62
+        ],
+        "media_key": "16_1911906949513273344",
+        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Goh1PalW4AAMoyk.jpg",
+        "type": "animated_gif",
+        "url": "https://t.co/FaqfbObw2Q",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "sizes": {
+          "large": {
+            "h": 498,
+            "w": 496,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 498,
+            "w": 496,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 498,
+            "w": 496,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 498,
+          "width": 496,
+          "focus_rects": []
+        },
+        "video_info": {
+          "aspect_ratio": [
+            248,
+            249
+          ],
+          "variants": [
+            {
+              "bitrate": 0,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/tweet_video/Goh1PalW4AAMoyk.mp4"
+            }
+          ]
+        },
+        "media_results": {
+          "result": {
+            "media_key": "16_1911906949513273344"
+          }
+        }
+      }
+    ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          20,
+          38
+        ],
+        "text": "loveonthespectrum"
+      }
+    ],
+    "media": [
+      {
+        "display_url": "pic.x.com/FaqfbObw2Q",
+        "expanded_url": "https://x.com/LatifahLives/status/1911906955314033123/photo/1",
+        "ext_alt_text": "Long Tears GIF",
+        "id_str": "1911906949513273344",
+        "indices": [
+          39,
+          62
+        ],
+        "media_key": "16_1911906949513273344",
+        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Goh1PalW4AAMoyk.jpg",
+        "type": "animated_gif",
+        "url": "https://t.co/FaqfbObw2Q",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "sizes": {
+          "large": {
+            "h": 498,
+            "w": 496,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 498,
+            "w": 496,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 498,
+            "w": 496,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 498,
+          "width": 496,
+          "focus_rects": []
+        },
+        "video_info": {
+          "aspect_ratio": [
+            248,
+            249
+          ],
+          "variants": [
+            {
+              "bitrate": 0,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/tweet_video/Goh1PalW4AAMoyk.mp4"
+            }
+          ]
+        },
+        "media_results": {
+          "result": {
+            "media_key": "16_1911906949513273344"
+          }
+        }
+      }
+    ],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [
+    "https://pbs.twimg.com/tweet_video_thumb/Goh1PalW4AAMoyk.jpg"
+  ],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "1911802601319858303",
+  "url": "https://x.com/Kstrapz2/status/1911802601319858303",
+  "twitterUrl": "https://twitter.com/Kstrapz2/status/1911802601319858303",
+  "text": "Georgie from love on the spectrum is such an angel i actually can’t cope #LoveOnTheSpectrum https://t.co/cSvq5qSggR",
+  "fullText": "Georgie from love on the spectrum is such an angel i actually can’t cope #LoveOnTheSpectrum https://t.co/cSvq5qSggR",
+  "source": "Twitter for iPhone",
+  "retweetCount": 3,
+  "replyCount": 3,
+  "likeCount": 80,
+  "quoteCount": 0,
+  "viewCount": 3564,
+  "createdAt": "Mon Apr 14 15:23:54 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "conversationId": "1911802601319858303",
+  "possiblySensitive": false,
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "Kstrapz2",
+    "url": "https://x.com/Kstrapz2",
+    "twitterUrl": "https://twitter.com/Kstrapz2",
+    "id": "1606445588299513858",
+    "name": "purple princess",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1733560630018195457/iT_yMOGk_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1606445588299513858/1702151642",
+    "description": "Deleted at 1k",
+    "location": "Milton Keynes, England",
+    "followers": 69,
+    "following": 229,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": false,
+    "createdAt": "Sat Dec 24 00:24:19 +0000 2022",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 56794,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 547,
+    "statusesCount": 8609,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1606450139807326208"
+    ]
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "display_url": "pic.x.com/cSvq5qSggR",
+        "expanded_url": "https://x.com/Kstrapz2/status/1911802601319858303/photo/1",
+        "ext_alt_text": "Crying Happy GIF",
+        "id_str": "1911802593791139840",
+        "indices": [
+          92,
+          115
+        ],
+        "media_key": "16_1911802593791139840",
+        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/GogWVHOXYAAhYJt.jpg",
+        "type": "animated_gif",
+        "url": "https://t.co/cSvq5qSggR",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "sizes": {
+          "large": {
+            "h": 382,
+            "w": 498,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 382,
+            "w": 498,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 382,
+            "w": 498,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 382,
+          "width": 498,
+          "focus_rects": []
+        },
+        "video_info": {
+          "aspect_ratio": [
+            249,
+            191
+          ],
+          "variants": [
+            {
+              "bitrate": 0,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/tweet_video/GogWVHOXYAAhYJt.mp4"
+            }
+          ]
+        },
+        "media_results": {
+          "result": {
+            "media_key": "16_1911802593791139840"
+          }
+        }
+      }
+    ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          73,
+          91
+        ],
+        "text": "LoveOnTheSpectrum"
+      }
+    ],
+    "media": [
+      {
+        "display_url": "pic.x.com/cSvq5qSggR",
+        "expanded_url": "https://x.com/Kstrapz2/status/1911802601319858303/photo/1",
+        "ext_alt_text": "Crying Happy GIF",
+        "id_str": "1911802593791139840",
+        "indices": [
+          92,
+          115
+        ],
+        "media_key": "16_1911802593791139840",
+        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/GogWVHOXYAAhYJt.jpg",
+        "type": "animated_gif",
+        "url": "https://t.co/cSvq5qSggR",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "sizes": {
+          "large": {
+            "h": 382,
+            "w": 498,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 382,
+            "w": 498,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 382,
+            "w": 498,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 382,
+          "width": 498,
+          "focus_rects": []
+        },
+        "video_info": {
+          "aspect_ratio": [
+            249,
+            191
+          ],
+          "variants": [
+            {
+              "bitrate": 0,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/tweet_video/GogWVHOXYAAhYJt.mp4"
+            }
+          ]
+        },
+        "media_results": {
+          "result": {
+            "media_key": "16_1911802593791139840"
+          }
+        }
+      }
+    ],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [
+    "https://pbs.twimg.com/tweet_video_thumb/GogWVHOXYAAhYJt.jpg"
+  ],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "1913100373755121980",
+  "url": "https://x.com/MonicaaBogan/status/1913100373755121980",
+  "twitterUrl": "https://twitter.com/MonicaaBogan/status/1913100373755121980",
+  "text": "obsessed w connor he’s so dramatic and funny, I love a sassy diva #LoveOnTheSpectrum https://t.co/C2L7CxrSTm",
+  "fullText": "obsessed w connor he’s so dramatic and funny, I love a sassy diva #LoveOnTheSpectrum https://t.co/C2L7CxrSTm",
+  "source": "Twitter for iPhone",
+  "retweetCount": 2,
+  "replyCount": 0,
+  "likeCount": 54,
+  "quoteCount": 0,
+  "viewCount": 1708,
+  "createdAt": "Fri Apr 18 05:20:47 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 1,
+  "isReply": false,
+  "conversationId": "1913100373755121980",
+  "possiblySensitive": false,
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "MonicaaBogan",
+    "url": "https://x.com/MonicaaBogan",
+    "twitterUrl": "https://twitter.com/MonicaaBogan",
+    "id": "631341299",
+    "name": "strong italian woman",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "profilePicture": "https://pbs.twimg.com/profile_images/877976584749240320/yxbQQOZb_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/631341299/1400729756",
+    "description": "lover of all things movies, music, TV and (pop) culture",
+    "location": "chronically online",
+    "followers": 329,
+    "following": 797,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Mon Jul 09 19:13:49 +0000 2012",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 109469,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 312,
+    "statusesCount": 13267,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "637973749107703808"
+    ]
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "display_url": "pic.x.com/C2L7CxrSTm",
+        "expanded_url": "https://x.com/MonicaaBogan/status/1913100373755121980/photo/1",
+        "ext_alt_text": "Sassy Autism GIF by Jess Stempel",
+        "id_str": "1913100368092794880",
+        "indices": [
+          85,
+          108
+        ],
+        "media_key": "16_1913100368092794880",
+        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/GoyyphPXEAAk-fh.jpg",
+        "type": "animated_gif",
+        "url": "https://t.co/C2L7CxrSTm",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "sizes": {
+          "large": {
+            "h": 364,
+            "w": 480,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 364,
+            "w": 480,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 364,
+            "w": 480,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 364,
+          "width": 480,
+          "focus_rects": []
+        },
+        "video_info": {
+          "aspect_ratio": [
+            120,
+            91
+          ],
+          "variants": [
+            {
+              "bitrate": 0,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/tweet_video/GoyyphPXEAAk-fh.mp4"
+            }
+          ]
+        },
+        "media_results": {
+          "result": {
+            "media_key": "16_1913100368092794880"
+          }
+        }
+      }
+    ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          66,
+          84
+        ],
+        "text": "LoveOnTheSpectrum"
+      }
+    ],
+    "media": [
+      {
+        "display_url": "pic.x.com/C2L7CxrSTm",
+        "expanded_url": "https://x.com/MonicaaBogan/status/1913100373755121980/photo/1",
+        "ext_alt_text": "Sassy Autism GIF by Jess Stempel",
+        "id_str": "1913100368092794880",
+        "indices": [
+          85,
+          108
+        ],
+        "media_key": "16_1913100368092794880",
+        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/GoyyphPXEAAk-fh.jpg",
+        "type": "animated_gif",
+        "url": "https://t.co/C2L7CxrSTm",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "sizes": {
+          "large": {
+            "h": 364,
+            "w": 480,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 364,
+            "w": 480,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 364,
+            "w": 480,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 364,
+          "width": 480,
+          "focus_rects": []
+        },
+        "video_info": {
+          "aspect_ratio": [
+            120,
+            91
+          ],
+          "variants": [
+            {
+              "bitrate": 0,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/tweet_video/GoyyphPXEAAk-fh.mp4"
+            }
+          ]
+        },
+        "media_results": {
+          "result": {
+            "media_key": "16_1913100368092794880"
+          }
+        }
+      }
+    ],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [
+    "https://pbs.twimg.com/tweet_video_thumb/GoyyphPXEAAk-fh.jpg"
+  ],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "1911836682929971700",
+  "url": "https://x.com/whotfisjovana/status/1911836682929971700",
+  "twitterUrl": "https://twitter.com/whotfisjovana/status/1911836682929971700",
+  "text": "His impressions of the guys from Love On The Spectrum are SO spot on it’s INSANE😭 https://t.co/HC8u9vtt8s",
+  "fullText": "His impressions of the guys from Love On The Spectrum are SO spot on it’s INSANE😭 https://t.co/HC8u9vtt8s",
+  "source": "Twitter for iPhone",
+  "retweetCount": 79,
+  "replyCount": 10,
+  "likeCount": 1800,
+  "quoteCount": 22,
+  "viewCount": 18103,
+  "createdAt": "Mon Apr 14 17:39:20 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 535,
+  "isReply": false,
+  "conversationId": "1911836682929971700",
+  "possiblySensitive": false,
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "whotfisjovana",
+    "url": "https://x.com/whotfisjovana",
+    "twitterUrl": "https://twitter.com/whotfisjovana",
+    "id": "1166387941",
+    "name": "The Notorious J.O.V.",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1442270608109232129/NrIOEyYO_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1166387941/1651024615",
+    "description": "20X+ Viral Tweeter, Artist/Musician/Meme Queen/Content Creator/Tarot Reader/Ramen lover 🤎🐈 tips appreciated for coffee ! ☕️💤",
+    "location": "Ms. Worldwide ✈️ She/Her",
+    "followers": 406479,
+    "following": 7567,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Sun Feb 10 16:38:39 +0000 2013",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "linktr.ee/thenotoriousjov",
+            "expanded_url": "https://linktr.ee/thenotoriousjov",
+            "url": "https://t.co/fXs4teKk52",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 144880,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 63653,
+    "statusesCount": 170450,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1860823515060138460"
+    ]
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "display_url": "pic.x.com/HC8u9vtt8s",
+        "expanded_url": "https://x.com/whotfisjovana/status/1911836682929971700/video/1",
+        "id_str": "1911836467384463361",
+        "indices": [
+          82,
+          105
+        ],
+        "media_key": "13_1911836467384463361",
+        "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1911836467384463361/img/8MyYvtiFEEcmJK7v.jpg",
+        "type": "video",
+        "url": "https://t.co/HC8u9vtt8s",
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "sizes": {
+          "large": {
+            "h": 1024,
+            "w": 576,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 1024,
+            "w": 576,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 680,
+            "w": 383,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 1024,
+          "width": 576,
+          "focus_rects": []
+        },
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "video_info": {
+          "aspect_ratio": [
+            9,
+            16
+          ],
+          "duration_millis": 142413,
+          "variants": [
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/amplify_video/1911836467384463361/pl/nPLQMD1i4WIKAbzN.m3u8?tag=16"
+            },
+            {
+              "bitrate": 632000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1911836467384463361/vid/avc1/320x568/YMZ_FEO9Lb726VnW.mp4?tag=16"
+            },
+            {
+              "bitrate": 950000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1911836467384463361/vid/avc1/480x852/kHLgur0ioekbDKsE.mp4?tag=16"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1911836467384463361/vid/avc1/576x1024/RTJhJHCX6J4ZsYvo.mp4?tag=16"
+            }
+          ]
+        },
+        "media_results": {
+          "result": {
+            "media_key": "13_1911836467384463361"
+          }
+        }
+      }
+    ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [],
+    "media": [
+      {
+        "display_url": "pic.x.com/HC8u9vtt8s",
+        "expanded_url": "https://x.com/whotfisjovana/status/1911836682929971700/video/1",
+        "id_str": "1911836467384463361",
+        "indices": [
+          82,
+          105
+        ],
+        "media_key": "13_1911836467384463361",
+        "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1911836467384463361/img/8MyYvtiFEEcmJK7v.jpg",
+        "type": "video",
+        "url": "https://t.co/HC8u9vtt8s",
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "sizes": {
+          "large": {
+            "h": 1024,
+            "w": 576,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 1024,
+            "w": 576,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 680,
+            "w": 383,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 1024,
+          "width": 576,
+          "focus_rects": []
+        },
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "video_info": {
+          "aspect_ratio": [
+            9,
+            16
+          ],
+          "duration_millis": 142413,
+          "variants": [
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/amplify_video/1911836467384463361/pl/nPLQMD1i4WIKAbzN.m3u8?tag=16"
+            },
+            {
+              "bitrate": 632000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1911836467384463361/vid/avc1/320x568/YMZ_FEO9Lb726VnW.mp4?tag=16"
+            },
+            {
+              "bitrate": 950000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1911836467384463361/vid/avc1/480x852/kHLgur0ioekbDKsE.mp4?tag=16"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1911836467384463361/vid/avc1/576x1024/RTJhJHCX6J4ZsYvo.mp4?tag=16"
+            }
+          ]
+        },
+        "media_results": {
+          "result": {
+            "media_key": "13_1911836467384463361"
+          }
+        }
+      }
+    ],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [
+    "https://pbs.twimg.com/amplify_video_thumb/1911836467384463361/img/8MyYvtiFEEcmJK7v.jpg"
+  ],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "1908560032343470142",
+  "url": "https://x.com/kniivesz/status/1908560032343470142",
+  "twitterUrl": "https://twitter.com/kniivesz/status/1908560032343470142",
+  "text": "love on the spectrum is so peak cuz what do u mean this guy got her an american girls doll on the second date cuz she collects them and what do u mean this girl didnt eat gluten all day in case her date who has celiac disease wanted to kiss",
+  "fullText": "love on the spectrum is so peak cuz what do u mean this guy got her an american girls doll on the second date cuz she collects them and what do u mean this girl didnt eat gluten all day in case her date who has celiac disease wanted to kiss",
+  "source": "Twitter for iPhone",
+  "retweetCount": 9173,
+  "replyCount": 167,
+  "likeCount": 178937,
+  "quoteCount": 847,
+  "viewCount": 2883403,
+  "createdAt": "Sat Apr 05 16:39:05 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 8067,
+  "isReply": false,
+  "conversationId": "1908560032343470142",
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "kniivesz",
+    "url": "https://x.com/kniivesz",
+    "twitterUrl": "https://twitter.com/kniivesz",
+    "id": "1486106765804638215",
+    "name": "myko ૮꒰ ˶• ༝ •˶꒱ა ♡",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1763972313408503808/NmgWaSVV_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1486106765804638215/1702996350",
+    "description": "task manager… kill him!! creator of minecraft, mother of breloom",
+    "location": "she/they 22",
+    "followers": 232,
+    "following": 278,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Tue Jan 25 22:40:59 +0000 2022",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "letterboxd.com/detectivetears/",
+            "expanded_url": "https://letterboxd.com/detectivetears/",
+            "url": "https://t.co/8Nk3o4E9NQ",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 41659,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 1583,
+    "statusesCount": 7357,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": []
+  },
+  "extendedEntities": {},
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "1910893631315059021",
+  "url": "https://x.com/emyemyemyy/status/1910893631315059021",
+  "twitterUrl": "https://twitter.com/emyemyemyy/status/1910893631315059021",
+  "text": "Me during Abbie’s song on Love on the Spectrum https://t.co/hNzDxI89O1",
+  "fullText": "Me during Abbie’s song on Love on the Spectrum https://t.co/hNzDxI89O1",
+  "source": "Twitter for iPhone",
+  "retweetCount": 6,
+  "replyCount": 0,
+  "likeCount": 76,
+  "quoteCount": 0,
+  "viewCount": 4315,
+  "createdAt": "Sat Apr 12 03:11:59 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 1,
+  "isReply": false,
+  "conversationId": "1910893631315059021",
+  "possiblySensitive": false,
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "emyemyemyy",
+    "url": "https://x.com/emyemyemyy",
+    "twitterUrl": "https://twitter.com/emyemyemyy",
+    "id": "179972172",
+    "name": "Emma",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1306029470265094144/baGeQ8Dc_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/179972172/1531931100",
+    "description": "designer and doodler ✏️",
+    "location": "",
+    "followers": 115,
+    "following": 97,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Wed Aug 18 14:50:13 +0000 2010",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 2835,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "mediaCount": 10,
+    "statusesCount": 1161,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": []
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "display_url": "pic.x.com/hNzDxI89O1",
+        "expanded_url": "https://x.com/emyemyemyy/status/1910893631315059021/photo/1",
+        "ext_alt_text": "Jamming Jay Z GIF",
+        "id_str": "1910893625782738944",
+        "indices": [
+          47,
+          70
+        ],
+        "media_key": "16_1910893625782738944",
+        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/GoTboNhWoAA57NL.jpg",
+        "type": "animated_gif",
+        "url": "https://t.co/hNzDxI89O1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "sizes": {
+          "large": {
+            "h": 118,
+            "w": 208,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 118,
+            "w": 208,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 118,
+            "w": 208,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 118,
+            "w": 118,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 118,
+          "width": 208,
+          "focus_rects": []
+        },
+        "video_info": {
+          "aspect_ratio": [
+            104,
+            59
+          ],
+          "variants": [
+            {
+              "bitrate": 0,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/tweet_video/GoTboNhWoAA57NL.mp4"
+            }
+          ]
+        },
+        "media_results": {
+          "result": {
+            "media_key": "16_1910893625782738944"
+          }
+        }
+      }
+    ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [],
+    "media": [
+      {
+        "display_url": "pic.x.com/hNzDxI89O1",
+        "expanded_url": "https://x.com/emyemyemyy/status/1910893631315059021/photo/1",
+        "ext_alt_text": "Jamming Jay Z GIF",
+        "id_str": "1910893625782738944",
+        "indices": [
+          47,
+          70
+        ],
+        "media_key": "16_1910893625782738944",
+        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/GoTboNhWoAA57NL.jpg",
+        "type": "animated_gif",
+        "url": "https://t.co/hNzDxI89O1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "sizes": {
+          "large": {
+            "h": 118,
+            "w": 208,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 118,
+            "w": 208,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 118,
+            "w": 208,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 118,
+            "w": 118,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 118,
+          "width": 208,
+          "focus_rects": []
+        },
+        "video_info": {
+          "aspect_ratio": [
+            104,
+            59
+          ],
+          "variants": [
+            {
+              "bitrate": 0,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/tweet_video/GoTboNhWoAA57NL.mp4"
+            }
+          ]
+        },
+        "media_results": {
+          "result": {
+            "media_key": "16_1910893625782738944"
+          }
+        }
+      }
+    ],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [
+    "https://pbs.twimg.com/tweet_video_thumb/GoTboNhWoAA57NL.jpg"
+  ],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "1910897165846696354",
+  "url": "https://x.com/Chxrish__/status/1910897165846696354",
+  "twitterUrl": "https://twitter.com/Chxrish__/status/1910897165846696354",
+  "text": "Pari: “I wonder what it’s like to kiss a girl”\n#LoveOnTheSpectrum https://t.co/OUzex8lo9s",
+  "fullText": "Pari: “I wonder what it’s like to kiss a girl”\n#LoveOnTheSpectrum https://t.co/OUzex8lo9s",
+  "source": "Twitter for iPhone",
+  "retweetCount": 2,
+  "replyCount": 0,
+  "likeCount": 23,
+  "quoteCount": 1,
+  "viewCount": 1188,
+  "createdAt": "Sat Apr 12 03:26:01 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "conversationId": "1910897165846696354",
+  "possiblySensitive": false,
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "Chxrish__",
+    "url": "https://x.com/Chxrish__",
+    "twitterUrl": "https://twitter.com/Chxrish__",
+    "id": "1212054305487777793",
+    "name": "C🖤",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1736238978997563392/9hsLIFFG_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1212054305487777793/1692336548",
+    "description": "22. Conservation & Ecology 🍃",
+    "location": "she/her",
+    "followers": 16,
+    "following": 169,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": false,
+    "createdAt": "Tue Dec 31 16:54:09 +0000 2019",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 53222,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 153,
+    "statusesCount": 2238,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": []
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "display_url": "pic.x.com/OUzex8lo9s",
+        "expanded_url": "https://x.com/Chxrish__/status/1910897165846696354/photo/1",
+        "ext_alt_text": "Maverick Side Eye GIF",
+        "id_str": "1910897159660089344",
+        "indices": [
+          66,
+          89
+        ],
+        "media_key": "16_1910897159660089344",
+        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/GoTe16PXsAABkuM.jpg",
+        "type": "animated_gif",
+        "url": "https://t.co/OUzex8lo9s",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "sizes": {
+          "large": {
+            "h": 430,
+            "w": 412,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 430,
+            "w": 412,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 430,
+            "w": 412,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 430,
+          "width": 412,
+          "focus_rects": []
+        },
+        "video_info": {
+          "aspect_ratio": [
+            206,
+            215
+          ],
+          "variants": [
+            {
+              "bitrate": 0,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/tweet_video/GoTe16PXsAABkuM.mp4"
+            }
+          ]
+        },
+        "media_results": {
+          "result": {
+            "media_key": "16_1910897159660089344"
+          }
+        }
+      }
+    ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          47,
+          65
+        ],
+        "text": "LoveOnTheSpectrum"
+      }
+    ],
+    "media": [
+      {
+        "display_url": "pic.x.com/OUzex8lo9s",
+        "expanded_url": "https://x.com/Chxrish__/status/1910897165846696354/photo/1",
+        "ext_alt_text": "Maverick Side Eye GIF",
+        "id_str": "1910897159660089344",
+        "indices": [
+          66,
+          89
+        ],
+        "media_key": "16_1910897159660089344",
+        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/GoTe16PXsAABkuM.jpg",
+        "type": "animated_gif",
+        "url": "https://t.co/OUzex8lo9s",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "sizes": {
+          "large": {
+            "h": 430,
+            "w": 412,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 430,
+            "w": 412,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 430,
+            "w": 412,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 430,
+          "width": 412,
+          "focus_rects": []
+        },
+        "video_info": {
+          "aspect_ratio": [
+            206,
+            215
+          ],
+          "variants": [
+            {
+              "bitrate": 0,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/tweet_video/GoTe16PXsAABkuM.mp4"
+            }
+          ]
+        },
+        "media_results": {
+          "result": {
+            "media_key": "16_1910897159660089344"
+          }
+        }
+      }
+    ],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [
+    "https://pbs.twimg.com/tweet_video_thumb/GoTe16PXsAABkuM.jpg"
+  ],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "1912744972845043892",
+  "url": "https://x.com/StillTurq/status/1912744972845043892",
+  "twitterUrl": "https://twitter.com/StillTurq/status/1912744972845043892",
+  "text": "Will you be my boyfriend forever\nWill you be my boyfriend forever\n🥹🥹🥹🥹🥹\n#LoveOnTheSpectrum https://t.co/aFPyQBCzwF",
+  "fullText": "Will you be my boyfriend forever\nWill you be my boyfriend forever\n🥹🥹🥹🥹🥹\n#LoveOnTheSpectrum https://t.co/aFPyQBCzwF",
+  "source": "Twitter for iPhone",
+  "retweetCount": 2,
+  "replyCount": 0,
+  "likeCount": 26,
+  "quoteCount": 0,
+  "viewCount": 1380,
+  "createdAt": "Thu Apr 17 05:48:33 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "conversationId": "1912744972845043892",
+  "possiblySensitive": false,
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "StillTurq",
+    "url": "https://x.com/StillTurq",
+    "twitterUrl": "https://twitter.com/StillTurq",
+    "id": "33446389",
+    "name": "Whoall Gonbedeh",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1676987665453916161/2Eu0oLce_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/33446389/1502795200",
+    "description": "",
+    "location": "",
+    "followers": 315,
+    "following": 711,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Mon Apr 20 06:27:57 +0000 2009",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "GlobalGiving.org",
+            "expanded_url": "http://www.GlobalGiving.org",
+            "url": "https://t.co/nVAsz17aau",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 47475,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 648,
+    "statusesCount": 23059,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": []
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "display_url": "pic.x.com/aFPyQBCzwF",
+        "expanded_url": "https://x.com/StillTurq/status/1912744972845043892/photo/1",
+        "ext_alt_text": "Spongebob GIF",
+        "id_str": "1912744967342055424",
+        "indices": [
+          91,
+          114
+        ],
+        "media_key": "16_1912744967342055424",
+        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/GotvaeRW4AAucFN.jpg",
+        "type": "animated_gif",
+        "url": "https://t.co/aFPyQBCzwF",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "sizes": {
+          "large": {
+            "h": 144,
+            "w": 220,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 144,
+            "w": 220,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 144,
+            "w": 220,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 144,
+            "w": 144,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 144,
+          "width": 220,
+          "focus_rects": []
+        },
+        "video_info": {
+          "aspect_ratio": [
+            55,
+            36
+          ],
+          "variants": [
+            {
+              "bitrate": 0,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/tweet_video/GotvaeRW4AAucFN.mp4"
+            }
+          ]
+        },
+        "media_results": {
+          "result": {
+            "media_key": "16_1912744967342055424"
+          }
+        }
+      }
+    ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          72,
+          90
+        ],
+        "text": "LoveOnTheSpectrum"
+      }
+    ],
+    "media": [
+      {
+        "display_url": "pic.x.com/aFPyQBCzwF",
+        "expanded_url": "https://x.com/StillTurq/status/1912744972845043892/photo/1",
+        "ext_alt_text": "Spongebob GIF",
+        "id_str": "1912744967342055424",
+        "indices": [
+          91,
+          114
+        ],
+        "media_key": "16_1912744967342055424",
+        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/GotvaeRW4AAucFN.jpg",
+        "type": "animated_gif",
+        "url": "https://t.co/aFPyQBCzwF",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "sizes": {
+          "large": {
+            "h": 144,
+            "w": 220,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 144,
+            "w": 220,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 144,
+            "w": 220,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 144,
+            "w": 144,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 144,
+          "width": 220,
+          "focus_rects": []
+        },
+        "video_info": {
+          "aspect_ratio": [
+            55,
+            36
+          ],
+          "variants": [
+            {
+              "bitrate": 0,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/tweet_video/GotvaeRW4AAucFN.mp4"
+            }
+          ]
+        },
+        "media_results": {
+          "result": {
+            "media_key": "16_1912744967342055424"
+          }
+        }
+      }
+    ],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [
+    "https://pbs.twimg.com/tweet_video_thumb/GotvaeRW4AAucFN.jpg"
+  ],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "1911867836114350390",
+  "url": "https://x.com/christxrose/status/1911867836114350390",
+  "twitterUrl": "https://twitter.com/christxrose/status/1911867836114350390",
+  "text": "Love On The Spectrum makes you realize that romance could be so much more simple if everybody just said what they actually felt and didn’t constantly hold back out of the fear of appearing vulnerable",
+  "fullText": "Love On The Spectrum makes you realize that romance could be so much more simple if everybody just said what they actually felt and didn’t constantly hold back out of the fear of appearing vulnerable",
+  "source": "Twitter for iPhone",
+  "retweetCount": 9,
+  "replyCount": 0,
+  "likeCount": 46,
+  "quoteCount": 0,
+  "viewCount": 2062,
+  "createdAt": "Mon Apr 14 19:43:07 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 1,
+  "isReply": false,
+  "conversationId": "1911867836114350390",
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "christxrose",
+    "url": "https://x.com/christxrose",
+    "twitterUrl": "https://twitter.com/christxrose",
+    "id": "966932592",
+    "name": "CHRISTIAN ROSE 🕊️",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1910817934315757568/i4AAyPmk_normal.jpg",
+    "description": "Chaos can be divine sometimes. Singer, Songwriter, Alchemist.",
+    "location": "New York, NY",
+    "followers": 709,
+    "following": 191,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Fri Nov 23 22:25:53 +0000 2012",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "linktr.ee/Christianrosem…",
+            "expanded_url": "https://linktr.ee/Christianrosemusic",
+            "url": "https://t.co/lwZl2N13T1",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 27881,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 416,
+    "statusesCount": 38891,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1633281135282372609"
+    ]
+  },
+  "extendedEntities": {},
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "1911581607795843271",
+  "url": "https://x.com/michelleranch_/status/1911581607795843271",
+  "twitterUrl": "https://twitter.com/michelleranch_/status/1911581607795843271",
+  "text": "watching love on the spectrum and madison meets the perfect guy for her https://t.co/O1RB6SJEDP",
+  "fullText": "watching love on the spectrum and madison meets the perfect guy for her https://t.co/O1RB6SJEDP",
+  "source": "Twitter for iPhone",
+  "retweetCount": 13,
+  "replyCount": 0,
+  "likeCount": 133,
+  "quoteCount": 0,
+  "viewCount": 6718,
+  "createdAt": "Mon Apr 14 00:45:45 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 3,
+  "isReply": false,
+  "conversationId": "1911581607795843271",
+  "possiblySensitive": false,
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "michelleranch_",
+    "url": "https://x.com/michelleranch_",
+    "twitterUrl": "https://twitter.com/michelleranch_",
+    "id": "191641373",
+    "name": "josh 👁️",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1801145939190497280/j8H66ZL3_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/191641373/1682564967",
+    "description": "your friend your soulmate your sister",
+    "location": "Chicago, IL",
+    "followers": 453,
+    "following": 353,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Thu Sep 16 23:42:15 +0000 2010",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "instagram.com/joshdxvis",
+            "expanded_url": "http://instagram.com/joshdxvis",
+            "url": "https://t.co/23p7Duxy6g",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 77655,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 3205,
+    "statusesCount": 22082,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": []
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "display_url": "pic.x.com/O1RB6SJEDP",
+        "expanded_url": "https://x.com/g4ys0n/status/1625587922131902480/video/1",
+        "id_str": "1625587846357606409",
+        "indices": [
+          72,
+          95
+        ],
+        "media_key": "7_1625587846357606409",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1625587846357606409/pu/img/P1C0XqHH3B3xaUu0.jpg",
+        "source_status_id_str": "1625587922131902480",
+        "source_user_id_str": "1039377216231026690",
+        "type": "video",
+        "url": "https://t.co/O1RB6SJEDP",
+        "additional_media_info": {
+          "monetizable": false,
+          "source_user": {
+            "user_results": {
+              "result": {
+                "__typename": "User",
+                "id": "VXNlcjoxMDM5Mzc3MjE2MjMxMDI2Njkw",
+                "rest_id": "1039377216231026690",
+                "affiliates_highlighted_label": {},
+                "has_graduated_access": true,
+                "is_blue_verified": false,
+                "profile_image_shape": "Circle",
+                "legacy": {
+                  "can_dm": true,
+                  "can_media_tag": false,
+                  "created_at": "Tue Sep 11 04:56:54 +0000 2018",
+                  "default_profile": false,
+                  "default_profile_image": false,
+                  "description": "Every thing is gonna Happen to you",
+                  "entities": {
+                    "description": {
+                      "urls": []
+                    }
+                  },
+                  "fast_followers_count": 0,
+                  "favourites_count": 98424,
+                  "followers_count": 7196,
+                  "friends_count": 517,
+                  "has_custom_timelines": true,
+                  "is_translator": false,
+                  "listed_count": 7,
+                  "location": "",
+                  "media_count": 24854,
+                  "name": "gays0n",
+                  "normal_followers_count": 7196,
+                  "pinned_tweet_ids_str": [
+                    "1704222384302002571"
+                  ],
+                  "possibly_sensitive": false,
+                  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1039377216231026690/1718235675",
+                  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1859114028288684032/3xvtaE05_normal.jpg",
+                  "profile_interstitial_type": "",
+                  "screen_name": "g4ys0n",
+                  "statuses_count": 59256,
+                  "translator_type": "none",
+                  "verified": false,
+                  "want_retweets": false,
+                  "withheld_in_countries": []
+                },
+                "tipjar_settings": {}
+              }
+            }
+          }
+        },
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "sizes": {
+          "large": {
+            "h": 1280,
+            "w": 714,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 1200,
+            "w": 669,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 680,
+            "w": 379,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 1280,
+          "width": 714,
+          "focus_rects": []
+        },
+        "video_info": {
+          "aspect_ratio": [
+            357,
+            640
+          ],
+          "duration_millis": 12351,
+          "variants": [
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/ext_tw_video/1625587846357606409/pu/pl/6vHRpEHvVOlSg98g.m3u8?tag=12&v=90d"
+            },
+            {
+              "bitrate": 632000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1625587846357606409/pu/vid/320x572/eB5hUQATgxcAsETW.mp4?tag=12"
+            },
+            {
+              "bitrate": 950000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1625587846357606409/pu/vid/480x860/o0tMNkISktL6QFMp.mp4?tag=12"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1625587846357606409/pu/vid/714x1280/OiqODaAf_d11MEWF.mp4?tag=12"
+            }
+          ]
+        },
+        "media_results": {
+          "result": {
+            "media_key": "7_1625587846357606409"
+          }
+        }
+      }
+    ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [],
+    "media": [
+      {
+        "display_url": "pic.x.com/O1RB6SJEDP",
+        "expanded_url": "https://x.com/g4ys0n/status/1625587922131902480/video/1",
+        "id_str": "1625587846357606409",
+        "indices": [
+          72,
+          95
+        ],
+        "media_key": "7_1625587846357606409",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1625587846357606409/pu/img/P1C0XqHH3B3xaUu0.jpg",
+        "source_status_id_str": "1625587922131902480",
+        "source_user_id_str": "1039377216231026690",
+        "type": "video",
+        "url": "https://t.co/O1RB6SJEDP",
+        "additional_media_info": {
+          "monetizable": false,
+          "source_user": {
+            "user_results": {
+              "result": {
+                "__typename": "User",
+                "id": "VXNlcjoxMDM5Mzc3MjE2MjMxMDI2Njkw",
+                "rest_id": "1039377216231026690",
+                "affiliates_highlighted_label": {},
+                "has_graduated_access": true,
+                "is_blue_verified": false,
+                "profile_image_shape": "Circle",
+                "legacy": {
+                  "can_dm": true,
+                  "can_media_tag": false,
+                  "created_at": "Tue Sep 11 04:56:54 +0000 2018",
+                  "default_profile": false,
+                  "default_profile_image": false,
+                  "description": "Every thing is gonna Happen to you",
+                  "entities": {
+                    "description": {
+                      "urls": []
+                    }
+                  },
+                  "fast_followers_count": 0,
+                  "favourites_count": 98424,
+                  "followers_count": 7196,
+                  "friends_count": 517,
+                  "has_custom_timelines": true,
+                  "is_translator": false,
+                  "listed_count": 7,
+                  "location": "",
+                  "media_count": 24854,
+                  "name": "gays0n",
+                  "normal_followers_count": 7196,
+                  "pinned_tweet_ids_str": [
+                    "1704222384302002571"
+                  ],
+                  "possibly_sensitive": false,
+                  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1039377216231026690/1718235675",
+                  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1859114028288684032/3xvtaE05_normal.jpg",
+                  "profile_interstitial_type": "",
+                  "screen_name": "g4ys0n",
+                  "statuses_count": 59256,
+                  "translator_type": "none",
+                  "verified": false,
+                  "want_retweets": false,
+                  "withheld_in_countries": []
+                },
+                "tipjar_settings": {}
+              }
+            }
+          }
+        },
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "sizes": {
+          "large": {
+            "h": 1280,
+            "w": 714,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 1200,
+            "w": 669,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 680,
+            "w": 379,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 1280,
+          "width": 714,
+          "focus_rects": []
+        },
+        "video_info": {
+          "aspect_ratio": [
+            357,
+            640
+          ],
+          "duration_millis": 12351,
+          "variants": [
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/ext_tw_video/1625587846357606409/pu/pl/6vHRpEHvVOlSg98g.m3u8?tag=12&v=90d"
+            },
+            {
+              "bitrate": 632000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1625587846357606409/pu/vid/320x572/eB5hUQATgxcAsETW.mp4?tag=12"
+            },
+            {
+              "bitrate": 950000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1625587846357606409/pu/vid/480x860/o0tMNkISktL6QFMp.mp4?tag=12"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1625587846357606409/pu/vid/714x1280/OiqODaAf_d11MEWF.mp4?tag=12"
+            }
+          ]
+        },
+        "media_results": {
+          "result": {
+            "media_key": "7_1625587846357606409"
+          }
+        }
+      }
+    ],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [
+    "https://pbs.twimg.com/ext_tw_video_thumb/1625587846357606409/pu/img/P1C0XqHH3B3xaUu0.jpg"
+  ],
+  "isConversationControlled": false
+}]

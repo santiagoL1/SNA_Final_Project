@@ -1,0 +1,3993 @@
+[{
+  "type": "tweet",
+  "id": "1909163236211216701",
+  "url": "https://x.com/PUBLlCTARGET/status/1909163236211216701",
+  "twitterUrl": "https://twitter.com/PUBLlCTARGET/status/1909163236211216701",
+  "text": "rollin rollin rollin \n#DevilMayCryNetflix https://t.co/4oobBUgmYs",
+  "fullText": "rollin rollin rollin \n#DevilMayCryNetflix https://t.co/4oobBUgmYs",
+  "source": "Twitter for Android",
+  "retweetCount": 5536,
+  "replyCount": 22,
+  "likeCount": 31593,
+  "quoteCount": 57,
+  "viewCount": 291607,
+  "createdAt": "Mon Apr 07 08:36:00 +0000 2025",
+  "lang": "fi",
+  "bookmarkCount": 3176,
+  "isReply": false,
+  "conversationId": "1909163236211216701",
+  "possiblySensitive": false,
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "PUBLlCTARGET",
+    "url": "https://x.com/PUBLlCTARGET",
+    "twitterUrl": "https://twitter.com/PUBLlCTARGET",
+    "id": "1411487234298040320",
+    "name": "dav",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1830122128362127364/nscFZTwh_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1411487234298040320/1729336078",
+    "description": "it goes with double L",
+    "location": "m, +16 SFW",
+    "followers": 2571,
+    "following": 228,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Sun Jul 04 00:49:25 +0000 2021",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 11115,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "mediaCount": 260,
+    "statusesCount": 4795,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1829181290542927912"
+    ]
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "display_url": "pic.x.com/4oobBUgmYs",
+        "expanded_url": "https://x.com/PUBLlCTARGET/status/1909163236211216701/photo/1",
+        "id_str": "1909163159107350529",
+        "indices": [
+          42,
+          65
+        ],
+        "media_key": "16_1909163159107350529",
+        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Gn61xyzbMAEYAM_.jpg",
+        "type": "animated_gif",
+        "url": "https://t.co/4oobBUgmYs",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "sizes": {
+          "large": {
+            "h": 800,
+            "w": 800,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 800,
+            "w": 800,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 680,
+            "w": 680,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 800,
+          "width": 800,
+          "focus_rects": []
+        },
+        "video_info": {
+          "aspect_ratio": [
+            1,
+            1
+          ],
+          "variants": [
+            {
+              "bitrate": 0,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/tweet_video/Gn61xyzbMAEYAM_.mp4"
+            }
+          ]
+        },
+        "media_results": {
+          "result": {
+            "media_key": "16_1909163159107350529"
+          }
+        }
+      }
+    ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          22,
+          41
+        ],
+        "text": "DevilMayCryNetflix"
+      }
+    ],
+    "media": [
+      {
+        "display_url": "pic.x.com/4oobBUgmYs",
+        "expanded_url": "https://x.com/PUBLlCTARGET/status/1909163236211216701/photo/1",
+        "id_str": "1909163159107350529",
+        "indices": [
+          42,
+          65
+        ],
+        "media_key": "16_1909163159107350529",
+        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Gn61xyzbMAEYAM_.jpg",
+        "type": "animated_gif",
+        "url": "https://t.co/4oobBUgmYs",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "sizes": {
+          "large": {
+            "h": 800,
+            "w": 800,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 800,
+            "w": 800,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 680,
+            "w": 680,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 800,
+          "width": 800,
+          "focus_rects": []
+        },
+        "video_info": {
+          "aspect_ratio": [
+            1,
+            1
+          ],
+          "variants": [
+            {
+              "bitrate": 0,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/tweet_video/Gn61xyzbMAEYAM_.mp4"
+            }
+          ]
+        },
+        "media_results": {
+          "result": {
+            "media_key": "16_1909163159107350529"
+          }
+        }
+      }
+    ],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [
+    "https://pbs.twimg.com/tweet_video_thumb/Gn61xyzbMAEYAM_.jpg"
+  ],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "1912630733643878424",
+  "url": "https://x.com/alinics_hmm/status/1912630733643878424",
+  "twitterUrl": "https://twitter.com/alinics_hmm/status/1912630733643878424",
+  "text": "#DevilMayCryNetflix  #whiterabbit https://t.co/S1HuPijLQD",
+  "fullText": "#DevilMayCryNetflix  #whiterabbit https://t.co/S1HuPijLQD",
+  "source": "Twitter Web App",
+  "retweetCount": 2093,
+  "replyCount": 40,
+  "likeCount": 17445,
+  "quoteCount": 41,
+  "viewCount": 186029,
+  "createdAt": "Wed Apr 16 22:14:36 +0000 2025",
+  "lang": "qme",
+  "bookmarkCount": 1927,
+  "isReply": false,
+  "conversationId": "1912630733643878424",
+  "possiblySensitive": false,
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "alinics_hmm",
+    "url": "https://x.com/alinics_hmm",
+    "twitterUrl": "https://twitter.com/alinics_hmm",
+    "id": "1634122467345063936",
+    "name": "Alinics",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1852289876500058112/Eu6-RKJt_normal.jpg",
+    "description": "°Artist° Multifandom▪25▪°she/her°\ncommission open 0/3^^.\nfor tips: https://t.co/RzuLZ1LYDG",
+    "location": "",
+    "followers": 1359,
+    "following": 46,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Fri Mar 10 09:22:26 +0000 2023",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "hipolink.me/alinics/tips",
+            "expanded_url": "http://hipolink.me/alinics/tips",
+            "url": "https://t.co/RzuLZ1LYDG",
+            "indices": [
+              67,
+              90
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 11062,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 189,
+    "statusesCount": 464,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1879199509454192767"
+    ]
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "display_url": "pic.x.com/S1HuPijLQD",
+        "expanded_url": "https://x.com/alinics_hmm/status/1912630733643878424/photo/1",
+        "id_str": "1912630506287427586",
+        "indices": [
+          34,
+          57
+        ],
+        "media_key": "3_1912630506287427586",
+        "media_url_https": "https://pbs.twimg.com/media/GosHT9nWcAI1ZT0.jpg",
+        "type": "photo",
+        "url": "https://t.co/S1HuPijLQD",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": []
+          },
+          "medium": {
+            "faces": []
+          },
+          "small": {
+            "faces": []
+          },
+          "orig": {
+            "faces": []
+          }
+        },
+        "sizes": {
+          "large": {
+            "h": 1800,
+            "w": 2048,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 1055,
+            "w": 1200,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 598,
+            "w": 680,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 3600,
+          "width": 4096,
+          "focus_rects": [
+            {
+              "x": 0,
+              "y": 184,
+              "w": 4096,
+              "h": 2294
+            },
+            {
+              "x": 496,
+              "y": 0,
+              "w": 3600,
+              "h": 3600
+            },
+            {
+              "x": 938,
+              "y": 0,
+              "w": 3158,
+              "h": 3600
+            },
+            {
+              "x": 1660,
+              "y": 0,
+              "w": 1800,
+              "h": 3600
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 4096,
+              "h": 3600
+            }
+          ]
+        },
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "media_results": {
+          "result": {
+            "media_key": "3_1912630506287427586"
+          }
+        }
+      }
+    ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          0,
+          19
+        ],
+        "text": "DevilMayCryNetflix"
+      },
+      {
+        "indices": [
+          21,
+          33
+        ],
+        "text": "whiterabbit"
+      }
+    ],
+    "media": [
+      {
+        "display_url": "pic.x.com/S1HuPijLQD",
+        "expanded_url": "https://x.com/alinics_hmm/status/1912630733643878424/photo/1",
+        "id_str": "1912630506287427586",
+        "indices": [
+          34,
+          57
+        ],
+        "media_key": "3_1912630506287427586",
+        "media_url_https": "https://pbs.twimg.com/media/GosHT9nWcAI1ZT0.jpg",
+        "type": "photo",
+        "url": "https://t.co/S1HuPijLQD",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": []
+          },
+          "medium": {
+            "faces": []
+          },
+          "small": {
+            "faces": []
+          },
+          "orig": {
+            "faces": []
+          }
+        },
+        "sizes": {
+          "large": {
+            "h": 1800,
+            "w": 2048,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 1055,
+            "w": 1200,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 598,
+            "w": 680,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 3600,
+          "width": 4096,
+          "focus_rects": [
+            {
+              "x": 0,
+              "y": 184,
+              "w": 4096,
+              "h": 2294
+            },
+            {
+              "x": 496,
+              "y": 0,
+              "w": 3600,
+              "h": 3600
+            },
+            {
+              "x": 938,
+              "y": 0,
+              "w": 3158,
+              "h": 3600
+            },
+            {
+              "x": 1660,
+              "y": 0,
+              "w": 1800,
+              "h": 3600
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 4096,
+              "h": 3600
+            }
+          ]
+        },
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "media_results": {
+          "result": {
+            "media_key": "3_1912630506287427586"
+          }
+        }
+      }
+    ],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [
+    "https://pbs.twimg.com/media/GosHT9nWcAI1ZT0.jpg"
+  ],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "1909615403384651948",
+  "url": "https://x.com/AsherDaGato/status/1909615403384651948",
+  "twitterUrl": "https://twitter.com/AsherDaGato/status/1909615403384651948",
+  "text": "White rabbit✨\n\n#DevilMayCry #DevilMayCryNetflix #fanart #whiterabbit https://t.co/690B2Pxd8V",
+  "fullText": "White rabbit✨\n\n#DevilMayCry #DevilMayCryNetflix #fanart #whiterabbit https://t.co/690B2Pxd8V",
+  "source": "Twitter Web App",
+  "retweetCount": 2485,
+  "replyCount": 27,
+  "likeCount": 16813,
+  "quoteCount": 33,
+  "viewCount": 192169,
+  "createdAt": "Tue Apr 08 14:32:45 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 1639,
+  "isReply": false,
+  "conversationId": "1909615403384651948",
+  "possiblySensitive": false,
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "AsherDaGato",
+    "url": "https://x.com/AsherDaGato",
+    "twitterUrl": "https://twitter.com/AsherDaGato",
+    "id": "1864648539110035461",
+    "name": "Ash3r (Comms open, kofi)",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1908832021738344448/dHsOkl6O_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1864648539110035461/1743683238",
+    "description": "Hi ^_^ I'm Asher! || ( He/Him ) 16 TH/EN || Self-taught Artist || Mostly draw OC's || Draw whatever I like, or feel like it",
+    "location": "Email : AsherDaGato@gmail.com",
+    "followers": 271,
+    "following": 89,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Thu Dec 05 12:30:41 +0000 2024",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "ko-fi.com/ash3rdagato",
+            "expanded_url": "https://ko-fi.com/ash3rdagato",
+            "url": "https://t.co/LH0i5mSkob",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1664,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "mediaCount": 97,
+    "statusesCount": 394,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1908544127912075691"
+    ]
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "display_url": "pic.x.com/690B2Pxd8V",
+        "expanded_url": "https://x.com/AsherDaGato/status/1909615403384651948/photo/1",
+        "id_str": "1909615396904402944",
+        "indices": [
+          69,
+          92
+        ],
+        "media_key": "3_1909615396904402944",
+        "media_url_https": "https://pbs.twimg.com/media/GoBRFf4agAAEXzy.jpg",
+        "type": "photo",
+        "url": "https://t.co/690B2Pxd8V",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": []
+          },
+          "medium": {
+            "faces": []
+          },
+          "small": {
+            "faces": []
+          },
+          "orig": {
+            "faces": []
+          }
+        },
+        "sizes": {
+          "large": {
+            "h": 1200,
+            "w": 824,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 1200,
+            "w": 824,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 680,
+            "w": 467,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 1200,
+          "width": 824,
+          "focus_rects": [
+            {
+              "x": 0,
+              "y": 39,
+              "w": 824,
+              "h": 461
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 824,
+              "h": 824
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 824,
+              "h": 939
+            },
+            {
+              "x": 209,
+              "y": 0,
+              "w": 600,
+              "h": 1200
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 824,
+              "h": 1200
+            }
+          ]
+        },
+        "media_results": {
+          "result": {
+            "media_key": "3_1909615396904402944"
+          }
+        }
+      }
+    ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          15,
+          27
+        ],
+        "text": "DevilMayCry"
+      },
+      {
+        "indices": [
+          28,
+          47
+        ],
+        "text": "DevilMayCryNetflix"
+      },
+      {
+        "indices": [
+          48,
+          55
+        ],
+        "text": "fanart"
+      },
+      {
+        "indices": [
+          56,
+          68
+        ],
+        "text": "whiterabbit"
+      }
+    ],
+    "media": [
+      {
+        "display_url": "pic.x.com/690B2Pxd8V",
+        "expanded_url": "https://x.com/AsherDaGato/status/1909615403384651948/photo/1",
+        "id_str": "1909615396904402944",
+        "indices": [
+          69,
+          92
+        ],
+        "media_key": "3_1909615396904402944",
+        "media_url_https": "https://pbs.twimg.com/media/GoBRFf4agAAEXzy.jpg",
+        "type": "photo",
+        "url": "https://t.co/690B2Pxd8V",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": []
+          },
+          "medium": {
+            "faces": []
+          },
+          "small": {
+            "faces": []
+          },
+          "orig": {
+            "faces": []
+          }
+        },
+        "sizes": {
+          "large": {
+            "h": 1200,
+            "w": 824,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 1200,
+            "w": 824,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 680,
+            "w": 467,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 1200,
+          "width": 824,
+          "focus_rects": [
+            {
+              "x": 0,
+              "y": 39,
+              "w": 824,
+              "h": 461
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 824,
+              "h": 824
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 824,
+              "h": 939
+            },
+            {
+              "x": 209,
+              "y": 0,
+              "w": 600,
+              "h": 1200
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 824,
+              "h": 1200
+            }
+          ]
+        },
+        "media_results": {
+          "result": {
+            "media_key": "3_1909615396904402944"
+          }
+        }
+      }
+    ],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [
+    "https://pbs.twimg.com/media/GoBRFf4agAAEXzy.jpg"
+  ],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "1909812166636564791",
+  "url": "https://x.com/dangerousbride/status/1909812166636564791",
+  "twitterUrl": "https://twitter.com/dangerousbride/status/1909812166636564791",
+  "text": "She's trying... 😅🫙\n#DevilMayCry #DevilMayCryNetflix https://t.co/OyRfpZ4oTe",
+  "fullText": "She's trying... 😅🫙\n#DevilMayCry #DevilMayCryNetflix https://t.co/OyRfpZ4oTe",
+  "source": "Twitter Web App",
+  "retweetCount": 3408,
+  "replyCount": 150,
+  "likeCount": 44966,
+  "quoteCount": 45,
+  "viewCount": 657046,
+  "createdAt": "Wed Apr 09 03:34:37 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 6848,
+  "isReply": false,
+  "conversationId": "1909812166636564791",
+  "possiblySensitive": false,
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "dangerousbride",
+    "url": "https://x.com/dangerousbride",
+    "twitterUrl": "https://twitter.com/dangerousbride",
+    "id": "755778602894065664",
+    "name": "D♡Bride 💕",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1886209368028254208/rSj9AY6y_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/755778602894065664/1738543456",
+    "description": "♀️ Artist || Bleach, DMC, Resident Evil and more!! 💞✨ || ⚠️ Suggestive themes || Do not repost my work without permission || https://t.co/e4W8IFFbMy",
+    "location": "",
+    "followers": 349489,
+    "following": 58,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Wed Jul 20 14:57:15 +0000 2016",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "patreon.com/dangerousbride",
+            "expanded_url": "http://patreon.com/dangerousbride",
+            "url": "https://t.co/e4W8IFFbMy",
+            "indices": [
+              125,
+              148
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "patreon.com/dangerousbride",
+            "expanded_url": "https://www.patreon.com/dangerousbride",
+            "url": "https://t.co/MYu11EDdEs",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 5545,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "mediaCount": 713,
+    "statusesCount": 2229,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1135376588458070023"
+    ]
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "display_url": "pic.x.com/OyRfpZ4oTe",
+        "expanded_url": "https://x.com/dangerousbride/status/1909812166636564791/photo/1",
+        "id_str": "1909811918140850176",
+        "indices": [
+          52,
+          75
+        ],
+        "media_key": "3_1909811918140850176",
+        "media_url_https": "https://pbs.twimg.com/media/GoED0iiXwAAwyTS.jpg",
+        "type": "photo",
+        "url": "https://t.co/OyRfpZ4oTe",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": []
+          },
+          "medium": {
+            "faces": []
+          },
+          "small": {
+            "faces": []
+          },
+          "orig": {
+            "faces": []
+          }
+        },
+        "sizes": {
+          "large": {
+            "h": 2048,
+            "w": 1638,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 1200,
+            "w": 960,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 680,
+            "w": 544,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 3000,
+          "width": 2400,
+          "focus_rects": [
+            {
+              "x": 0,
+              "y": 0,
+              "w": 2400,
+              "h": 1344
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 2400,
+              "h": 2400
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 2400,
+              "h": 2736
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 1500,
+              "h": 3000
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 2400,
+              "h": 3000
+            }
+          ]
+        },
+        "media_results": {
+          "result": {
+            "media_key": "3_1909811918140850176"
+          }
+        }
+      }
+    ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          19,
+          31
+        ],
+        "text": "DevilMayCry"
+      },
+      {
+        "indices": [
+          32,
+          51
+        ],
+        "text": "DevilMayCryNetflix"
+      }
+    ],
+    "media": [
+      {
+        "display_url": "pic.x.com/OyRfpZ4oTe",
+        "expanded_url": "https://x.com/dangerousbride/status/1909812166636564791/photo/1",
+        "id_str": "1909811918140850176",
+        "indices": [
+          52,
+          75
+        ],
+        "media_key": "3_1909811918140850176",
+        "media_url_https": "https://pbs.twimg.com/media/GoED0iiXwAAwyTS.jpg",
+        "type": "photo",
+        "url": "https://t.co/OyRfpZ4oTe",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": []
+          },
+          "medium": {
+            "faces": []
+          },
+          "small": {
+            "faces": []
+          },
+          "orig": {
+            "faces": []
+          }
+        },
+        "sizes": {
+          "large": {
+            "h": 2048,
+            "w": 1638,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 1200,
+            "w": 960,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 680,
+            "w": 544,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 3000,
+          "width": 2400,
+          "focus_rects": [
+            {
+              "x": 0,
+              "y": 0,
+              "w": 2400,
+              "h": 1344
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 2400,
+              "h": 2400
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 2400,
+              "h": 2736
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 1500,
+              "h": 3000
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 2400,
+              "h": 3000
+            }
+          ]
+        },
+        "media_results": {
+          "result": {
+            "media_key": "3_1909811918140850176"
+          }
+        }
+      }
+    ],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [
+    "https://pbs.twimg.com/media/GoED0iiXwAAwyTS.jpg"
+  ],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "1913606704497070325",
+  "url": "https://x.com/jumpoon/status/1913606704497070325",
+  "twitterUrl": "https://twitter.com/jumpoon/status/1913606704497070325",
+  "text": "Devil May Cry 😢 #DevilMayCryNetflix #DMC https://t.co/c0c2ucyJHs",
+  "fullText": "Devil May Cry 😢 #DevilMayCryNetflix #DMC https://t.co/c0c2ucyJHs",
+  "source": "Twitter for iPad",
+  "retweetCount": 375,
+  "replyCount": 15,
+  "likeCount": 3278,
+  "quoteCount": 4,
+  "viewCount": 23077,
+  "createdAt": "Sat Apr 19 14:52:46 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 463,
+  "isReply": false,
+  "conversationId": "1913606704497070325",
+  "possiblySensitive": false,
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "jumpoon",
+    "url": "https://x.com/jumpoon",
+    "twitterUrl": "https://twitter.com/jumpoon",
+    "id": "68932251",
+    "name": "Super-Jump",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1839265906045890561/66GCmKYR_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/68932251/1643299920",
+    "description": "’It's just fanart, why you guys have to be serious?’ 🌹Simp for Lady🌹may nsfw sometimes 🔞",
+    "location": "",
+    "followers": 21221,
+    "following": 144,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Wed Aug 26 08:29:33 +0000 2009",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "super-jump.tumblr.com",
+            "expanded_url": "http://super-jump.tumblr.com/",
+            "url": "https://t.co/TGwkvurYAx",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 33313,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 5259,
+    "statusesCount": 22494,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1911798890405482941"
+    ]
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "display_url": "pic.x.com/c0c2ucyJHs",
+        "expanded_url": "https://x.com/jumpoon/status/1913606704497070325/photo/1",
+        "id_str": "1913606565837619200",
+        "indices": [
+          41,
+          64
+        ],
+        "media_key": "3_1913606565837619200",
+        "media_url_https": "https://pbs.twimg.com/media/Go5_CGybQAACyGF.jpg",
+        "type": "photo",
+        "url": "https://t.co/c0c2ucyJHs",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": []
+          },
+          "medium": {
+            "faces": []
+          },
+          "small": {
+            "faces": []
+          },
+          "orig": {
+            "faces": []
+          }
+        },
+        "sizes": {
+          "large": {
+            "h": 1743,
+            "w": 1908,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 1096,
+            "w": 1200,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 621,
+            "w": 680,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 1743,
+          "width": 1908,
+          "focus_rects": [
+            {
+              "x": 0,
+              "y": 86,
+              "w": 1908,
+              "h": 1068
+            },
+            {
+              "x": 165,
+              "y": 0,
+              "w": 1743,
+              "h": 1743
+            },
+            {
+              "x": 333,
+              "y": 0,
+              "w": 1529,
+              "h": 1743
+            },
+            {
+              "x": 661,
+              "y": 0,
+              "w": 872,
+              "h": 1743
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 1908,
+              "h": 1743
+            }
+          ]
+        },
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "media_results": {
+          "result": {
+            "media_key": "3_1913606565837619200"
+          }
+        }
+      }
+    ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          16,
+          35
+        ],
+        "text": "DevilMayCryNetflix"
+      },
+      {
+        "indices": [
+          36,
+          40
+        ],
+        "text": "DMC"
+      }
+    ],
+    "media": [
+      {
+        "display_url": "pic.x.com/c0c2ucyJHs",
+        "expanded_url": "https://x.com/jumpoon/status/1913606704497070325/photo/1",
+        "id_str": "1913606565837619200",
+        "indices": [
+          41,
+          64
+        ],
+        "media_key": "3_1913606565837619200",
+        "media_url_https": "https://pbs.twimg.com/media/Go5_CGybQAACyGF.jpg",
+        "type": "photo",
+        "url": "https://t.co/c0c2ucyJHs",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": []
+          },
+          "medium": {
+            "faces": []
+          },
+          "small": {
+            "faces": []
+          },
+          "orig": {
+            "faces": []
+          }
+        },
+        "sizes": {
+          "large": {
+            "h": 1743,
+            "w": 1908,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 1096,
+            "w": 1200,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 621,
+            "w": 680,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 1743,
+          "width": 1908,
+          "focus_rects": [
+            {
+              "x": 0,
+              "y": 86,
+              "w": 1908,
+              "h": 1068
+            },
+            {
+              "x": 165,
+              "y": 0,
+              "w": 1743,
+              "h": 1743
+            },
+            {
+              "x": 333,
+              "y": 0,
+              "w": 1529,
+              "h": 1743
+            },
+            {
+              "x": 661,
+              "y": 0,
+              "w": 872,
+              "h": 1743
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 1908,
+              "h": 1743
+            }
+          ]
+        },
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "media_results": {
+          "result": {
+            "media_key": "3_1913606565837619200"
+          }
+        }
+      }
+    ],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [
+    "https://pbs.twimg.com/media/Go5_CGybQAACyGF.jpg"
+  ],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "1913056827522384359",
+  "url": "https://x.com/jumpoon/status/1913056827522384359",
+  "twitterUrl": "https://twitter.com/jumpoon/status/1913056827522384359",
+  "text": "I will always adore this hair style 🥹🥲❤️ #DevilMayCryNetflix https://t.co/xo6epAJnHv",
+  "fullText": "I will always adore this hair style 🥹🥲❤️ #DevilMayCryNetflix https://t.co/xo6epAJnHv",
+  "source": "Twitter for Android",
+  "retweetCount": 145,
+  "replyCount": 15,
+  "likeCount": 1251,
+  "quoteCount": 6,
+  "viewCount": 16229,
+  "createdAt": "Fri Apr 18 02:27:45 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 128,
+  "isReply": false,
+  "conversationId": "1913056827522384359",
+  "possiblySensitive": false,
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "jumpoon",
+    "url": "https://x.com/jumpoon",
+    "twitterUrl": "https://twitter.com/jumpoon",
+    "id": "68932251",
+    "name": "Super-Jump",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1839265906045890561/66GCmKYR_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/68932251/1643299920",
+    "description": "’It's just fanart, why you guys have to be serious?’ 🌹Simp for Lady🌹may nsfw sometimes 🔞",
+    "location": "",
+    "followers": 21221,
+    "following": 144,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Wed Aug 26 08:29:33 +0000 2009",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "super-jump.tumblr.com",
+            "expanded_url": "http://super-jump.tumblr.com/",
+            "url": "https://t.co/TGwkvurYAx",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 33313,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 5259,
+    "statusesCount": 22494,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1911798890405482941"
+    ]
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "display_url": "pic.x.com/xo6epAJnHv",
+        "expanded_url": "https://x.com/jumpoon/status/1913056827522384359/photo/1",
+        "id_str": "1913056790247546880",
+        "indices": [
+          61,
+          84
+        ],
+        "media_key": "16_1913056790247546880",
+        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/GoyLA9HaoAAM_yN.jpg",
+        "type": "animated_gif",
+        "url": "https://t.co/xo6epAJnHv",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "sizes": {
+          "large": {
+            "h": 220,
+            "w": 220,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 220,
+            "w": 220,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 220,
+            "w": 220,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 220,
+          "width": 220,
+          "focus_rects": []
+        },
+        "video_info": {
+          "aspect_ratio": [
+            1,
+            1
+          ],
+          "variants": [
+            {
+              "bitrate": 0,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/tweet_video/GoyLA9HaoAAM_yN.mp4"
+            }
+          ]
+        },
+        "media_results": {
+          "result": {
+            "media_key": "16_1913056790247546880"
+          }
+        }
+      },
+      {
+        "display_url": "pic.x.com/xo6epAJnHv",
+        "expanded_url": "https://x.com/jumpoon/status/1913056827522384359/photo/1",
+        "id_str": "1913056798837440512",
+        "indices": [
+          61,
+          84
+        ],
+        "media_key": "16_1913056798837440512",
+        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/GoyLBdHaAAAUNYM.jpg",
+        "type": "animated_gif",
+        "url": "https://t.co/xo6epAJnHv",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "sizes": {
+          "large": {
+            "h": 498,
+            "w": 498,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 498,
+            "w": 498,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 498,
+            "w": 498,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 498,
+          "width": 498,
+          "focus_rects": []
+        },
+        "video_info": {
+          "aspect_ratio": [
+            1,
+            1
+          ],
+          "variants": [
+            {
+              "bitrate": 0,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/tweet_video/GoyLBdHaAAAUNYM.mp4"
+            }
+          ]
+        },
+        "media_results": {
+          "result": {
+            "media_key": "16_1913056798837440512"
+          }
+        }
+      },
+      {
+        "display_url": "pic.x.com/xo6epAJnHv",
+        "expanded_url": "https://x.com/jumpoon/status/1913056827522384359/photo/1",
+        "id_str": "1913056807288963072",
+        "indices": [
+          61,
+          84
+        ],
+        "media_key": "16_1913056807288963072",
+        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/GoyLB8maAAAYl5C.jpg",
+        "type": "animated_gif",
+        "url": "https://t.co/xo6epAJnHv",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "sizes": {
+          "large": {
+            "h": 500,
+            "w": 500,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 500,
+            "w": 500,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 500,
+            "w": 500,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 500,
+          "width": 500,
+          "focus_rects": []
+        },
+        "video_info": {
+          "aspect_ratio": [
+            1,
+            1
+          ],
+          "variants": [
+            {
+              "bitrate": 0,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/tweet_video/GoyLB8maAAAYl5C.mp4"
+            }
+          ]
+        },
+        "media_results": {
+          "result": {
+            "media_key": "16_1913056807288963072"
+          }
+        }
+      },
+      {
+        "display_url": "pic.x.com/xo6epAJnHv",
+        "expanded_url": "https://x.com/jumpoon/status/1913056827522384359/photo/1",
+        "id_str": "1913056815606362112",
+        "indices": [
+          61,
+          84
+        ],
+        "media_key": "16_1913056815606362112",
+        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/GoyLCblbcAA2YlT.jpg",
+        "type": "animated_gif",
+        "url": "https://t.co/xo6epAJnHv",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "sizes": {
+          "large": {
+            "h": 220,
+            "w": 220,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 220,
+            "w": 220,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 220,
+            "w": 220,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 220,
+          "width": 220,
+          "focus_rects": []
+        },
+        "video_info": {
+          "aspect_ratio": [
+            1,
+            1
+          ],
+          "variants": [
+            {
+              "bitrate": 0,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/tweet_video/GoyLCblbcAA2YlT.mp4"
+            }
+          ]
+        },
+        "media_results": {
+          "result": {
+            "media_key": "16_1913056815606362112"
+          }
+        }
+      }
+    ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          41,
+          60
+        ],
+        "text": "DevilMayCryNetflix"
+      }
+    ],
+    "media": [
+      {
+        "display_url": "pic.x.com/xo6epAJnHv",
+        "expanded_url": "https://x.com/jumpoon/status/1913056827522384359/photo/1",
+        "id_str": "1913056790247546880",
+        "indices": [
+          61,
+          84
+        ],
+        "media_key": "16_1913056790247546880",
+        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/GoyLA9HaoAAM_yN.jpg",
+        "type": "animated_gif",
+        "url": "https://t.co/xo6epAJnHv",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "sizes": {
+          "large": {
+            "h": 220,
+            "w": 220,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 220,
+            "w": 220,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 220,
+            "w": 220,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 220,
+          "width": 220,
+          "focus_rects": []
+        },
+        "video_info": {
+          "aspect_ratio": [
+            1,
+            1
+          ],
+          "variants": [
+            {
+              "bitrate": 0,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/tweet_video/GoyLA9HaoAAM_yN.mp4"
+            }
+          ]
+        },
+        "media_results": {
+          "result": {
+            "media_key": "16_1913056790247546880"
+          }
+        }
+      },
+      {
+        "display_url": "pic.x.com/xo6epAJnHv",
+        "expanded_url": "https://x.com/jumpoon/status/1913056827522384359/photo/1",
+        "id_str": "1913056798837440512",
+        "indices": [
+          61,
+          84
+        ],
+        "media_key": "16_1913056798837440512",
+        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/GoyLBdHaAAAUNYM.jpg",
+        "type": "animated_gif",
+        "url": "https://t.co/xo6epAJnHv",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "sizes": {
+          "large": {
+            "h": 498,
+            "w": 498,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 498,
+            "w": 498,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 498,
+            "w": 498,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 498,
+          "width": 498,
+          "focus_rects": []
+        },
+        "video_info": {
+          "aspect_ratio": [
+            1,
+            1
+          ],
+          "variants": [
+            {
+              "bitrate": 0,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/tweet_video/GoyLBdHaAAAUNYM.mp4"
+            }
+          ]
+        },
+        "media_results": {
+          "result": {
+            "media_key": "16_1913056798837440512"
+          }
+        }
+      },
+      {
+        "display_url": "pic.x.com/xo6epAJnHv",
+        "expanded_url": "https://x.com/jumpoon/status/1913056827522384359/photo/1",
+        "id_str": "1913056807288963072",
+        "indices": [
+          61,
+          84
+        ],
+        "media_key": "16_1913056807288963072",
+        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/GoyLB8maAAAYl5C.jpg",
+        "type": "animated_gif",
+        "url": "https://t.co/xo6epAJnHv",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "sizes": {
+          "large": {
+            "h": 500,
+            "w": 500,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 500,
+            "w": 500,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 500,
+            "w": 500,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 500,
+          "width": 500,
+          "focus_rects": []
+        },
+        "video_info": {
+          "aspect_ratio": [
+            1,
+            1
+          ],
+          "variants": [
+            {
+              "bitrate": 0,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/tweet_video/GoyLB8maAAAYl5C.mp4"
+            }
+          ]
+        },
+        "media_results": {
+          "result": {
+            "media_key": "16_1913056807288963072"
+          }
+        }
+      },
+      {
+        "display_url": "pic.x.com/xo6epAJnHv",
+        "expanded_url": "https://x.com/jumpoon/status/1913056827522384359/photo/1",
+        "id_str": "1913056815606362112",
+        "indices": [
+          61,
+          84
+        ],
+        "media_key": "16_1913056815606362112",
+        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/GoyLCblbcAA2YlT.jpg",
+        "type": "animated_gif",
+        "url": "https://t.co/xo6epAJnHv",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "sizes": {
+          "large": {
+            "h": 220,
+            "w": 220,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 220,
+            "w": 220,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 220,
+            "w": 220,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 220,
+          "width": 220,
+          "focus_rects": []
+        },
+        "video_info": {
+          "aspect_ratio": [
+            1,
+            1
+          ],
+          "variants": [
+            {
+              "bitrate": 0,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/tweet_video/GoyLCblbcAA2YlT.mp4"
+            }
+          ]
+        },
+        "media_results": {
+          "result": {
+            "media_key": "16_1913056815606362112"
+          }
+        }
+      }
+    ],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [
+    "https://pbs.twimg.com/tweet_video_thumb/GoyLA9HaoAAM_yN.jpg",
+    "https://pbs.twimg.com/tweet_video_thumb/GoyLBdHaAAAUNYM.jpg",
+    "https://pbs.twimg.com/tweet_video_thumb/GoyLB8maAAAYl5C.jpg",
+    "https://pbs.twimg.com/tweet_video_thumb/GoyLCblbcAA2YlT.jpg"
+  ],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "1911798890405482941",
+  "url": "https://x.com/jumpoon/status/1911798890405482941",
+  "twitterUrl": "https://twitter.com/jumpoon/status/1911798890405482941",
+  "text": "Idiots.😝 #DevilMayCryNetflix #DevilMayCry #DMC https://t.co/jX8GufidAW",
+  "fullText": "Idiots.😝 #DevilMayCryNetflix #DevilMayCry #DMC https://t.co/jX8GufidAW",
+  "source": "Twitter for iPad",
+  "retweetCount": 723,
+  "replyCount": 18,
+  "likeCount": 6325,
+  "quoteCount": 14,
+  "viewCount": 140299,
+  "createdAt": "Mon Apr 14 15:09:09 +0000 2025",
+  "lang": "sv",
+  "bookmarkCount": 1029,
+  "isReply": false,
+  "conversationId": "1911798890405482941",
+  "possiblySensitive": false,
+  "isPinned": true,
+  "author": {
+    "type": "user",
+    "userName": "jumpoon",
+    "url": "https://x.com/jumpoon",
+    "twitterUrl": "https://twitter.com/jumpoon",
+    "id": "68932251",
+    "name": "Super-Jump",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1839265906045890561/66GCmKYR_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/68932251/1643299920",
+    "description": "’It's just fanart, why you guys have to be serious?’ 🌹Simp for Lady🌹may nsfw sometimes 🔞",
+    "location": "",
+    "followers": 21221,
+    "following": 144,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Wed Aug 26 08:29:33 +0000 2009",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "super-jump.tumblr.com",
+            "expanded_url": "http://super-jump.tumblr.com/",
+            "url": "https://t.co/TGwkvurYAx",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 33313,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 5259,
+    "statusesCount": 22494,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1911798890405482941"
+    ]
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "display_url": "pic.x.com/jX8GufidAW",
+        "expanded_url": "https://x.com/jumpoon/status/1911798890405482941/photo/1",
+        "id_str": "1911798875679027200",
+        "indices": [
+          47,
+          70
+        ],
+        "media_key": "3_1911798875679027200",
+        "media_url_https": "https://pbs.twimg.com/media/GogS8sLW8AALO_R.jpg",
+        "type": "photo",
+        "url": "https://t.co/jX8GufidAW",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "x": 126,
+                "y": 493,
+                "h": 191,
+                "w": 191
+              },
+              {
+                "x": 761,
+                "y": 1710,
+                "h": 222,
+                "w": 222
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "x": 75,
+                "y": 295,
+                "h": 114,
+                "w": 114
+              },
+              {
+                "x": 456,
+                "y": 1026,
+                "h": 133,
+                "w": 133
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "x": 42,
+                "y": 167,
+                "h": 64,
+                "w": 64
+              },
+              {
+                "x": 258,
+                "y": 581,
+                "h": 75,
+                "w": 75
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "x": 126,
+                "y": 493,
+                "h": 191,
+                "w": 191
+              },
+              {
+                "x": 761,
+                "y": 1710,
+                "h": 222,
+                "w": 222
+              }
+            ]
+          }
+        },
+        "sizes": {
+          "large": {
+            "h": 1999,
+            "w": 1966,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 1200,
+            "w": 1180,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 680,
+            "w": 669,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 1999,
+          "width": 1966,
+          "focus_rects": [
+            {
+              "x": 0,
+              "y": 498,
+              "w": 1966,
+              "h": 1101
+            },
+            {
+              "x": 0,
+              "y": 33,
+              "w": 1966,
+              "h": 1966
+            },
+            {
+              "x": 212,
+              "y": 0,
+              "w": 1754,
+              "h": 1999
+            },
+            {
+              "x": 947,
+              "y": 0,
+              "w": 1000,
+              "h": 1999
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 1966,
+              "h": 1999
+            }
+          ]
+        },
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "media_results": {
+          "result": {
+            "media_key": "3_1911798875679027200"
+          }
+        }
+      }
+    ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          9,
+          28
+        ],
+        "text": "DevilMayCryNetflix"
+      },
+      {
+        "indices": [
+          29,
+          41
+        ],
+        "text": "DevilMayCry"
+      },
+      {
+        "indices": [
+          42,
+          46
+        ],
+        "text": "DMC"
+      }
+    ],
+    "media": [
+      {
+        "display_url": "pic.x.com/jX8GufidAW",
+        "expanded_url": "https://x.com/jumpoon/status/1911798890405482941/photo/1",
+        "id_str": "1911798875679027200",
+        "indices": [
+          47,
+          70
+        ],
+        "media_key": "3_1911798875679027200",
+        "media_url_https": "https://pbs.twimg.com/media/GogS8sLW8AALO_R.jpg",
+        "type": "photo",
+        "url": "https://t.co/jX8GufidAW",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "x": 126,
+                "y": 493,
+                "h": 191,
+                "w": 191
+              },
+              {
+                "x": 761,
+                "y": 1710,
+                "h": 222,
+                "w": 222
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "x": 75,
+                "y": 295,
+                "h": 114,
+                "w": 114
+              },
+              {
+                "x": 456,
+                "y": 1026,
+                "h": 133,
+                "w": 133
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "x": 42,
+                "y": 167,
+                "h": 64,
+                "w": 64
+              },
+              {
+                "x": 258,
+                "y": 581,
+                "h": 75,
+                "w": 75
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "x": 126,
+                "y": 493,
+                "h": 191,
+                "w": 191
+              },
+              {
+                "x": 761,
+                "y": 1710,
+                "h": 222,
+                "w": 222
+              }
+            ]
+          }
+        },
+        "sizes": {
+          "large": {
+            "h": 1999,
+            "w": 1966,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 1200,
+            "w": 1180,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 680,
+            "w": 669,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 1999,
+          "width": 1966,
+          "focus_rects": [
+            {
+              "x": 0,
+              "y": 498,
+              "w": 1966,
+              "h": 1101
+            },
+            {
+              "x": 0,
+              "y": 33,
+              "w": 1966,
+              "h": 1966
+            },
+            {
+              "x": 212,
+              "y": 0,
+              "w": 1754,
+              "h": 1999
+            },
+            {
+              "x": 947,
+              "y": 0,
+              "w": 1000,
+              "h": 1999
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 1966,
+              "h": 1999
+            }
+          ]
+        },
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "media_results": {
+          "result": {
+            "media_key": "3_1911798875679027200"
+          }
+        }
+      }
+    ],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [
+    "https://pbs.twimg.com/media/GogS8sLW8AALO_R.jpg"
+  ],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "1912636677618823663",
+  "url": "https://x.com/TheOgress/status/1912636677618823663",
+  "twitterUrl": "https://twitter.com/TheOgress/status/1912636677618823663",
+  "text": "J ai un problème ...mais j adore dessiner ce batard!!!! ✨️✨️\n\nPARCE QUE LAPIN !!!! 🐰\n\n#DevilMayCryNetflix #DevilMayCry #Whiterabbit https://t.co/pLwvBG7Y0H",
+  "fullText": "J ai un problème ...mais j adore dessiner ce batard!!!! ✨️✨️\n\nPARCE QUE LAPIN !!!! 🐰\n\n#DevilMayCryNetflix #DevilMayCry #Whiterabbit https://t.co/pLwvBG7Y0H",
+  "source": "Twitter for Android",
+  "retweetCount": 384,
+  "replyCount": 9,
+  "likeCount": 3094,
+  "quoteCount": 2,
+  "viewCount": 29372,
+  "createdAt": "Wed Apr 16 22:38:13 +0000 2025",
+  "lang": "fr",
+  "bookmarkCount": 409,
+  "isReply": false,
+  "conversationId": "1912636677618823663",
+  "possiblySensitive": false,
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "TheOgress",
+    "url": "https://x.com/TheOgress",
+    "twitterUrl": "https://twitter.com/TheOgress",
+    "id": "1282402937558519810",
+    "name": "Rûga The Crimson Ogress - COMMISSIONS OPEN-",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1587763394748227585/QpaglsOO_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1282402937558519810/1667828998",
+    "description": "I'm an animation student -24- ✍️😸💖....and I'm an nice ogress I promise ☆♡~♡☆",
+    "location": "",
+    "followers": 238,
+    "following": 1463,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sun Jul 12 19:54:45 +0000 2020",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "linktr.ee/ruga_the_crims…",
+            "expanded_url": "https://linktr.ee/ruga_the_crimsonogress?utm_source=linktree_profile_share&ltsid=c021340b-b067-4a4d-",
+            "url": "https://t.co/9zUJQmlUML",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 63768,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "mediaCount": 225,
+    "statusesCount": 665,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1808413678590451795"
+    ]
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "display_url": "pic.x.com/pLwvBG7Y0H",
+        "expanded_url": "https://x.com/TheOgress/status/1912636677618823663/photo/1",
+        "id_str": "1912636674607058944",
+        "indices": [
+          132,
+          155
+        ],
+        "media_key": "3_1912636674607058944",
+        "media_url_https": "https://pbs.twimg.com/media/GosM7AZWkAAoyqt.jpg",
+        "type": "photo",
+        "url": "https://t.co/pLwvBG7Y0H",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": []
+          },
+          "medium": {
+            "faces": []
+          },
+          "small": {
+            "faces": []
+          },
+          "orig": {
+            "faces": []
+          }
+        },
+        "sizes": {
+          "large": {
+            "h": 1435,
+            "w": 2048,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 841,
+            "w": 1200,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 476,
+            "w": 680,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 1435,
+          "width": 2048,
+          "focus_rects": [
+            {
+              "x": 0,
+              "y": 0,
+              "w": 2048,
+              "h": 1147
+            },
+            {
+              "x": 563,
+              "y": 0,
+              "w": 1435,
+              "h": 1435
+            },
+            {
+              "x": 651,
+              "y": 0,
+              "w": 1259,
+              "h": 1435
+            },
+            {
+              "x": 921,
+              "y": 0,
+              "w": 718,
+              "h": 1435
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 2048,
+              "h": 1435
+            }
+          ]
+        },
+        "media_results": {
+          "result": {
+            "media_key": "3_1912636674607058944"
+          }
+        }
+      }
+    ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          86,
+          105
+        ],
+        "text": "DevilMayCryNetflix"
+      },
+      {
+        "indices": [
+          106,
+          118
+        ],
+        "text": "DevilMayCry"
+      },
+      {
+        "indices": [
+          119,
+          131
+        ],
+        "text": "Whiterabbit"
+      }
+    ],
+    "media": [
+      {
+        "display_url": "pic.x.com/pLwvBG7Y0H",
+        "expanded_url": "https://x.com/TheOgress/status/1912636677618823663/photo/1",
+        "id_str": "1912636674607058944",
+        "indices": [
+          132,
+          155
+        ],
+        "media_key": "3_1912636674607058944",
+        "media_url_https": "https://pbs.twimg.com/media/GosM7AZWkAAoyqt.jpg",
+        "type": "photo",
+        "url": "https://t.co/pLwvBG7Y0H",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": []
+          },
+          "medium": {
+            "faces": []
+          },
+          "small": {
+            "faces": []
+          },
+          "orig": {
+            "faces": []
+          }
+        },
+        "sizes": {
+          "large": {
+            "h": 1435,
+            "w": 2048,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 841,
+            "w": 1200,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 476,
+            "w": 680,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 1435,
+          "width": 2048,
+          "focus_rects": [
+            {
+              "x": 0,
+              "y": 0,
+              "w": 2048,
+              "h": 1147
+            },
+            {
+              "x": 563,
+              "y": 0,
+              "w": 1435,
+              "h": 1435
+            },
+            {
+              "x": 651,
+              "y": 0,
+              "w": 1259,
+              "h": 1435
+            },
+            {
+              "x": 921,
+              "y": 0,
+              "w": 718,
+              "h": 1435
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 2048,
+              "h": 1435
+            }
+          ]
+        },
+        "media_results": {
+          "result": {
+            "media_key": "3_1912636674607058944"
+          }
+        }
+      }
+    ],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [
+    "https://pbs.twimg.com/media/GosM7AZWkAAoyqt.jpg"
+  ],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "1911246217847411058",
+  "url": "https://x.com/jumpoon/status/1911246217847411058",
+  "twitterUrl": "https://twitter.com/jumpoon/status/1911246217847411058",
+  "text": "\"He fell first, she fell harder.\" \n\n#DevilMayCryNetflix #DevilMayCry https://t.co/3Ymnwql6aD",
+  "fullText": "\"He fell first, she fell harder.\" \n\n#DevilMayCryNetflix #DevilMayCry https://t.co/3Ymnwql6aD",
+  "source": "Twitter Web App",
+  "retweetCount": 309,
+  "replyCount": 24,
+  "likeCount": 3411,
+  "quoteCount": 35,
+  "viewCount": 120513,
+  "createdAt": "Sun Apr 13 02:33:02 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 466,
+  "isReply": false,
+  "conversationId": "1911246217847411058",
+  "possiblySensitive": false,
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "jumpoon",
+    "url": "https://x.com/jumpoon",
+    "twitterUrl": "https://twitter.com/jumpoon",
+    "id": "68932251",
+    "name": "Super-Jump",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1839265906045890561/66GCmKYR_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/68932251/1643299920",
+    "description": "’It's just fanart, why you guys have to be serious?’ 🌹Simp for Lady🌹may nsfw sometimes 🔞",
+    "location": "",
+    "followers": 21221,
+    "following": 144,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Wed Aug 26 08:29:33 +0000 2009",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "super-jump.tumblr.com",
+            "expanded_url": "http://super-jump.tumblr.com/",
+            "url": "https://t.co/TGwkvurYAx",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 33313,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 5259,
+    "statusesCount": 22494,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1911798890405482941"
+    ]
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "display_url": "pic.x.com/3Ymnwql6aD",
+        "expanded_url": "https://x.com/jumpoon/status/1911246217847411058/photo/1",
+        "id_str": "1911244010670186496",
+        "indices": [
+          69,
+          92
+        ],
+        "media_key": "3_1911244010670186496",
+        "media_url_https": "https://pbs.twimg.com/media/GoYaTS8W4AA9h3C.jpg",
+        "type": "photo",
+        "url": "https://t.co/3Ymnwql6aD",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": []
+          },
+          "medium": {
+            "faces": []
+          },
+          "small": {
+            "faces": []
+          },
+          "orig": {
+            "faces": []
+          }
+        },
+        "sizes": {
+          "large": {
+            "h": 1080,
+            "w": 1920,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 675,
+            "w": 1200,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 383,
+            "w": 680,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 1080,
+          "width": 1920,
+          "focus_rects": [
+            {
+              "x": 0,
+              "y": 0,
+              "w": 1920,
+              "h": 1075
+            },
+            {
+              "x": 468,
+              "y": 0,
+              "w": 1080,
+              "h": 1080
+            },
+            {
+              "x": 535,
+              "y": 0,
+              "w": 947,
+              "h": 1080
+            },
+            {
+              "x": 738,
+              "y": 0,
+              "w": 540,
+              "h": 1080
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 1920,
+              "h": 1080
+            }
+          ]
+        },
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "media_results": {
+          "result": {
+            "media_key": "3_1911244010670186496"
+          }
+        }
+      },
+      {
+        "display_url": "pic.x.com/3Ymnwql6aD",
+        "expanded_url": "https://x.com/jumpoon/status/1911246217847411058/photo/1",
+        "id_str": "1911244056035770368",
+        "indices": [
+          69,
+          92
+        ],
+        "media_key": "3_1911244056035770368",
+        "media_url_https": "https://pbs.twimg.com/media/GoYaV78WwAAv1xX.jpg",
+        "type": "photo",
+        "url": "https://t.co/3Ymnwql6aD",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": []
+          },
+          "medium": {
+            "faces": []
+          },
+          "small": {
+            "faces": []
+          },
+          "orig": {
+            "faces": []
+          }
+        },
+        "sizes": {
+          "large": {
+            "h": 1080,
+            "w": 1920,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 675,
+            "w": 1200,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 383,
+            "w": 680,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 1080,
+          "width": 1920,
+          "focus_rects": [
+            {
+              "x": 0,
+              "y": 0,
+              "w": 1920,
+              "h": 1075
+            },
+            {
+              "x": 372,
+              "y": 0,
+              "w": 1080,
+              "h": 1080
+            },
+            {
+              "x": 439,
+              "y": 0,
+              "w": 947,
+              "h": 1080
+            },
+            {
+              "x": 642,
+              "y": 0,
+              "w": 540,
+              "h": 1080
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 1920,
+              "h": 1080
+            }
+          ]
+        },
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "media_results": {
+          "result": {
+            "media_key": "3_1911244056035770368"
+          }
+        }
+      }
+    ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          36,
+          55
+        ],
+        "text": "DevilMayCryNetflix"
+      },
+      {
+        "indices": [
+          56,
+          68
+        ],
+        "text": "DevilMayCry"
+      }
+    ],
+    "media": [
+      {
+        "display_url": "pic.x.com/3Ymnwql6aD",
+        "expanded_url": "https://x.com/jumpoon/status/1911246217847411058/photo/1",
+        "id_str": "1911244010670186496",
+        "indices": [
+          69,
+          92
+        ],
+        "media_key": "3_1911244010670186496",
+        "media_url_https": "https://pbs.twimg.com/media/GoYaTS8W4AA9h3C.jpg",
+        "type": "photo",
+        "url": "https://t.co/3Ymnwql6aD",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": []
+          },
+          "medium": {
+            "faces": []
+          },
+          "small": {
+            "faces": []
+          },
+          "orig": {
+            "faces": []
+          }
+        },
+        "sizes": {
+          "large": {
+            "h": 1080,
+            "w": 1920,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 675,
+            "w": 1200,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 383,
+            "w": 680,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 1080,
+          "width": 1920,
+          "focus_rects": [
+            {
+              "x": 0,
+              "y": 0,
+              "w": 1920,
+              "h": 1075
+            },
+            {
+              "x": 468,
+              "y": 0,
+              "w": 1080,
+              "h": 1080
+            },
+            {
+              "x": 535,
+              "y": 0,
+              "w": 947,
+              "h": 1080
+            },
+            {
+              "x": 738,
+              "y": 0,
+              "w": 540,
+              "h": 1080
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 1920,
+              "h": 1080
+            }
+          ]
+        },
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "media_results": {
+          "result": {
+            "media_key": "3_1911244010670186496"
+          }
+        }
+      },
+      {
+        "display_url": "pic.x.com/3Ymnwql6aD",
+        "expanded_url": "https://x.com/jumpoon/status/1911246217847411058/photo/1",
+        "id_str": "1911244056035770368",
+        "indices": [
+          69,
+          92
+        ],
+        "media_key": "3_1911244056035770368",
+        "media_url_https": "https://pbs.twimg.com/media/GoYaV78WwAAv1xX.jpg",
+        "type": "photo",
+        "url": "https://t.co/3Ymnwql6aD",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": []
+          },
+          "medium": {
+            "faces": []
+          },
+          "small": {
+            "faces": []
+          },
+          "orig": {
+            "faces": []
+          }
+        },
+        "sizes": {
+          "large": {
+            "h": 1080,
+            "w": 1920,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 675,
+            "w": 1200,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 383,
+            "w": 680,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 1080,
+          "width": 1920,
+          "focus_rects": [
+            {
+              "x": 0,
+              "y": 0,
+              "w": 1920,
+              "h": 1075
+            },
+            {
+              "x": 372,
+              "y": 0,
+              "w": 1080,
+              "h": 1080
+            },
+            {
+              "x": 439,
+              "y": 0,
+              "w": 947,
+              "h": 1080
+            },
+            {
+              "x": 642,
+              "y": 0,
+              "w": 540,
+              "h": 1080
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 1920,
+              "h": 1080
+            }
+          ]
+        },
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "media_results": {
+          "result": {
+            "media_key": "3_1911244056035770368"
+          }
+        }
+      }
+    ],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [
+    "https://pbs.twimg.com/media/GoYaTS8W4AA9h3C.jpg",
+    "https://pbs.twimg.com/media/GoYaV78WwAAv1xX.jpg"
+  ],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "1910544716858552716",
+  "url": "https://x.com/WolfMoon35/status/1910544716858552716",
+  "twitterUrl": "https://twitter.com/WolfMoon35/status/1910544716858552716",
+  "text": "DUDE THESE KEY ARTS?\nFreakin fantastic, White Rabbit literally begging to be playable in a DMC game. Xp\n#DevilMayCryNetflix https://t.co/kfF57eWmj7",
+  "fullText": "DUDE THESE KEY ARTS?\nFreakin fantastic, White Rabbit literally begging to be playable in a DMC game. Xp\n#DevilMayCryNetflix https://t.co/kfF57eWmj7",
+  "source": "Twitter for iPhone",
+  "retweetCount": 391,
+  "replyCount": 20,
+  "likeCount": 2751,
+  "quoteCount": 27,
+  "viewCount": 42199,
+  "createdAt": "Fri Apr 11 04:05:31 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 481,
+  "isReply": false,
+  "conversationId": "1910544716858552716",
+  "possiblySensitive": false,
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "WolfMoon35",
+    "url": "https://x.com/WolfMoon35",
+    "twitterUrl": "https://twitter.com/WolfMoon35",
+    "id": "1469006966",
+    "name": "Wolf Moon(BUST COMMISSIONS CLOSED)",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1633253119663669248/ZfLmYyrH_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1469006966/1735880861",
+    "description": "I'm a gamer who loves heroes, and is passionate about cartoons & apparently I suck at fighting games now. FA page: https://t.co/5ztpJXENuD",
+    "location": "",
+    "followers": 4471,
+    "following": 1451,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Thu May 30 05:34:25 +0000 2013",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "furaffinity.net/user/wolf-moon/",
+            "expanded_url": "http://furaffinity.net/user/wolf-moon/",
+            "url": "https://t.co/5ztpJXENuD",
+            "indices": [
+              115,
+              138
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 249723,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "mediaCount": 11020,
+    "statusesCount": 169008,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1814176728128041187"
+    ]
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "display_url": "pic.x.com/kfF57eWmj7",
+        "expanded_url": "https://x.com/WolfMoon35/status/1910544716858552716/photo/1",
+        "id_str": "1910544712140034048",
+        "indices": [
+          124,
+          147
+        ],
+        "media_key": "3_1910544712140034048",
+        "media_url_https": "https://pbs.twimg.com/media/GoOeSw6bkAArvk1.jpg",
+        "type": "photo",
+        "url": "https://t.co/kfF57eWmj7",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "x": 792,
+                "y": 342,
+                "h": 76,
+                "w": 76
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "x": 464,
+                "y": 200,
+                "h": 44,
+                "w": 44
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "x": 262,
+                "y": 113,
+                "h": 25,
+                "w": 25
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "x": 792,
+                "y": 342,
+                "h": 76,
+                "w": 76
+              }
+            ]
+          }
+        },
+        "sizes": {
+          "large": {
+            "h": 2048,
+            "w": 2048,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 1200,
+            "w": 1200,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 680,
+            "w": 680,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 2048,
+          "width": 2048,
+          "focus_rects": [
+            {
+              "x": 0,
+              "y": 0,
+              "w": 2048,
+              "h": 1147
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 2048,
+              "h": 2048
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 1796,
+              "h": 2048
+            },
+            {
+              "x": 256,
+              "y": 0,
+              "w": 1024,
+              "h": 2048
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 2048,
+              "h": 2048
+            }
+          ]
+        },
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "media_results": {
+          "result": {
+            "media_key": "3_1910544712140034048"
+          }
+        }
+      },
+      {
+        "display_url": "pic.x.com/kfF57eWmj7",
+        "expanded_url": "https://x.com/WolfMoon35/status/1910544716858552716/photo/1",
+        "id_str": "1910544712144142336",
+        "indices": [
+          124,
+          147
+        ],
+        "media_key": "3_1910544712144142336",
+        "media_url_https": "https://pbs.twimg.com/media/GoOeSw7aQAAx-JD.jpg",
+        "type": "photo",
+        "url": "https://t.co/kfF57eWmj7",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "x": 1330,
+                "y": 768,
+                "h": 214,
+                "w": 214
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "x": 779,
+                "y": 450,
+                "h": 125,
+                "w": 125
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "x": 441,
+                "y": 255,
+                "h": 71,
+                "w": 71
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "x": 1330,
+                "y": 768,
+                "h": 214,
+                "w": 214
+              }
+            ]
+          }
+        },
+        "sizes": {
+          "large": {
+            "h": 2048,
+            "w": 2048,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 1200,
+            "w": 1200,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 680,
+            "w": 680,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 2048,
+          "width": 2048,
+          "focus_rects": [
+            {
+              "x": 0,
+              "y": 0,
+              "w": 2048,
+              "h": 1147
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 2048,
+              "h": 2048
+            },
+            {
+              "x": 252,
+              "y": 0,
+              "w": 1796,
+              "h": 2048
+            },
+            {
+              "x": 972,
+              "y": 0,
+              "w": 1024,
+              "h": 2048
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 2048,
+              "h": 2048
+            }
+          ]
+        },
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "media_results": {
+          "result": {
+            "media_key": "3_1910544712144142336"
+          }
+        }
+      },
+      {
+        "display_url": "pic.x.com/kfF57eWmj7",
+        "expanded_url": "https://x.com/WolfMoon35/status/1910544716858552716/photo/1",
+        "id_str": "1910544712139935744",
+        "indices": [
+          124,
+          147
+        ],
+        "media_key": "3_1910544712139935744",
+        "media_url_https": "https://pbs.twimg.com/media/GoOeSw6aEAAr9A7.jpg",
+        "type": "photo",
+        "url": "https://t.co/kfF57eWmj7",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": []
+          },
+          "medium": {
+            "faces": []
+          },
+          "small": {
+            "faces": []
+          },
+          "orig": {
+            "faces": []
+          }
+        },
+        "sizes": {
+          "large": {
+            "h": 2048,
+            "w": 2048,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 1200,
+            "w": 1200,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 680,
+            "w": 680,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 2048,
+          "width": 2048,
+          "focus_rects": [
+            {
+              "x": 0,
+              "y": 92,
+              "w": 2048,
+              "h": 1147
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 2048,
+              "h": 2048
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 1796,
+              "h": 2048
+            },
+            {
+              "x": 358,
+              "y": 0,
+              "w": 1024,
+              "h": 2048
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 2048,
+              "h": 2048
+            }
+          ]
+        },
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "media_results": {
+          "result": {
+            "media_key": "3_1910544712139935744"
+          }
+        }
+      }
+    ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          104,
+          123
+        ],
+        "text": "DevilMayCryNetflix"
+      }
+    ],
+    "media": [
+      {
+        "display_url": "pic.x.com/kfF57eWmj7",
+        "expanded_url": "https://x.com/WolfMoon35/status/1910544716858552716/photo/1",
+        "id_str": "1910544712140034048",
+        "indices": [
+          124,
+          147
+        ],
+        "media_key": "3_1910544712140034048",
+        "media_url_https": "https://pbs.twimg.com/media/GoOeSw6bkAArvk1.jpg",
+        "type": "photo",
+        "url": "https://t.co/kfF57eWmj7",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "x": 792,
+                "y": 342,
+                "h": 76,
+                "w": 76
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "x": 464,
+                "y": 200,
+                "h": 44,
+                "w": 44
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "x": 262,
+                "y": 113,
+                "h": 25,
+                "w": 25
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "x": 792,
+                "y": 342,
+                "h": 76,
+                "w": 76
+              }
+            ]
+          }
+        },
+        "sizes": {
+          "large": {
+            "h": 2048,
+            "w": 2048,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 1200,
+            "w": 1200,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 680,
+            "w": 680,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 2048,
+          "width": 2048,
+          "focus_rects": [
+            {
+              "x": 0,
+              "y": 0,
+              "w": 2048,
+              "h": 1147
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 2048,
+              "h": 2048
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 1796,
+              "h": 2048
+            },
+            {
+              "x": 256,
+              "y": 0,
+              "w": 1024,
+              "h": 2048
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 2048,
+              "h": 2048
+            }
+          ]
+        },
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "media_results": {
+          "result": {
+            "media_key": "3_1910544712140034048"
+          }
+        }
+      },
+      {
+        "display_url": "pic.x.com/kfF57eWmj7",
+        "expanded_url": "https://x.com/WolfMoon35/status/1910544716858552716/photo/1",
+        "id_str": "1910544712144142336",
+        "indices": [
+          124,
+          147
+        ],
+        "media_key": "3_1910544712144142336",
+        "media_url_https": "https://pbs.twimg.com/media/GoOeSw7aQAAx-JD.jpg",
+        "type": "photo",
+        "url": "https://t.co/kfF57eWmj7",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "x": 1330,
+                "y": 768,
+                "h": 214,
+                "w": 214
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "x": 779,
+                "y": 450,
+                "h": 125,
+                "w": 125
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "x": 441,
+                "y": 255,
+                "h": 71,
+                "w": 71
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "x": 1330,
+                "y": 768,
+                "h": 214,
+                "w": 214
+              }
+            ]
+          }
+        },
+        "sizes": {
+          "large": {
+            "h": 2048,
+            "w": 2048,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 1200,
+            "w": 1200,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 680,
+            "w": 680,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 2048,
+          "width": 2048,
+          "focus_rects": [
+            {
+              "x": 0,
+              "y": 0,
+              "w": 2048,
+              "h": 1147
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 2048,
+              "h": 2048
+            },
+            {
+              "x": 252,
+              "y": 0,
+              "w": 1796,
+              "h": 2048
+            },
+            {
+              "x": 972,
+              "y": 0,
+              "w": 1024,
+              "h": 2048
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 2048,
+              "h": 2048
+            }
+          ]
+        },
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "media_results": {
+          "result": {
+            "media_key": "3_1910544712144142336"
+          }
+        }
+      },
+      {
+        "display_url": "pic.x.com/kfF57eWmj7",
+        "expanded_url": "https://x.com/WolfMoon35/status/1910544716858552716/photo/1",
+        "id_str": "1910544712139935744",
+        "indices": [
+          124,
+          147
+        ],
+        "media_key": "3_1910544712139935744",
+        "media_url_https": "https://pbs.twimg.com/media/GoOeSw6aEAAr9A7.jpg",
+        "type": "photo",
+        "url": "https://t.co/kfF57eWmj7",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": []
+          },
+          "medium": {
+            "faces": []
+          },
+          "small": {
+            "faces": []
+          },
+          "orig": {
+            "faces": []
+          }
+        },
+        "sizes": {
+          "large": {
+            "h": 2048,
+            "w": 2048,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 1200,
+            "w": 1200,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 680,
+            "w": 680,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 2048,
+          "width": 2048,
+          "focus_rects": [
+            {
+              "x": 0,
+              "y": 92,
+              "w": 2048,
+              "h": 1147
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 2048,
+              "h": 2048
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 1796,
+              "h": 2048
+            },
+            {
+              "x": 358,
+              "y": 0,
+              "w": 1024,
+              "h": 2048
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 2048,
+              "h": 2048
+            }
+          ]
+        },
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "media_results": {
+          "result": {
+            "media_key": "3_1910544712139935744"
+          }
+        }
+      }
+    ],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [
+    "https://pbs.twimg.com/media/GoOeSw6bkAArvk1.jpg",
+    "https://pbs.twimg.com/media/GoOeSw7aQAAx-JD.jpg",
+    "https://pbs.twimg.com/media/GoOeSw6aEAAr9A7.jpg"
+  ],
+  "isConversationControlled": false
+}]

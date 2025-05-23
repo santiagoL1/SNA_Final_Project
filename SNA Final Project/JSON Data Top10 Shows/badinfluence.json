@@ -1,0 +1,2474 @@
+[{
+  "type": "tweet",
+  "id": "1910136720688849338",
+  "url": "https://x.com/feminnazty/status/1910136720688849338",
+  "twitterUrl": "https://twitter.com/feminnazty/status/1910136720688849338",
+  "text": "I am watching #badinfluence and Tiffany needs to be in PRISON NOW! Piper is still a minor and she needs to be saved #BadInfluenceTheDarkSideOfKidfluencing https://t.co/HVgWFSeAGh",
+  "fullText": "I am watching #badinfluence and Tiffany needs to be in PRISON NOW! Piper is still a minor and she needs to be saved #BadInfluenceTheDarkSideOfKidfluencing https://t.co/HVgWFSeAGh",
+  "source": "Twitter Web App",
+  "retweetCount": 53,
+  "replyCount": 10,
+  "likeCount": 511,
+  "quoteCount": 3,
+  "viewCount": 21209,
+  "createdAt": "Thu Apr 10 01:04:17 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 4,
+  "isReply": false,
+  "conversationId": "1910136720688849338",
+  "possiblySensitive": false,
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "feminnazty",
+    "url": "https://x.com/feminnazty",
+    "twitterUrl": "https://twitter.com/feminnazty",
+    "id": "550667486",
+    "name": "Aspiring Feminist Icon",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1622786666409652224/vrluWu3N_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/550667486/1648227434",
+    "description": "Will be a future US Senator one day, please don't take my tweets too seriously (she/they) Clinic Escort & @NYAAF Case Manager $AliaGT",
+    "location": "NYC",
+    "followers": 514,
+    "following": 534,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Wed Apr 11 03:38:23 +0000 2012",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 64113,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 1394,
+    "statusesCount": 14631,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1574569946658779136"
+    ]
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "display_url": "pic.x.com/HVgWFSeAGh",
+        "expanded_url": "https://x.com/feminnazty/status/1910136720688849338/photo/1",
+        "ext_alt_text": "Aidy Bryant Snl GIF by Saturday Night Live",
+        "id_str": "1910136715198550016",
+        "indices": [
+          155,
+          178
+        ],
+        "media_key": "16_1910136715198550016",
+        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/GoIrON3XUAAPV-F.jpg",
+        "type": "animated_gif",
+        "url": "https://t.co/HVgWFSeAGh",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "sizes": {
+          "large": {
+            "h": 272,
+            "w": 480,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 272,
+            "w": 480,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 272,
+            "w": 480,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 272,
+          "width": 480,
+          "focus_rects": []
+        },
+        "video_info": {
+          "aspect_ratio": [
+            30,
+            17
+          ],
+          "variants": [
+            {
+              "bitrate": 0,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/tweet_video/GoIrON3XUAAPV-F.mp4"
+            }
+          ]
+        },
+        "media_results": {
+          "result": {
+            "media_key": "16_1910136715198550016"
+          }
+        }
+      }
+    ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          14,
+          27
+        ],
+        "text": "badinfluence"
+      },
+      {
+        "indices": [
+          116,
+          154
+        ],
+        "text": "BadInfluenceTheDarkSideOfKidfluencing"
+      }
+    ],
+    "media": [
+      {
+        "display_url": "pic.x.com/HVgWFSeAGh",
+        "expanded_url": "https://x.com/feminnazty/status/1910136720688849338/photo/1",
+        "ext_alt_text": "Aidy Bryant Snl GIF by Saturday Night Live",
+        "id_str": "1910136715198550016",
+        "indices": [
+          155,
+          178
+        ],
+        "media_key": "16_1910136715198550016",
+        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/GoIrON3XUAAPV-F.jpg",
+        "type": "animated_gif",
+        "url": "https://t.co/HVgWFSeAGh",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "sizes": {
+          "large": {
+            "h": 272,
+            "w": 480,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 272,
+            "w": 480,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 272,
+            "w": 480,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 272,
+          "width": 480,
+          "focus_rects": []
+        },
+        "video_info": {
+          "aspect_ratio": [
+            30,
+            17
+          ],
+          "variants": [
+            {
+              "bitrate": 0,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/tweet_video/GoIrON3XUAAPV-F.mp4"
+            }
+          ]
+        },
+        "media_results": {
+          "result": {
+            "media_key": "16_1910136715198550016"
+          }
+        }
+      }
+    ],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [
+    "https://pbs.twimg.com/tweet_video_thumb/GoIrON3XUAAPV-F.jpg"
+  ],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "1910142338275406063",
+  "url": "https://x.com/feminnazty/status/1910142338275406063",
+  "twitterUrl": "https://twitter.com/feminnazty/status/1910142338275406063",
+  "text": "After watching #QuietOnSet and now #BadInfluenceTheDarkSideOfKidfluencing LORD HELP THESE CHILDREN \n#badinfluence https://t.co/xwoYzlNBTH",
+  "fullText": "After watching #QuietOnSet and now #BadInfluenceTheDarkSideOfKidfluencing LORD HELP THESE CHILDREN \n#badinfluence https://t.co/xwoYzlNBTH",
+  "source": "Twitter Web App",
+  "retweetCount": 41,
+  "replyCount": 3,
+  "likeCount": 256,
+  "quoteCount": 0,
+  "viewCount": 11591,
+  "createdAt": "Thu Apr 10 01:26:36 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 8,
+  "isReply": false,
+  "conversationId": "1910142338275406063",
+  "possiblySensitive": false,
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "feminnazty",
+    "url": "https://x.com/feminnazty",
+    "twitterUrl": "https://twitter.com/feminnazty",
+    "id": "550667486",
+    "name": "Aspiring Feminist Icon",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1622786666409652224/vrluWu3N_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/550667486/1648227434",
+    "description": "Will be a future US Senator one day, please don't take my tweets too seriously (she/they) Clinic Escort & @NYAAF Case Manager $AliaGT",
+    "location": "NYC",
+    "followers": 514,
+    "following": 534,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Wed Apr 11 03:38:23 +0000 2012",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 64113,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 1394,
+    "statusesCount": 14631,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1574569946658779136"
+    ]
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "display_url": "pic.x.com/xwoYzlNBTH",
+        "expanded_url": "https://x.com/feminnazty/status/1910142338275406063/photo/1",
+        "ext_alt_text": "Fix It Real Housewives GIF",
+        "id_str": "1910142332705312768",
+        "indices": [
+          114,
+          137
+        ],
+        "media_key": "16_1910142332705312768",
+        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/GoIwVMtWEAArf68.jpg",
+        "type": "animated_gif",
+        "url": "https://t.co/xwoYzlNBTH",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "sizes": {
+          "large": {
+            "h": 280,
+            "w": 500,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 280,
+            "w": 500,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 280,
+            "w": 500,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 280,
+          "width": 500,
+          "focus_rects": []
+        },
+        "video_info": {
+          "aspect_ratio": [
+            25,
+            14
+          ],
+          "variants": [
+            {
+              "bitrate": 0,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/tweet_video/GoIwVMtWEAArf68.mp4"
+            }
+          ]
+        },
+        "media_results": {
+          "result": {
+            "media_key": "16_1910142332705312768"
+          }
+        }
+      }
+    ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          15,
+          26
+        ],
+        "text": "QuietOnSet"
+      },
+      {
+        "indices": [
+          35,
+          73
+        ],
+        "text": "BadInfluenceTheDarkSideOfKidfluencing"
+      },
+      {
+        "indices": [
+          100,
+          113
+        ],
+        "text": "badinfluence"
+      }
+    ],
+    "media": [
+      {
+        "display_url": "pic.x.com/xwoYzlNBTH",
+        "expanded_url": "https://x.com/feminnazty/status/1910142338275406063/photo/1",
+        "ext_alt_text": "Fix It Real Housewives GIF",
+        "id_str": "1910142332705312768",
+        "indices": [
+          114,
+          137
+        ],
+        "media_key": "16_1910142332705312768",
+        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/GoIwVMtWEAArf68.jpg",
+        "type": "animated_gif",
+        "url": "https://t.co/xwoYzlNBTH",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "sizes": {
+          "large": {
+            "h": 280,
+            "w": 500,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 280,
+            "w": 500,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 280,
+            "w": 500,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 280,
+          "width": 500,
+          "focus_rects": []
+        },
+        "video_info": {
+          "aspect_ratio": [
+            25,
+            14
+          ],
+          "variants": [
+            {
+              "bitrate": 0,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/tweet_video/GoIwVMtWEAArf68.mp4"
+            }
+          ]
+        },
+        "media_results": {
+          "result": {
+            "media_key": "16_1910142332705312768"
+          }
+        }
+      }
+    ],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [
+    "https://pbs.twimg.com/tweet_video_thumb/GoIwVMtWEAArf68.jpg"
+  ],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "1910512615337369885",
+  "url": "https://x.com/alex_bleich/status/1910512615337369885",
+  "twitterUrl": "https://twitter.com/alex_bleich/status/1910512615337369885",
+  "text": "sorry but the parents in #BadInfluence on netflix making excuses like “we didn’t know what was going on” please. you were willfully ignorant because you viewed your kids as cash cows.",
+  "fullText": "sorry but the parents in #BadInfluence on netflix making excuses like “we didn’t know what was going on” please. you were willfully ignorant because you viewed your kids as cash cows.",
+  "source": "Twitter for iPhone",
+  "retweetCount": 65,
+  "replyCount": 13,
+  "likeCount": 461,
+  "quoteCount": 7,
+  "viewCount": 14593,
+  "createdAt": "Fri Apr 11 01:57:57 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 7,
+  "isReply": false,
+  "conversationId": "1910512615337369885",
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "alex_bleich",
+    "url": "https://x.com/alex_bleich",
+    "twitterUrl": "https://twitter.com/alex_bleich",
+    "id": "297728627",
+    "name": "alex",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1911822322429816832/4_Ozx75C_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/297728627/1645498416",
+    "description": "what it do baby boo",
+    "location": "Toms River, NJ",
+    "followers": 228,
+    "following": 287,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Fri May 13 00:49:17 +0000 2011",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 14572,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 1067,
+    "statusesCount": 15046,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": []
+  },
+  "extendedEntities": {},
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          25,
+          38
+        ],
+        "text": "BadInfluence"
+      }
+    ],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "1910164208626377000",
+  "url": "https://x.com/DaniAlexMusic/status/1910164208626377000",
+  "twitterUrl": "https://twitter.com/DaniAlexMusic/status/1910164208626377000",
+  "text": "When kids become the primary breadwinners for their families there is no way they are not being exploited! People need to STOP watching family vlogs and child influencers #BadInfluenceTheDarkSideOfKidfluencing #badinfluence #piperrockelle https://t.co/nR5tsxRhWW",
+  "fullText": "When kids become the primary breadwinners for their families there is no way they are not being exploited! People need to STOP watching family vlogs and child influencers #BadInfluenceTheDarkSideOfKidfluencing #badinfluence #piperrockelle https://t.co/nR5tsxRhWW",
+  "source": "Twitter for iPhone",
+  "retweetCount": 51,
+  "replyCount": 2,
+  "likeCount": 443,
+  "quoteCount": 3,
+  "viewCount": 61103,
+  "createdAt": "Thu Apr 10 02:53:31 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 7,
+  "isReply": false,
+  "conversationId": "1910164208626377000",
+  "possiblySensitive": false,
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "DaniAlexMusic",
+    "url": "https://x.com/DaniAlexMusic",
+    "twitterUrl": "https://twitter.com/DaniAlexMusic",
+    "id": "268833472",
+    "name": "Dani Alexandria",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1725186836698370049/pFUJjBUJ_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/268833472/1635384252",
+    "description": "👸🏽Singer/ Songwriter, Entrepreneur & Disability advocate who is casually trying to change the world!🎙Let’s Talk Creative",
+    "location": "Toronto",
+    "followers": 365,
+    "following": 231,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Sat Mar 19 15:19:14 +0000 2011",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "ThePinkPooch.com",
+            "expanded_url": "http://ThePinkPooch.com",
+            "url": "https://t.co/9f7qY9OmPM",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 38290,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 1331,
+    "statusesCount": 18986,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": []
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "display_url": "pic.x.com/nR5tsxRhWW",
+        "expanded_url": "https://x.com/DaniAlexMusic/status/1910164208626377000/photo/1",
+        "ext_alt_text": "Cam GIF",
+        "id_str": "1910164203098316800",
+        "indices": [
+          239,
+          262
+        ],
+        "media_key": "16_1910164203098316800",
+        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/GoJEOORXoAAdN0B.jpg",
+        "type": "animated_gif",
+        "url": "https://t.co/nR5tsxRhWW",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "sizes": {
+          "large": {
+            "h": 390,
+            "w": 220,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 390,
+            "w": 220,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 390,
+            "w": 220,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 390,
+          "width": 220,
+          "focus_rects": []
+        },
+        "video_info": {
+          "aspect_ratio": [
+            22,
+            39
+          ],
+          "variants": [
+            {
+              "bitrate": 0,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/tweet_video/GoJEOORXoAAdN0B.mp4"
+            }
+          ]
+        },
+        "media_results": {
+          "result": {
+            "media_key": "16_1910164203098316800"
+          }
+        }
+      }
+    ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          171,
+          209
+        ],
+        "text": "BadInfluenceTheDarkSideOfKidfluencing"
+      },
+      {
+        "indices": [
+          210,
+          223
+        ],
+        "text": "badinfluence"
+      },
+      {
+        "indices": [
+          224,
+          238
+        ],
+        "text": "piperrockelle"
+      }
+    ],
+    "media": [
+      {
+        "display_url": "pic.x.com/nR5tsxRhWW",
+        "expanded_url": "https://x.com/DaniAlexMusic/status/1910164208626377000/photo/1",
+        "ext_alt_text": "Cam GIF",
+        "id_str": "1910164203098316800",
+        "indices": [
+          239,
+          262
+        ],
+        "media_key": "16_1910164203098316800",
+        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/GoJEOORXoAAdN0B.jpg",
+        "type": "animated_gif",
+        "url": "https://t.co/nR5tsxRhWW",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "sizes": {
+          "large": {
+            "h": 390,
+            "w": 220,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 390,
+            "w": 220,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 390,
+            "w": 220,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 390,
+          "width": 220,
+          "focus_rects": []
+        },
+        "video_info": {
+          "aspect_ratio": [
+            22,
+            39
+          ],
+          "variants": [
+            {
+              "bitrate": 0,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/tweet_video/GoJEOORXoAAdN0B.mp4"
+            }
+          ]
+        },
+        "media_results": {
+          "result": {
+            "media_key": "16_1910164203098316800"
+          }
+        }
+      }
+    ],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [
+    "https://pbs.twimg.com/tweet_video_thumb/GoJEOORXoAAdN0B.jpg"
+  ],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "1910396132015874419",
+  "url": "https://x.com/Heather_ridg/status/1910396132015874419",
+  "twitterUrl": "https://twitter.com/Heather_ridg/status/1910396132015874419",
+  "text": "#BadInfluence is worse than I could’ve imagined. And all of those parents are at fault. You mean to tell me your child was being sexually abused and you settled for $170,000 each instead of letting your child testify and get this trafficker behind bars!? Gross",
+  "fullText": "#BadInfluence is worse than I could’ve imagined. And all of those parents are at fault. You mean to tell me your child was being sexually abused and you settled for $170,000 each instead of letting your child testify and get this trafficker behind bars!? Gross",
+  "source": "Twitter for iPhone",
+  "retweetCount": 21,
+  "replyCount": 5,
+  "likeCount": 161,
+  "quoteCount": 1,
+  "viewCount": 6459,
+  "createdAt": "Thu Apr 10 18:15:05 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 6,
+  "isReply": false,
+  "conversationId": "1910396132015874419",
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "Heather_ridg",
+    "url": "https://x.com/Heather_ridg",
+    "twitterUrl": "https://twitter.com/Heather_ridg",
+    "id": "387877289",
+    "name": "Heather Mitchell",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1499920934983159811/rJflcABV_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/387877289/1653188170",
+    "description": "",
+    "location": "",
+    "followers": 138,
+    "following": 229,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": false,
+    "createdAt": "Sun Oct 09 20:22:33 +0000 2011",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 6163,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 511,
+    "statusesCount": 7620,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": []
+  },
+  "extendedEntities": {},
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          0,
+          13
+        ],
+        "text": "BadInfluence"
+      }
+    ],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "1910010697070620988",
+  "url": "https://x.com/sar_alice/status/1910010697070620988",
+  "twitterUrl": "https://twitter.com/sar_alice/status/1910010697070620988",
+  "text": "Stop putting your children on the internet. Stop exploiting your children on the internet. Stop making money from your children on the internet! This series is insane! #badinfluence",
+  "fullText": "Stop putting your children on the internet. Stop exploiting your children on the internet. Stop making money from your children on the internet! This series is insane! #badinfluence",
+  "source": "Twitter for iPhone",
+  "retweetCount": 53,
+  "replyCount": 3,
+  "likeCount": 279,
+  "quoteCount": 2,
+  "viewCount": 82643,
+  "createdAt": "Wed Apr 09 16:43:31 +0000 2025",
+  "lang": "en",
+  "quoteId": "1909682660731175290",
+  "bookmarkCount": 5,
+  "isReply": false,
+  "conversationId": "1910010697070620988",
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "sar_alice",
+    "url": "https://x.com/sar_alice",
+    "twitterUrl": "https://twitter.com/sar_alice",
+    "id": "764676110894235648",
+    "name": "Sar",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1761453716765392897/VS5O7ui9_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/764676110894235648/1730316525",
+    "description": "🪿",
+    "location": "Liverpool, England",
+    "followers": 122,
+    "following": 719,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Sun Aug 14 04:12:46 +0000 2016",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 44258,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 477,
+    "statusesCount": 2774,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1887246377543213130"
+    ]
+  },
+  "extendedEntities": {},
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          168,
+          181
+        ],
+        "text": "badinfluence"
+      }
+    ],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": true,
+  "quote": {
+    "type": "tweet",
+    "id": "1909682660731175290",
+    "text": "Bad Influencing: The Dark Side of Kidfluencing premieres in 12 hours.\n\nAn explosive docuseries that explores the shadowy world of child influencers, honing in on the disturbing allegations of abuse surrounding popular internet celebrity Piper Rockelle and her momager Tiffany Smith.",
+    "source": "Twitter Web Client",
+    "retweetCount": 93,
+    "replyCount": 41,
+    "likeCount": 558,
+    "quoteCount": 51,
+    "viewCount": 146621,
+    "createdAt": "Tue Apr 08 19:00:01 +0000 2025",
+    "lang": "en",
+    "bookmarkCount": 88,
+    "possiblySensitive": false,
+    "isPinned": false,
+    "author": {
+      "type": "user",
+      "userName": "netflix",
+      "url": "https://x.com/netflix",
+      "twitterUrl": "https://twitter.com/netflix",
+      "id": "16573941",
+      "name": "Netflix",
+      "isVerified": false,
+      "verifiedType": "Business",
+      "isBlueVerified": true,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1872671711700582400/6WLZxYpq_normal.jpg",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/16573941/1744271035",
+      "description": "barnies",
+      "location": "California, USA",
+      "followers": 22853420,
+      "following": 2222,
+      "status": "",
+      "canDm": true,
+      "canMediaTag": false,
+      "createdAt": "Fri Oct 03 04:16:17 +0000 2008",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "netflix.com",
+              "expanded_url": "https://netflix.com",
+              "url": "https://t.co/plHjUOcU1u",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        }
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 16002,
+      "hasCustomTimelines": true,
+      "isTranslator": false,
+      "mediaCount": 20272,
+      "statusesCount": 59778,
+      "withheldInCountries": [],
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": []
+    },
+    "extendedEntities": {
+      "media": [
+        {
+          "display_url": "pic.x.com/FDhGHgIDpM",
+          "expanded_url": "https://x.com/netflix/status/1909682660731175290/photo/1",
+          "id_str": "1909663519017938944",
+          "indices": [
+            276,
+            299
+          ],
+          "media_key": "3_1909663519017938944",
+          "media_url_https": "https://pbs.twimg.com/media/GoB82kuWMAAk10i.jpg",
+          "type": "photo",
+          "url": "https://t.co/FDhGHgIDpM",
+          "ext_media_availability": {
+            "status": "Available"
+          },
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "x": 213,
+                  "y": 280,
+                  "h": 137,
+                  "w": 137
+                },
+                {
+                  "x": 698,
+                  "y": 471,
+                  "h": 145,
+                  "w": 145
+                },
+                {
+                  "x": 825,
+                  "y": 357,
+                  "h": 145,
+                  "w": 145
+                },
+                {
+                  "x": 94,
+                  "y": 471,
+                  "h": 155,
+                  "w": 155
+                },
+                {
+                  "x": 238,
+                  "y": 572,
+                  "h": 154,
+                  "w": 154
+                },
+                {
+                  "x": 558,
+                  "y": 338,
+                  "h": 148,
+                  "w": 148
+                }
+              ]
+            },
+            "medium": {
+              "faces": [
+                {
+                  "x": 189,
+                  "y": 248,
+                  "h": 121,
+                  "w": 121
+                },
+                {
+                  "x": 620,
+                  "y": 418,
+                  "h": 128,
+                  "w": 128
+                },
+                {
+                  "x": 733,
+                  "y": 317,
+                  "h": 128,
+                  "w": 128
+                },
+                {
+                  "x": 83,
+                  "y": 418,
+                  "h": 137,
+                  "w": 137
+                },
+                {
+                  "x": 211,
+                  "y": 508,
+                  "h": 136,
+                  "w": 136
+                },
+                {
+                  "x": 496,
+                  "y": 300,
+                  "h": 131,
+                  "w": 131
+                }
+              ]
+            },
+            "small": {
+              "faces": [
+                {
+                  "x": 107,
+                  "y": 141,
+                  "h": 69,
+                  "w": 69
+                },
+                {
+                  "x": 351,
+                  "y": 237,
+                  "h": 73,
+                  "w": 73
+                },
+                {
+                  "x": 415,
+                  "y": 179,
+                  "h": 73,
+                  "w": 73
+                },
+                {
+                  "x": 47,
+                  "y": 237,
+                  "h": 78,
+                  "w": 78
+                },
+                {
+                  "x": 119,
+                  "y": 288,
+                  "h": 77,
+                  "w": 77
+                },
+                {
+                  "x": 281,
+                  "y": 170,
+                  "h": 74,
+                  "w": 74
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "x": 213,
+                  "y": 280,
+                  "h": 137,
+                  "w": 137
+                },
+                {
+                  "x": 698,
+                  "y": 471,
+                  "h": 145,
+                  "w": 145
+                },
+                {
+                  "x": 825,
+                  "y": 357,
+                  "h": 145,
+                  "w": 145
+                },
+                {
+                  "x": 94,
+                  "y": 471,
+                  "h": 155,
+                  "w": 155
+                },
+                {
+                  "x": 238,
+                  "y": 572,
+                  "h": 154,
+                  "w": 154
+                },
+                {
+                  "x": 558,
+                  "y": 338,
+                  "h": 148,
+                  "w": 148
+                }
+              ]
+            }
+          },
+          "sizes": {
+            "large": {
+              "h": 1350,
+              "w": 1080,
+              "resize": "fit"
+            },
+            "medium": {
+              "h": 1200,
+              "w": 960,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 680,
+              "w": 544,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "original_info": {
+            "height": 1350,
+            "width": 1080,
+            "focus_rects": [
+              {
+                "x": 0,
+                "y": 744,
+                "w": 1080,
+                "h": 605
+              },
+              {
+                "x": 0,
+                "y": 270,
+                "w": 1080,
+                "h": 1080
+              },
+              {
+                "x": 0,
+                "y": 119,
+                "w": 1080,
+                "h": 1231
+              },
+              {
+                "x": 371,
+                "y": 0,
+                "w": 675,
+                "h": 1350
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "w": 1080,
+                "h": 1350
+              }
+            ]
+          },
+          "media_results": {
+            "result": {
+              "media_key": "3_1909663519017938944"
+            }
+          }
+        }
+      ]
+    },
+    "card": {},
+    "place": {},
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    }
+  },
+  "media": [],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "1910603660024815718",
+  "url": "https://x.com/DaniAlexMusic/status/1910603660024815718",
+  "twitterUrl": "https://twitter.com/DaniAlexMusic/status/1910603660024815718",
+  "text": "More importantly the VIEWERS need to stop watching/consuming the content \nThe PLATFORMS need to stop hosting &amp; monetizing it\n\nThere will always be parents out there willing to put profits over their kids \n\n#BadInfluenceTheDarkSideOfKidfluencing #BadInfluence #PiperRockelle https://t.co/6BYwh66gZE",
+  "fullText": "More importantly the VIEWERS need to stop watching/consuming the content \nThe PLATFORMS need to stop hosting &amp; monetizing it\n\nThere will always be parents out there willing to put profits over their kids \n\n#BadInfluenceTheDarkSideOfKidfluencing #BadInfluence #PiperRockelle https://t.co/6BYwh66gZE",
+  "source": "Twitter for iPhone",
+  "retweetCount": 13,
+  "replyCount": 1,
+  "likeCount": 155,
+  "quoteCount": 1,
+  "viewCount": 52627,
+  "createdAt": "Fri Apr 11 07:59:44 +0000 2025",
+  "lang": "en",
+  "quoteId": "1910010697070620988",
+  "bookmarkCount": 1,
+  "isReply": false,
+  "conversationId": "1910603660024815718",
+  "possiblySensitive": false,
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "DaniAlexMusic",
+    "url": "https://x.com/DaniAlexMusic",
+    "twitterUrl": "https://twitter.com/DaniAlexMusic",
+    "id": "268833472",
+    "name": "Dani Alexandria",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1725186836698370049/pFUJjBUJ_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/268833472/1635384252",
+    "description": "👸🏽Singer/ Songwriter, Entrepreneur & Disability advocate who is casually trying to change the world!🎙Let’s Talk Creative",
+    "location": "Toronto",
+    "followers": 365,
+    "following": 231,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Sat Mar 19 15:19:14 +0000 2011",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "ThePinkPooch.com",
+            "expanded_url": "http://ThePinkPooch.com",
+            "url": "https://t.co/9f7qY9OmPM",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 38290,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 1331,
+    "statusesCount": 18986,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": []
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "display_url": "pic.x.com/6BYwh66gZE",
+        "expanded_url": "https://x.com/DaniAlexMusic/status/1910603660024815718/photo/1",
+        "ext_alt_text": "Turn Off Bye GIF",
+        "id_str": "1910603654496702464",
+        "indices": [
+          278,
+          301
+        ],
+        "media_key": "16_1910603654496702464",
+        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/GoPT5qTW0AARmP7.jpg",
+        "type": "animated_gif",
+        "url": "https://t.co/6BYwh66gZE",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "sizes": {
+          "large": {
+            "h": 280,
+            "w": 498,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 280,
+            "w": 498,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 280,
+            "w": 498,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 280,
+          "width": 498,
+          "focus_rects": []
+        },
+        "video_info": {
+          "aspect_ratio": [
+            249,
+            140
+          ],
+          "variants": [
+            {
+              "bitrate": 0,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/tweet_video/GoPT5qTW0AARmP7.mp4"
+            }
+          ]
+        },
+        "media_results": {
+          "result": {
+            "media_key": "16_1910603654496702464"
+          }
+        }
+      }
+    ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          210,
+          248
+        ],
+        "text": "BadInfluenceTheDarkSideOfKidfluencing"
+      },
+      {
+        "indices": [
+          249,
+          262
+        ],
+        "text": "BadInfluence"
+      },
+      {
+        "indices": [
+          263,
+          277
+        ],
+        "text": "PiperRockelle"
+      }
+    ],
+    "media": [
+      {
+        "display_url": "pic.x.com/6BYwh66gZE",
+        "expanded_url": "https://x.com/DaniAlexMusic/status/1910603660024815718/photo/1",
+        "ext_alt_text": "Turn Off Bye GIF",
+        "id_str": "1910603654496702464",
+        "indices": [
+          278,
+          301
+        ],
+        "media_key": "16_1910603654496702464",
+        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/GoPT5qTW0AARmP7.jpg",
+        "type": "animated_gif",
+        "url": "https://t.co/6BYwh66gZE",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "sizes": {
+          "large": {
+            "h": 280,
+            "w": 498,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 280,
+            "w": 498,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 280,
+            "w": 498,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 280,
+          "width": 498,
+          "focus_rects": []
+        },
+        "video_info": {
+          "aspect_ratio": [
+            249,
+            140
+          ],
+          "variants": [
+            {
+              "bitrate": 0,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/tweet_video/GoPT5qTW0AARmP7.mp4"
+            }
+          ]
+        },
+        "media_results": {
+          "result": {
+            "media_key": "16_1910603654496702464"
+          }
+        }
+      }
+    ],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": true,
+  "quote": {
+    "type": "tweet",
+    "id": "1910010697070620988",
+    "text": "Stop putting your children on the internet. Stop exploiting your children on the internet. Stop making money from your children on the internet! This series is insane! #badinfluence",
+    "source": "Twitter for iPhone",
+    "retweetCount": 53,
+    "replyCount": 3,
+    "likeCount": 279,
+    "quoteCount": 2,
+    "viewCount": 82643,
+    "createdAt": "Wed Apr 09 16:43:31 +0000 2025",
+    "lang": "en",
+    "bookmarkCount": 5,
+    "isPinned": false,
+    "author": {
+      "type": "user",
+      "userName": "sar_alice",
+      "url": "https://x.com/sar_alice",
+      "twitterUrl": "https://twitter.com/sar_alice",
+      "id": "764676110894235648",
+      "name": "Sar",
+      "isVerified": false,
+      "isBlueVerified": false,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1761453716765392897/VS5O7ui9_normal.jpg",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/764676110894235648/1730316525",
+      "description": "🪿",
+      "location": "Liverpool, England",
+      "followers": 122,
+      "following": 719,
+      "status": "",
+      "canDm": false,
+      "canMediaTag": true,
+      "createdAt": "Sun Aug 14 04:12:46 +0000 2016",
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 44258,
+      "hasCustomTimelines": true,
+      "isTranslator": false,
+      "mediaCount": 477,
+      "statusesCount": 2774,
+      "withheldInCountries": [],
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": [
+        "1887246377543213130"
+      ]
+    },
+    "extendedEntities": {},
+    "card": {},
+    "place": {},
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            168,
+            181
+          ],
+          "text": "badinfluence"
+        }
+      ],
+      "symbols": [],
+      "timestamps": [],
+      "urls": [],
+      "user_mentions": []
+    }
+  },
+  "media": [
+    "https://pbs.twimg.com/tweet_video_thumb/GoPT5qTW0AARmP7.jpg"
+  ],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "1910051245835890962",
+  "url": "https://x.com/JcanTediBear/status/1910051245835890962",
+  "twitterUrl": "https://twitter.com/JcanTediBear/status/1910051245835890962",
+  "text": "Being 20 odd and a bunch of 12 year old are your 'best friends' #BadInfluence https://t.co/SR68zt06zc",
+  "fullText": "Being 20 odd and a bunch of 12 year old are your 'best friends' #BadInfluence https://t.co/SR68zt06zc",
+  "source": "Twitter for Android",
+  "retweetCount": 0,
+  "replyCount": 1,
+  "likeCount": 147,
+  "quoteCount": 0,
+  "viewCount": 7319,
+  "createdAt": "Wed Apr 09 19:24:38 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 2,
+  "isReply": false,
+  "conversationId": "1910051245835890962",
+  "possiblySensitive": false,
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "JcanTediBear",
+    "url": "https://x.com/JcanTediBear",
+    "twitterUrl": "https://twitter.com/JcanTediBear",
+    "id": "187330034",
+    "name": "ted",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1833140070351507456/RHBJpb4__normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/187330034/1632024511",
+    "description": "more book recommendations than sense. loud, bright & sparkly.",
+    "location": "Jamaica",
+    "followers": 354,
+    "following": 396,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": false,
+    "createdAt": "Sun Sep 05 22:58:57 +0000 2010",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 39266,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 4056,
+    "statusesCount": 267939,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": []
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "display_url": "pic.x.com/SR68zt06zc",
+        "expanded_url": "https://x.com/JcanTediBear/status/1910051245835890962/photo/1",
+        "id_str": "1910051238692933632",
+        "indices": [
+          78,
+          101
+        ],
+        "media_key": "16_1910051238692933632",
+        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/GoHde1EWUAAkdKm.jpg",
+        "type": "animated_gif",
+        "url": "https://t.co/SR68zt06zc",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "sizes": {
+          "large": {
+            "h": 480,
+            "w": 480,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 480,
+            "w": 480,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 480,
+            "w": 480,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 480,
+          "width": 480,
+          "focus_rects": []
+        },
+        "video_info": {
+          "aspect_ratio": [
+            1,
+            1
+          ],
+          "variants": [
+            {
+              "bitrate": 0,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/tweet_video/GoHde1EWUAAkdKm.mp4"
+            }
+          ]
+        },
+        "media_results": {
+          "result": {
+            "media_key": "16_1910051238692933632"
+          }
+        }
+      }
+    ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          64,
+          77
+        ],
+        "text": "BadInfluence"
+      }
+    ],
+    "media": [
+      {
+        "display_url": "pic.x.com/SR68zt06zc",
+        "expanded_url": "https://x.com/JcanTediBear/status/1910051245835890962/photo/1",
+        "id_str": "1910051238692933632",
+        "indices": [
+          78,
+          101
+        ],
+        "media_key": "16_1910051238692933632",
+        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/GoHde1EWUAAkdKm.jpg",
+        "type": "animated_gif",
+        "url": "https://t.co/SR68zt06zc",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "sizes": {
+          "large": {
+            "h": 480,
+            "w": 480,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 480,
+            "w": 480,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 480,
+            "w": 480,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 480,
+          "width": 480,
+          "focus_rects": []
+        },
+        "video_info": {
+          "aspect_ratio": [
+            1,
+            1
+          ],
+          "variants": [
+            {
+              "bitrate": 0,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/tweet_video/GoHde1EWUAAkdKm.mp4"
+            }
+          ]
+        },
+        "media_results": {
+          "result": {
+            "media_key": "16_1910051238692933632"
+          }
+        }
+      }
+    ],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [
+    "https://pbs.twimg.com/tweet_video_thumb/GoHde1EWUAAkdKm.jpg"
+  ],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "1910153185693675638",
+  "url": "https://x.com/kleemar1234/status/1910153185693675638",
+  "twitterUrl": "https://twitter.com/kleemar1234/status/1910153185693675638",
+  "text": "I don't feel sorry for a single parent in this doc. They are all just as guilty as Tiffany - They're all trying to be \"cool,\" get quick money, or be their kid's friend rather than being an actual parent.\n#badinfluence\n#BadInfluenceTheDarkSideOfKidfluencing",
+  "fullText": "I don't feel sorry for a single parent in this doc. They are all just as guilty as Tiffany - They're all trying to be \"cool,\" get quick money, or be their kid's friend rather than being an actual parent.\n#badinfluence\n#BadInfluenceTheDarkSideOfKidfluencing",
+  "source": "Twitter for Android",
+  "retweetCount": 13,
+  "replyCount": 3,
+  "likeCount": 140,
+  "quoteCount": 1,
+  "viewCount": 7384,
+  "createdAt": "Thu Apr 10 02:09:43 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "conversationId": "1910153185693675638",
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "kleemar1234",
+    "url": "https://x.com/kleemar1234",
+    "twitterUrl": "https://twitter.com/kleemar1234",
+    "id": "3307846056",
+    "name": "mlk",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1818020091331592192/0DwVR4Uu_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/3307846056/1659495912",
+    "description": "Spay, neuter, adopt, love, love & love♡\nDon't buy into mass hate, panic, or fear.",
+    "location": "",
+    "followers": 45,
+    "following": 29,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Thu Aug 06 14:53:29 +0000 2015",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 7400,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "mediaCount": 70,
+    "statusesCount": 658,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": []
+  },
+  "extendedEntities": {},
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          204,
+          217
+        ],
+        "text": "badinfluence"
+      },
+      {
+        "indices": [
+          218,
+          256
+        ],
+        "text": "BadInfluenceTheDarkSideOfKidfluencing"
+      }
+    ],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "1911546674344083919",
+  "url": "https://x.com/zroomz/status/1911546674344083919",
+  "twitterUrl": "https://twitter.com/zroomz/status/1911546674344083919",
+  "text": "The page Tiffany runs for her daughter it is kind of like OF #BadInfluence https://t.co/mZpv2U2xUa",
+  "fullText": "The page Tiffany runs for her daughter it is kind of like OF #BadInfluence https://t.co/mZpv2U2xUa",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 1,
+  "viewCount": 84,
+  "createdAt": "Sun Apr 13 22:26:56 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "conversationId": "1911546674344083919",
+  "possiblySensitive": false,
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "zroomz",
+    "url": "https://x.com/zroomz",
+    "twitterUrl": "https://twitter.com/zroomz",
+    "id": "874661447665635329",
+    "name": "ZroomZ",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1639743212469338114/ZmdQcxwX_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/874661447665635329/1678225798",
+    "description": "Specialist in the art of spending…",
+    "location": "United States",
+    "followers": 5,
+    "following": 38,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": false,
+    "createdAt": "Tue Jun 13 16:15:14 +0000 2017",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 21,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 3,
+    "statusesCount": 24,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": []
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "display_url": "pic.x.com/mZpv2U2xUa",
+        "expanded_url": "https://x.com/zroomz/status/1911546674344083919/photo/1",
+        "id_str": "1911546669285416960",
+        "indices": [
+          75,
+          98
+        ],
+        "media_key": "3_1911546669285416960",
+        "media_url_https": "https://pbs.twimg.com/media/GoctkWJWoAAXlqA.jpg",
+        "type": "photo",
+        "url": "https://t.co/mZpv2U2xUa",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": []
+          },
+          "medium": {
+            "faces": []
+          },
+          "small": {
+            "faces": []
+          },
+          "orig": {
+            "faces": []
+          }
+        },
+        "sizes": {
+          "large": {
+            "h": 1124,
+            "w": 749,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 1124,
+            "w": 749,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 680,
+            "w": 453,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 1124,
+          "width": 749,
+          "focus_rects": [
+            {
+              "x": 0,
+              "y": 0,
+              "w": 749,
+              "h": 419
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 749,
+              "h": 749
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 749,
+              "h": 854
+            },
+            {
+              "x": 84,
+              "y": 0,
+              "w": 562,
+              "h": 1124
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 749,
+              "h": 1124
+            }
+          ]
+        },
+        "media_results": {
+          "result": {
+            "media_key": "3_1911546669285416960"
+          }
+        }
+      },
+      {
+        "display_url": "pic.x.com/mZpv2U2xUa",
+        "expanded_url": "https://x.com/zroomz/status/1911546674344083919/photo/1",
+        "id_str": "1911546669285466112",
+        "indices": [
+          75,
+          98
+        ],
+        "media_key": "3_1911546669285466112",
+        "media_url_https": "https://pbs.twimg.com/media/GoctkWJXYAAQIqV.jpg",
+        "type": "photo",
+        "url": "https://t.co/mZpv2U2xUa",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": []
+          },
+          "medium": {
+            "faces": []
+          },
+          "small": {
+            "faces": []
+          },
+          "orig": {
+            "faces": []
+          }
+        },
+        "sizes": {
+          "large": {
+            "h": 1488,
+            "w": 749,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 1200,
+            "w": 604,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 680,
+            "w": 342,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 1488,
+          "width": 749,
+          "focus_rects": [
+            {
+              "x": 0,
+              "y": 125,
+              "w": 749,
+              "h": 419
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 749,
+              "h": 749
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 749,
+              "h": 854
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 744,
+              "h": 1488
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 749,
+              "h": 1488
+            }
+          ]
+        },
+        "media_results": {
+          "result": {
+            "media_key": "3_1911546669285466112"
+          }
+        }
+      },
+      {
+        "display_url": "pic.x.com/mZpv2U2xUa",
+        "expanded_url": "https://x.com/zroomz/status/1911546674344083919/photo/1",
+        "id_str": "1911546669340020736",
+        "indices": [
+          75,
+          98
+        ],
+        "media_key": "3_1911546669340020736",
+        "media_url_https": "https://pbs.twimg.com/media/GoctkWWX0AA4ftM.jpg",
+        "type": "photo",
+        "url": "https://t.co/mZpv2U2xUa",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": []
+          },
+          "medium": {
+            "faces": []
+          },
+          "small": {
+            "faces": []
+          },
+          "orig": {
+            "faces": []
+          }
+        },
+        "sizes": {
+          "large": {
+            "h": 1468,
+            "w": 749,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 1200,
+            "w": 612,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 680,
+            "w": 347,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 1468,
+          "width": 749,
+          "focus_rects": [
+            {
+              "x": 0,
+              "y": 0,
+              "w": 749,
+              "h": 419
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 749,
+              "h": 749
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 749,
+              "h": 854
+            },
+            {
+              "x": 15,
+              "y": 0,
+              "w": 734,
+              "h": 1468
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 749,
+              "h": 1468
+            }
+          ]
+        },
+        "media_results": {
+          "result": {
+            "media_key": "3_1911546669340020736"
+          }
+        }
+      }
+    ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          61,
+          74
+        ],
+        "text": "BadInfluence"
+      }
+    ],
+    "media": [
+      {
+        "display_url": "pic.x.com/mZpv2U2xUa",
+        "expanded_url": "https://x.com/zroomz/status/1911546674344083919/photo/1",
+        "id_str": "1911546669285416960",
+        "indices": [
+          75,
+          98
+        ],
+        "media_key": "3_1911546669285416960",
+        "media_url_https": "https://pbs.twimg.com/media/GoctkWJWoAAXlqA.jpg",
+        "type": "photo",
+        "url": "https://t.co/mZpv2U2xUa",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": []
+          },
+          "medium": {
+            "faces": []
+          },
+          "small": {
+            "faces": []
+          },
+          "orig": {
+            "faces": []
+          }
+        },
+        "sizes": {
+          "large": {
+            "h": 1124,
+            "w": 749,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 1124,
+            "w": 749,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 680,
+            "w": 453,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 1124,
+          "width": 749,
+          "focus_rects": [
+            {
+              "x": 0,
+              "y": 0,
+              "w": 749,
+              "h": 419
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 749,
+              "h": 749
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 749,
+              "h": 854
+            },
+            {
+              "x": 84,
+              "y": 0,
+              "w": 562,
+              "h": 1124
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 749,
+              "h": 1124
+            }
+          ]
+        },
+        "media_results": {
+          "result": {
+            "media_key": "3_1911546669285416960"
+          }
+        }
+      },
+      {
+        "display_url": "pic.x.com/mZpv2U2xUa",
+        "expanded_url": "https://x.com/zroomz/status/1911546674344083919/photo/1",
+        "id_str": "1911546669285466112",
+        "indices": [
+          75,
+          98
+        ],
+        "media_key": "3_1911546669285466112",
+        "media_url_https": "https://pbs.twimg.com/media/GoctkWJXYAAQIqV.jpg",
+        "type": "photo",
+        "url": "https://t.co/mZpv2U2xUa",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": []
+          },
+          "medium": {
+            "faces": []
+          },
+          "small": {
+            "faces": []
+          },
+          "orig": {
+            "faces": []
+          }
+        },
+        "sizes": {
+          "large": {
+            "h": 1488,
+            "w": 749,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 1200,
+            "w": 604,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 680,
+            "w": 342,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 1488,
+          "width": 749,
+          "focus_rects": [
+            {
+              "x": 0,
+              "y": 125,
+              "w": 749,
+              "h": 419
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 749,
+              "h": 749
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 749,
+              "h": 854
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 744,
+              "h": 1488
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 749,
+              "h": 1488
+            }
+          ]
+        },
+        "media_results": {
+          "result": {
+            "media_key": "3_1911546669285466112"
+          }
+        }
+      },
+      {
+        "display_url": "pic.x.com/mZpv2U2xUa",
+        "expanded_url": "https://x.com/zroomz/status/1911546674344083919/photo/1",
+        "id_str": "1911546669340020736",
+        "indices": [
+          75,
+          98
+        ],
+        "media_key": "3_1911546669340020736",
+        "media_url_https": "https://pbs.twimg.com/media/GoctkWWX0AA4ftM.jpg",
+        "type": "photo",
+        "url": "https://t.co/mZpv2U2xUa",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": []
+          },
+          "medium": {
+            "faces": []
+          },
+          "small": {
+            "faces": []
+          },
+          "orig": {
+            "faces": []
+          }
+        },
+        "sizes": {
+          "large": {
+            "h": 1468,
+            "w": 749,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 1200,
+            "w": 612,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 680,
+            "w": 347,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 1468,
+          "width": 749,
+          "focus_rects": [
+            {
+              "x": 0,
+              "y": 0,
+              "w": 749,
+              "h": 419
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 749,
+              "h": 749
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 749,
+              "h": 854
+            },
+            {
+              "x": 15,
+              "y": 0,
+              "w": 734,
+              "h": 1468
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 749,
+              "h": 1468
+            }
+          ]
+        },
+        "media_results": {
+          "result": {
+            "media_key": "3_1911546669340020736"
+          }
+        }
+      }
+    ],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [
+    "https://pbs.twimg.com/media/GoctkWJWoAAXlqA.jpg",
+    "https://pbs.twimg.com/media/GoctkWJXYAAQIqV.jpg",
+    "https://pbs.twimg.com/media/GoctkWWX0AA4ftM.jpg"
+  ],
+  "isConversationControlled": false
+}]

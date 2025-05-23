@@ -1,0 +1,3945 @@
+[{
+  "type": "tweet",
+  "id": "1909225352053846418",
+  "url": "https://x.com/rqmitris/status/1909225352053846418",
+  "twitterUrl": "https://twitter.com/rqmitris/status/1909225352053846418",
+  "text": "don't let your fiancé keep you from finding your girlfriend #PulseNetflix https://t.co/lgwVy7ohT6",
+  "fullText": "don't let your fiancé keep you from finding your girlfriend #PulseNetflix https://t.co/lgwVy7ohT6",
+  "source": "Twitter Web App",
+  "retweetCount": 78,
+  "replyCount": 1,
+  "likeCount": 834,
+  "quoteCount": 9,
+  "viewCount": 23031,
+  "createdAt": "Mon Apr 07 12:42:50 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 62,
+  "isReply": false,
+  "conversationId": "1909225352053846418",
+  "possiblySensitive": false,
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "rqmitris",
+    "url": "https://x.com/rqmitris",
+    "twitterUrl": "https://twitter.com/rqmitris",
+    "id": "1551611618802499584",
+    "name": "ju",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1908085355586125824/JnHWowAa_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1551611618802499584/1658771058",
+    "description": "sisi stringer emmy campaign manager",
+    "location": "she/her ; 25",
+    "followers": 954,
+    "following": 187,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": false,
+    "createdAt": "Mon Jul 25 16:53:40 +0000 2022",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 21365,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 597,
+    "statusesCount": 8951,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1669441380823752704"
+    ]
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "display_url": "pic.x.com/lgwVy7ohT6",
+        "expanded_url": "https://x.com/rqmitris/status/1909225352053846418/photo/1",
+        "id_str": "1909225202329788416",
+        "indices": [
+          74,
+          97
+        ],
+        "media_key": "3_1909225202329788416",
+        "media_url_https": "https://pbs.twimg.com/media/Gn7uNL0XIAAJ58R.jpg",
+        "type": "photo",
+        "url": "https://t.co/lgwVy7ohT6",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "x": 481,
+                "y": 69,
+                "h": 251,
+                "w": 251
+              },
+              {
+                "x": 943,
+                "y": 325,
+                "h": 233,
+                "w": 233
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "x": 383,
+                "y": 54,
+                "h": 199,
+                "w": 199
+              },
+              {
+                "x": 750,
+                "y": 258,
+                "h": 185,
+                "w": 185
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "x": 217,
+                "y": 31,
+                "h": 113,
+                "w": 113
+              },
+              {
+                "x": 425,
+                "y": 146,
+                "h": 105,
+                "w": 105
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "x": 481,
+                "y": 69,
+                "h": 251,
+                "w": 251
+              },
+              {
+                "x": 943,
+                "y": 325,
+                "h": 233,
+                "w": 233
+              }
+            ]
+          }
+        },
+        "sizes": {
+          "large": {
+            "h": 848,
+            "w": 1507,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 675,
+            "w": 1200,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 383,
+            "w": 680,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 848,
+          "width": 1507,
+          "focus_rects": [
+            {
+              "x": 0,
+              "y": 0,
+              "w": 1507,
+              "h": 844
+            },
+            {
+              "x": 141,
+              "y": 0,
+              "w": 848,
+              "h": 848
+            },
+            {
+              "x": 193,
+              "y": 0,
+              "w": 744,
+              "h": 848
+            },
+            {
+              "x": 353,
+              "y": 0,
+              "w": 424,
+              "h": 848
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 1507,
+              "h": 848
+            }
+          ]
+        },
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "media_results": {
+          "result": {
+            "media_key": "3_1909225202329788416"
+          }
+        }
+      },
+      {
+        "display_url": "pic.x.com/lgwVy7ohT6",
+        "expanded_url": "https://x.com/rqmitris/status/1909225352053846418/photo/1",
+        "id_str": "1909225332755857408",
+        "indices": [
+          74,
+          97
+        ],
+        "media_key": "3_1909225332755857408",
+        "media_url_https": "https://pbs.twimg.com/media/Gn7uUxsXAAAvgrs.jpg",
+        "type": "photo",
+        "url": "https://t.co/lgwVy7ohT6",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "x": 1597,
+                "y": 361,
+                "h": 97,
+                "w": 97
+              },
+              {
+                "x": 539,
+                "y": 277,
+                "h": 267,
+                "w": 267
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "x": 936,
+                "y": 211,
+                "h": 57,
+                "w": 57
+              },
+              {
+                "x": 316,
+                "y": 162,
+                "h": 156,
+                "w": 156
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "x": 530,
+                "y": 120,
+                "h": 32,
+                "w": 32
+              },
+              {
+                "x": 179,
+                "y": 92,
+                "h": 88,
+                "w": 88
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "x": 1966,
+                "y": 445,
+                "h": 120,
+                "w": 120
+              },
+              {
+                "x": 664,
+                "y": 342,
+                "h": 329,
+                "w": 329
+              }
+            ]
+          }
+        },
+        "sizes": {
+          "large": {
+            "h": 1024,
+            "w": 2048,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 600,
+            "w": 1200,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 340,
+            "w": 680,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 1260,
+          "width": 2520,
+          "focus_rects": [
+            {
+              "x": 0,
+              "y": 0,
+              "w": 2250,
+              "h": 1260
+            },
+            {
+              "x": 315,
+              "y": 0,
+              "w": 1260,
+              "h": 1260
+            },
+            {
+              "x": 393,
+              "y": 0,
+              "w": 1105,
+              "h": 1260
+            },
+            {
+              "x": 630,
+              "y": 0,
+              "w": 630,
+              "h": 1260
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 2520,
+              "h": 1260
+            }
+          ]
+        },
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "media_results": {
+          "result": {
+            "media_key": "3_1909225332755857408"
+          }
+        }
+      }
+    ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          60,
+          73
+        ],
+        "text": "PulseNetflix"
+      }
+    ],
+    "media": [
+      {
+        "display_url": "pic.x.com/lgwVy7ohT6",
+        "expanded_url": "https://x.com/rqmitris/status/1909225352053846418/photo/1",
+        "id_str": "1909225202329788416",
+        "indices": [
+          74,
+          97
+        ],
+        "media_key": "3_1909225202329788416",
+        "media_url_https": "https://pbs.twimg.com/media/Gn7uNL0XIAAJ58R.jpg",
+        "type": "photo",
+        "url": "https://t.co/lgwVy7ohT6",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "x": 481,
+                "y": 69,
+                "h": 251,
+                "w": 251
+              },
+              {
+                "x": 943,
+                "y": 325,
+                "h": 233,
+                "w": 233
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "x": 383,
+                "y": 54,
+                "h": 199,
+                "w": 199
+              },
+              {
+                "x": 750,
+                "y": 258,
+                "h": 185,
+                "w": 185
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "x": 217,
+                "y": 31,
+                "h": 113,
+                "w": 113
+              },
+              {
+                "x": 425,
+                "y": 146,
+                "h": 105,
+                "w": 105
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "x": 481,
+                "y": 69,
+                "h": 251,
+                "w": 251
+              },
+              {
+                "x": 943,
+                "y": 325,
+                "h": 233,
+                "w": 233
+              }
+            ]
+          }
+        },
+        "sizes": {
+          "large": {
+            "h": 848,
+            "w": 1507,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 675,
+            "w": 1200,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 383,
+            "w": 680,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 848,
+          "width": 1507,
+          "focus_rects": [
+            {
+              "x": 0,
+              "y": 0,
+              "w": 1507,
+              "h": 844
+            },
+            {
+              "x": 141,
+              "y": 0,
+              "w": 848,
+              "h": 848
+            },
+            {
+              "x": 193,
+              "y": 0,
+              "w": 744,
+              "h": 848
+            },
+            {
+              "x": 353,
+              "y": 0,
+              "w": 424,
+              "h": 848
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 1507,
+              "h": 848
+            }
+          ]
+        },
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "media_results": {
+          "result": {
+            "media_key": "3_1909225202329788416"
+          }
+        }
+      },
+      {
+        "display_url": "pic.x.com/lgwVy7ohT6",
+        "expanded_url": "https://x.com/rqmitris/status/1909225352053846418/photo/1",
+        "id_str": "1909225332755857408",
+        "indices": [
+          74,
+          97
+        ],
+        "media_key": "3_1909225332755857408",
+        "media_url_https": "https://pbs.twimg.com/media/Gn7uUxsXAAAvgrs.jpg",
+        "type": "photo",
+        "url": "https://t.co/lgwVy7ohT6",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "x": 1597,
+                "y": 361,
+                "h": 97,
+                "w": 97
+              },
+              {
+                "x": 539,
+                "y": 277,
+                "h": 267,
+                "w": 267
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "x": 936,
+                "y": 211,
+                "h": 57,
+                "w": 57
+              },
+              {
+                "x": 316,
+                "y": 162,
+                "h": 156,
+                "w": 156
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "x": 530,
+                "y": 120,
+                "h": 32,
+                "w": 32
+              },
+              {
+                "x": 179,
+                "y": 92,
+                "h": 88,
+                "w": 88
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "x": 1966,
+                "y": 445,
+                "h": 120,
+                "w": 120
+              },
+              {
+                "x": 664,
+                "y": 342,
+                "h": 329,
+                "w": 329
+              }
+            ]
+          }
+        },
+        "sizes": {
+          "large": {
+            "h": 1024,
+            "w": 2048,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 600,
+            "w": 1200,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 340,
+            "w": 680,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 1260,
+          "width": 2520,
+          "focus_rects": [
+            {
+              "x": 0,
+              "y": 0,
+              "w": 2250,
+              "h": 1260
+            },
+            {
+              "x": 315,
+              "y": 0,
+              "w": 1260,
+              "h": 1260
+            },
+            {
+              "x": 393,
+              "y": 0,
+              "w": 1105,
+              "h": 1260
+            },
+            {
+              "x": 630,
+              "y": 0,
+              "w": 630,
+              "h": 1260
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 2520,
+              "h": 1260
+            }
+          ]
+        },
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "media_results": {
+          "result": {
+            "media_key": "3_1909225332755857408"
+          }
+        }
+      }
+    ],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [
+    "https://pbs.twimg.com/media/Gn7uNL0XIAAJ58R.jpg",
+    "https://pbs.twimg.com/media/Gn7uUxsXAAAvgrs.jpg"
+  ],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "1911103146278912484",
+  "url": "https://x.com/iwishauwould/status/1911103146278912484",
+  "twitterUrl": "https://twitter.com/iwishauwould/status/1911103146278912484",
+  "text": "I just finished the Pulse and it was a fantastic! i haven’t been this invested in every character on a netflix show since 2018 will be making 10 million edits by tomorrow #PulseNetflix https://t.co/cpmpish9xM",
+  "fullText": "I just finished the Pulse and it was a fantastic! i haven’t been this invested in every character on a netflix show since 2018 will be making 10 million edits by tomorrow #PulseNetflix https://t.co/cpmpish9xM",
+  "source": "Twitter for iPad",
+  "retweetCount": 10,
+  "replyCount": 0,
+  "likeCount": 158,
+  "quoteCount": 0,
+  "viewCount": 8282,
+  "createdAt": "Sat Apr 12 17:04:31 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 6,
+  "isReply": false,
+  "conversationId": "1911103146278912484",
+  "possiblySensitive": false,
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "iwishauwould",
+    "url": "https://x.com/iwishauwould",
+    "twitterUrl": "https://twitter.com/iwishauwould",
+    "id": "718858035326791681",
+    "name": "kia2727 🇳🇬⪩ ⪨",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1850592785860050944/SVIy1ge-_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/718858035326791681/1735086325",
+    "description": "I defend Black Women’s rights and wrongs!",
+    "location": "",
+    "followers": 103,
+    "following": 160,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Sat Apr 09 17:48:06 +0000 2016",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "chng.it/CY6V9PKnmX",
+            "expanded_url": "http://chng.it/CY6V9PKnmX",
+            "url": "https://t.co/IT98wDgArX",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 33356,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 2259,
+    "statusesCount": 8302,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1622356856827002882"
+    ]
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "display_url": "pic.x.com/cpmpish9xM",
+        "expanded_url": "https://x.com/acervozx/status/1812672852526498264/video/1",
+        "id_str": "1812672836512743425",
+        "indices": [
+          185,
+          208
+        ],
+        "media_key": "7_1812672836512743425",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1812672836512743425/pu/img/Wm7x_nqp7O0PVsJm.jpg",
+        "source_status_id_str": "1812672852526498264",
+        "source_user_id_str": "1739030983804932096",
+        "type": "video",
+        "url": "https://t.co/cpmpish9xM",
+        "additional_media_info": {
+          "monetizable": false,
+          "source_user": {
+            "user_results": {
+              "result": {
+                "__typename": "User",
+                "id": "VXNlcjoxNzM5MDMwOTgzODA0OTMyMDk2",
+                "rest_id": "1739030983804932096",
+                "affiliates_highlighted_label": {},
+                "has_graduated_access": true,
+                "is_blue_verified": false,
+                "profile_image_shape": "Circle",
+                "legacy": {
+                  "can_dm": false,
+                  "can_media_tag": true,
+                  "created_at": "Sun Dec 24 21:11:24 +0000 2023",
+                  "default_profile": true,
+                  "default_profile_image": false,
+                  "description": "Memes e estáticos | Sugestões na DM",
+                  "entities": {
+                    "description": {
+                      "urls": []
+                    }
+                  },
+                  "fast_followers_count": 0,
+                  "favourites_count": 42,
+                  "followers_count": 6324,
+                  "friends_count": 2,
+                  "has_custom_timelines": false,
+                  "is_translator": false,
+                  "listed_count": 9,
+                  "location": "Sitio das Trans",
+                  "media_count": 1549,
+                  "name": "acervy",
+                  "normal_followers_count": 6324,
+                  "pinned_tweet_ids_str": [],
+                  "possibly_sensitive": false,
+                  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1739030983804932096/1723750531",
+                  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1857854422274945024/KJtdj_F0_normal.jpg",
+                  "profile_interstitial_type": "",
+                  "screen_name": "acervozx",
+                  "statuses_count": 1558,
+                  "translator_type": "none",
+                  "verified": false,
+                  "want_retweets": false,
+                  "withheld_in_countries": []
+                },
+                "tipjar_settings": {}
+              }
+            }
+          }
+        },
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "sizes": {
+          "large": {
+            "h": 720,
+            "w": 828,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 720,
+            "w": 828,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 591,
+            "w": 680,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 720,
+          "width": 828,
+          "focus_rects": []
+        },
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "video_info": {
+          "aspect_ratio": [
+            23,
+            20
+          ],
+          "duration_millis": 3179,
+          "variants": [
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/ext_tw_video/1812672836512743425/pu/pl/f-pIfQ0r0MqTu0q9.m3u8?tag=12"
+            },
+            {
+              "bitrate": 256000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1812672836512743425/pu/vid/avc1/310x270/jbTzfRREwmQcQyf2.mp4?tag=12"
+            },
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1812672836512743425/pu/vid/avc1/414x360/QLcr-lBrTHkIvKbx.mp4?tag=12"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1812672836512743425/pu/vid/avc1/828x720/EnRtxnhrG4jYOpEt.mp4?tag=12"
+            }
+          ]
+        },
+        "media_results": {
+          "result": {
+            "media_key": "7_1812672836512743425"
+          }
+        }
+      }
+    ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          171,
+          184
+        ],
+        "text": "PulseNetflix"
+      }
+    ],
+    "media": [
+      {
+        "display_url": "pic.x.com/cpmpish9xM",
+        "expanded_url": "https://x.com/acervozx/status/1812672852526498264/video/1",
+        "id_str": "1812672836512743425",
+        "indices": [
+          185,
+          208
+        ],
+        "media_key": "7_1812672836512743425",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1812672836512743425/pu/img/Wm7x_nqp7O0PVsJm.jpg",
+        "source_status_id_str": "1812672852526498264",
+        "source_user_id_str": "1739030983804932096",
+        "type": "video",
+        "url": "https://t.co/cpmpish9xM",
+        "additional_media_info": {
+          "monetizable": false,
+          "source_user": {
+            "user_results": {
+              "result": {
+                "__typename": "User",
+                "id": "VXNlcjoxNzM5MDMwOTgzODA0OTMyMDk2",
+                "rest_id": "1739030983804932096",
+                "affiliates_highlighted_label": {},
+                "has_graduated_access": true,
+                "is_blue_verified": false,
+                "profile_image_shape": "Circle",
+                "legacy": {
+                  "can_dm": false,
+                  "can_media_tag": true,
+                  "created_at": "Sun Dec 24 21:11:24 +0000 2023",
+                  "default_profile": true,
+                  "default_profile_image": false,
+                  "description": "Memes e estáticos | Sugestões na DM",
+                  "entities": {
+                    "description": {
+                      "urls": []
+                    }
+                  },
+                  "fast_followers_count": 0,
+                  "favourites_count": 42,
+                  "followers_count": 6324,
+                  "friends_count": 2,
+                  "has_custom_timelines": false,
+                  "is_translator": false,
+                  "listed_count": 9,
+                  "location": "Sitio das Trans",
+                  "media_count": 1549,
+                  "name": "acervy",
+                  "normal_followers_count": 6324,
+                  "pinned_tweet_ids_str": [],
+                  "possibly_sensitive": false,
+                  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1739030983804932096/1723750531",
+                  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1857854422274945024/KJtdj_F0_normal.jpg",
+                  "profile_interstitial_type": "",
+                  "screen_name": "acervozx",
+                  "statuses_count": 1558,
+                  "translator_type": "none",
+                  "verified": false,
+                  "want_retweets": false,
+                  "withheld_in_countries": []
+                },
+                "tipjar_settings": {}
+              }
+            }
+          }
+        },
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "sizes": {
+          "large": {
+            "h": 720,
+            "w": 828,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 720,
+            "w": 828,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 591,
+            "w": 680,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 720,
+          "width": 828,
+          "focus_rects": []
+        },
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "video_info": {
+          "aspect_ratio": [
+            23,
+            20
+          ],
+          "duration_millis": 3179,
+          "variants": [
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/ext_tw_video/1812672836512743425/pu/pl/f-pIfQ0r0MqTu0q9.m3u8?tag=12"
+            },
+            {
+              "bitrate": 256000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1812672836512743425/pu/vid/avc1/310x270/jbTzfRREwmQcQyf2.mp4?tag=12"
+            },
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1812672836512743425/pu/vid/avc1/414x360/QLcr-lBrTHkIvKbx.mp4?tag=12"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1812672836512743425/pu/vid/avc1/828x720/EnRtxnhrG4jYOpEt.mp4?tag=12"
+            }
+          ]
+        },
+        "media_results": {
+          "result": {
+            "media_key": "7_1812672836512743425"
+          }
+        }
+      }
+    ],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [
+    "https://pbs.twimg.com/ext_tw_video_thumb/1812672836512743425/pu/img/Wm7x_nqp7O0PVsJm.jpg"
+  ],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "1908237619399373081",
+  "url": "https://x.com/vivmuse/status/1908237619399373081",
+  "twitterUrl": "https://twitter.com/vivmuse/status/1908237619399373081",
+  "text": "men ruin everything #PulseNetflix https://t.co/PwbGgViKXh",
+  "fullText": "men ruin everything #PulseNetflix https://t.co/PwbGgViKXh",
+  "source": "Twitter for iPhone",
+  "retweetCount": 63,
+  "replyCount": 1,
+  "likeCount": 524,
+  "quoteCount": 14,
+  "viewCount": 26243,
+  "createdAt": "Fri Apr 04 19:17:56 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 29,
+  "isReply": false,
+  "conversationId": "1908237619399373081",
+  "possiblySensitive": false,
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "vivmuse",
+    "url": "https://x.com/vivmuse",
+    "twitterUrl": "https://twitter.com/vivmuse",
+    "id": "1205669828557778944",
+    "name": "tay ୨ৎ",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1851693510480502784/QAyXKzfD_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1205669828557778944/1700841304",
+    "description": "just a girl in this ethereal world",
+    "location": "24 || she/her || black ",
+    "followers": 1504,
+    "following": 749,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Sat Dec 14 02:04:34 +0000 2019",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 104711,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 12726,
+    "statusesCount": 32437,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": []
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "display_url": "pic.x.com/PwbGgViKXh",
+        "expanded_url": "https://x.com/vivmuse/status/1908237619399373081/photo/1",
+        "id_str": "1908237616425619456",
+        "indices": [
+          34,
+          57
+        ],
+        "media_key": "3_1908237616425619456",
+        "media_url_https": "https://pbs.twimg.com/media/GntsAHoWUAABr84.jpg",
+        "type": "photo",
+        "url": "https://t.co/PwbGgViKXh",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "x": 296,
+                "y": 346,
+                "h": 258,
+                "w": 258
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "x": 202,
+                "y": 236,
+                "h": 176,
+                "w": 176
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "x": 114,
+                "y": 134,
+                "h": 99,
+                "w": 99
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "x": 296,
+                "y": 346,
+                "h": 258,
+                "w": 258
+              }
+            ]
+          }
+        },
+        "sizes": {
+          "large": {
+            "h": 1013,
+            "w": 1755,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 693,
+            "w": 1200,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 393,
+            "w": 680,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 1013,
+          "width": 1755,
+          "focus_rects": [
+            {
+              "x": 0,
+              "y": 0,
+              "w": 1755,
+              "h": 983
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 1013,
+              "h": 1013
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 889,
+              "h": 1013
+            },
+            {
+              "x": 141,
+              "y": 0,
+              "w": 507,
+              "h": 1013
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 1755,
+              "h": 1013
+            }
+          ]
+        },
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "media_results": {
+          "result": {
+            "media_key": "3_1908237616425619456"
+          }
+        }
+      }
+    ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          20,
+          33
+        ],
+        "text": "PulseNetflix"
+      }
+    ],
+    "media": [
+      {
+        "display_url": "pic.x.com/PwbGgViKXh",
+        "expanded_url": "https://x.com/vivmuse/status/1908237619399373081/photo/1",
+        "id_str": "1908237616425619456",
+        "indices": [
+          34,
+          57
+        ],
+        "media_key": "3_1908237616425619456",
+        "media_url_https": "https://pbs.twimg.com/media/GntsAHoWUAABr84.jpg",
+        "type": "photo",
+        "url": "https://t.co/PwbGgViKXh",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "x": 296,
+                "y": 346,
+                "h": 258,
+                "w": 258
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "x": 202,
+                "y": 236,
+                "h": 176,
+                "w": 176
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "x": 114,
+                "y": 134,
+                "h": 99,
+                "w": 99
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "x": 296,
+                "y": 346,
+                "h": 258,
+                "w": 258
+              }
+            ]
+          }
+        },
+        "sizes": {
+          "large": {
+            "h": 1013,
+            "w": 1755,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 693,
+            "w": 1200,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 393,
+            "w": 680,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 1013,
+          "width": 1755,
+          "focus_rects": [
+            {
+              "x": 0,
+              "y": 0,
+              "w": 1755,
+              "h": 983
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 1013,
+              "h": 1013
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 889,
+              "h": 1013
+            },
+            {
+              "x": 141,
+              "y": 0,
+              "w": 507,
+              "h": 1013
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 1755,
+              "h": 1013
+            }
+          ]
+        },
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "media_results": {
+          "result": {
+            "media_key": "3_1908237616425619456"
+          }
+        }
+      }
+    ],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [
+    "https://pbs.twimg.com/media/GntsAHoWUAABr84.jpg"
+  ],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "1910675645807448145",
+  "url": "https://x.com/lexipcdia/status/1910675645807448145",
+  "twitterUrl": "https://twitter.com/lexipcdia/status/1910675645807448145",
+  "text": "a woman called out the power imbalance, ended up losing the promotion she worked so hard for and paid the price in a system that often lets men slide by.\n\ndumb bitches with 0 media literacy: but dream boy xander doesn’t deserve this!! #PulseNetflix https://t.co/NBULOlRsXS",
+  "fullText": "a woman called out the power imbalance, ended up losing the promotion she worked so hard for and paid the price in a system that often lets men slide by.\n\ndumb bitches with 0 media literacy: but dream boy xander doesn’t deserve this!! #PulseNetflix https://t.co/NBULOlRsXS",
+  "source": "Twitter for iPhone",
+  "retweetCount": 17,
+  "replyCount": 7,
+  "likeCount": 193,
+  "quoteCount": 5,
+  "viewCount": 12361,
+  "createdAt": "Fri Apr 11 12:45:47 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 9,
+  "isReply": false,
+  "conversationId": "1910675645807448145",
+  "possiblySensitive": false,
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "lexipcdia",
+    "url": "https://x.com/lexipcdia",
+    "twitterUrl": "https://twitter.com/lexipcdia",
+    "id": "1002184843608936448",
+    "name": "nadine",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1913368376358879232/7127TRqK_normal.jpg",
+    "description": "",
+    "location": "late 20s.",
+    "followers": 885,
+    "following": 98,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Thu May 31 13:47:41 +0000 2018",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 65982,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 13738,
+    "statusesCount": 41910,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": []
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "display_url": "pic.x.com/NBULOlRsXS",
+        "expanded_url": "https://x.com/lexipcdia/status/1910675645807448145/photo/1",
+        "id_str": "1910675636844216320",
+        "indices": [
+          249,
+          272
+        ],
+        "media_key": "16_1910675636844216320",
+        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/GoQVXlcXwAANMP5.jpg",
+        "type": "animated_gif",
+        "url": "https://t.co/NBULOlRsXS",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "sizes": {
+          "large": {
+            "h": 270,
+            "w": 480,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 270,
+            "w": 480,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 270,
+            "w": 480,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 270,
+          "width": 480,
+          "focus_rects": []
+        },
+        "video_info": {
+          "aspect_ratio": [
+            16,
+            9
+          ],
+          "variants": [
+            {
+              "bitrate": 0,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/tweet_video/GoQVXlcXwAANMP5.mp4"
+            }
+          ]
+        },
+        "media_results": {
+          "result": {
+            "media_key": "16_1910675636844216320"
+          }
+        }
+      }
+    ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          235,
+          248
+        ],
+        "text": "PulseNetflix"
+      }
+    ],
+    "media": [
+      {
+        "display_url": "pic.x.com/NBULOlRsXS",
+        "expanded_url": "https://x.com/lexipcdia/status/1910675645807448145/photo/1",
+        "id_str": "1910675636844216320",
+        "indices": [
+          249,
+          272
+        ],
+        "media_key": "16_1910675636844216320",
+        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/GoQVXlcXwAANMP5.jpg",
+        "type": "animated_gif",
+        "url": "https://t.co/NBULOlRsXS",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "sizes": {
+          "large": {
+            "h": 270,
+            "w": 480,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 270,
+            "w": 480,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 270,
+            "w": 480,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 270,
+          "width": 480,
+          "focus_rects": []
+        },
+        "video_info": {
+          "aspect_ratio": [
+            16,
+            9
+          ],
+          "variants": [
+            {
+              "bitrate": 0,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/tweet_video/GoQVXlcXwAANMP5.mp4"
+            }
+          ]
+        },
+        "media_results": {
+          "result": {
+            "media_key": "16_1910675636844216320"
+          }
+        }
+      }
+    ],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [
+    "https://pbs.twimg.com/tweet_video_thumb/GoQVXlcXwAANMP5.jpg"
+  ],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "1910691915135136150",
+  "url": "https://x.com/just_zutara/status/1910691915135136150",
+  "twitterUrl": "https://twitter.com/just_zutara/status/1910691915135136150",
+  "text": "Imagine falling for your new co worker who’s becoming a close friend &amp; you know she feels something too bc how can she not when she treats you how she does, &amp; when you’re about to confess your feelings you find out she’s engaged to a MAN she’s never talked about☹️ #PulseNetflix https://t.co/NXTzRztlrg",
+  "fullText": "Imagine falling for your new co worker who’s becoming a close friend &amp; you know she feels something too bc how can she not when she treats you how she does, &amp; when you’re about to confess your feelings you find out she’s engaged to a MAN she’s never talked about☹️ #PulseNetflix https://t.co/NXTzRztlrg",
+  "source": "Twitter for iPhone",
+  "retweetCount": 6,
+  "replyCount": 1,
+  "likeCount": 94,
+  "quoteCount": 1,
+  "viewCount": 7492,
+  "createdAt": "Fri Apr 11 13:50:26 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 5,
+  "isReply": false,
+  "conversationId": "1910691915135136150",
+  "possiblySensitive": false,
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "just_zutara",
+    "url": "https://x.com/just_zutara",
+    "twitterUrl": "https://twitter.com/just_zutara",
+    "id": "1662107107150233605",
+    "name": "🗣️whatsyaname (MOONCOVEY TRUTHER)",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1888770253624385538/fIzRGTUt_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1662107107150233605/1730867616",
+    "description": "24. Zutara stan first, everything else second. Currently mourning the end of Arcane. I also yap on tumblr: allthebestnamesweretaken",
+    "location": "",
+    "followers": 99,
+    "following": 93,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Fri May 26 14:43:24 +0000 2023",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 75193,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "mediaCount": 1380,
+    "statusesCount": 9532,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": []
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "display_url": "pic.x.com/NXTzRztlrg",
+        "expanded_url": "https://x.com/just_zutara/status/1910691915135136150/photo/1",
+        "id_str": "1910691909040803840",
+        "indices": [
+          287,
+          310
+        ],
+        "media_key": "16_1910691909040803840",
+        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/GoQkKwGXEAAJx1j.jpg",
+        "type": "animated_gif",
+        "url": "https://t.co/NXTzRztlrg",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "sizes": {
+          "large": {
+            "h": 220,
+            "w": 220,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 220,
+            "w": 220,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 220,
+            "w": 220,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 220,
+          "width": 220,
+          "focus_rects": []
+        },
+        "video_info": {
+          "aspect_ratio": [
+            1,
+            1
+          ],
+          "variants": [
+            {
+              "bitrate": 0,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/tweet_video/GoQkKwGXEAAJx1j.mp4"
+            }
+          ]
+        },
+        "media_results": {
+          "result": {
+            "media_key": "16_1910691909040803840"
+          }
+        }
+      }
+    ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          273,
+          286
+        ],
+        "text": "PulseNetflix"
+      }
+    ],
+    "media": [
+      {
+        "display_url": "pic.x.com/NXTzRztlrg",
+        "expanded_url": "https://x.com/just_zutara/status/1910691915135136150/photo/1",
+        "id_str": "1910691909040803840",
+        "indices": [
+          287,
+          310
+        ],
+        "media_key": "16_1910691909040803840",
+        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/GoQkKwGXEAAJx1j.jpg",
+        "type": "animated_gif",
+        "url": "https://t.co/NXTzRztlrg",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "sizes": {
+          "large": {
+            "h": 220,
+            "w": 220,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 220,
+            "w": 220,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 220,
+            "w": 220,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 220,
+          "width": 220,
+          "focus_rects": []
+        },
+        "video_info": {
+          "aspect_ratio": [
+            1,
+            1
+          ],
+          "variants": [
+            {
+              "bitrate": 0,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/tweet_video/GoQkKwGXEAAJx1j.mp4"
+            }
+          ]
+        },
+        "media_results": {
+          "result": {
+            "media_key": "16_1910691909040803840"
+          }
+        }
+      }
+    ],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [
+    "https://pbs.twimg.com/tweet_video_thumb/GoQkKwGXEAAJx1j.jpg"
+  ],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "1909328556892565793",
+  "url": "https://x.com/lexipcdia/status/1909328556892565793",
+  "twitterUrl": "https://twitter.com/lexipcdia/status/1909328556892565793",
+  "text": "woke-to-the-max reviews about the show, overhated female character and mutually toxic codependent main couple…Real television is so back. #PulseNetflix https://t.co/fpFEx9NzVW",
+  "fullText": "woke-to-the-max reviews about the show, overhated female character and mutually toxic codependent main couple…Real television is so back. #PulseNetflix https://t.co/fpFEx9NzVW",
+  "source": "Twitter for iPhone",
+  "retweetCount": 11,
+  "replyCount": 0,
+  "likeCount": 118,
+  "quoteCount": 0,
+  "viewCount": 9484,
+  "createdAt": "Mon Apr 07 19:32:56 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 3,
+  "isReply": false,
+  "conversationId": "1909328556892565793",
+  "possiblySensitive": false,
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "lexipcdia",
+    "url": "https://x.com/lexipcdia",
+    "twitterUrl": "https://twitter.com/lexipcdia",
+    "id": "1002184843608936448",
+    "name": "nadine",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1913368376358879232/7127TRqK_normal.jpg",
+    "description": "",
+    "location": "late 20s.",
+    "followers": 885,
+    "following": 98,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Thu May 31 13:47:41 +0000 2018",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 65982,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 13738,
+    "statusesCount": 41910,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": []
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "display_url": "pic.x.com/fpFEx9NzVW",
+        "expanded_url": "https://x.com/lexipcdia/status/1909328556892565793/photo/1",
+        "id_str": "1909328543038816256",
+        "indices": [
+          152,
+          175
+        ],
+        "media_key": "16_1909328543038816256",
+        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Gn9MMZ9XwAA9KY8.jpg",
+        "type": "animated_gif",
+        "url": "https://t.co/fpFEx9NzVW",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "sizes": {
+          "large": {
+            "h": 160,
+            "w": 220,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 160,
+            "w": 220,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 160,
+            "w": 220,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 160,
+          "width": 220,
+          "focus_rects": []
+        },
+        "video_info": {
+          "aspect_ratio": [
+            11,
+            8
+          ],
+          "variants": [
+            {
+              "bitrate": 0,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/tweet_video/Gn9MMZ9XwAA9KY8.mp4"
+            }
+          ]
+        },
+        "media_results": {
+          "result": {
+            "media_key": "16_1909328543038816256"
+          }
+        }
+      }
+    ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          138,
+          151
+        ],
+        "text": "PulseNetflix"
+      }
+    ],
+    "media": [
+      {
+        "display_url": "pic.x.com/fpFEx9NzVW",
+        "expanded_url": "https://x.com/lexipcdia/status/1909328556892565793/photo/1",
+        "id_str": "1909328543038816256",
+        "indices": [
+          152,
+          175
+        ],
+        "media_key": "16_1909328543038816256",
+        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Gn9MMZ9XwAA9KY8.jpg",
+        "type": "animated_gif",
+        "url": "https://t.co/fpFEx9NzVW",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "sizes": {
+          "large": {
+            "h": 160,
+            "w": 220,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 160,
+            "w": 220,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 160,
+            "w": 220,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 160,
+          "width": 220,
+          "focus_rects": []
+        },
+        "video_info": {
+          "aspect_ratio": [
+            11,
+            8
+          ],
+          "variants": [
+            {
+              "bitrate": 0,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/tweet_video/Gn9MMZ9XwAA9KY8.mp4"
+            }
+          ]
+        },
+        "media_results": {
+          "result": {
+            "media_key": "16_1909328543038816256"
+          }
+        }
+      }
+    ],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [
+    "https://pbs.twimg.com/tweet_video_thumb/Gn9MMZ9XwAA9KY8.jpg"
+  ],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "1909551993414185285",
+  "url": "https://x.com/sloansavery/status/1909551993414185285",
+  "twitterUrl": "https://twitter.com/sloansavery/status/1909551993414185285",
+  "text": "messy medical drama ships are gonna hit every time xander and danny got me so bad sorry #pulse #pulsenetflix https://t.co/wEMj1Ma9nc",
+  "fullText": "messy medical drama ships are gonna hit every time xander and danny got me so bad sorry #pulse #pulsenetflix https://t.co/wEMj1Ma9nc",
+  "source": "Twitter for iPhone",
+  "retweetCount": 51,
+  "replyCount": 17,
+  "likeCount": 369,
+  "quoteCount": 10,
+  "viewCount": 105666,
+  "createdAt": "Tue Apr 08 10:20:47 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 52,
+  "isReply": false,
+  "conversationId": "1909551993414185285",
+  "possiblySensitive": false,
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "sloansavery",
+    "url": "https://x.com/sloansavery",
+    "twitterUrl": "https://twitter.com/sloansavery",
+    "id": "2651673901",
+    "name": "kara",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1610330387883986947/f1CY1Gg6_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/2651673901/1650258642",
+    "description": "fingers crossed for new horizons",
+    "location": "fan account ",
+    "followers": 4453,
+    "following": 590,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": false,
+    "createdAt": "Wed Jul 16 17:48:32 +0000 2014",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 12887,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "mediaCount": 5016,
+    "statusesCount": 25614,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "818991037326749696"
+    ]
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "display_url": "pic.x.com/wEMj1Ma9nc",
+        "expanded_url": "https://x.com/sloansavery/status/1909551993414185285/photo/1",
+        "id_str": "1909551989676994560",
+        "indices": [
+          109,
+          132
+        ],
+        "media_key": "3_1909551989676994560",
+        "media_url_https": "https://pbs.twimg.com/media/GoAXatjWcAARU6Z.jpg",
+        "type": "photo",
+        "url": "https://t.co/wEMj1Ma9nc",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "x": 433,
+                "y": 67,
+                "h": 81,
+                "w": 81
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "x": 433,
+                "y": 67,
+                "h": 81,
+                "w": 81
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "x": 355,
+                "y": 55,
+                "h": 66,
+                "w": 66
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "x": 433,
+                "y": 67,
+                "h": 81,
+                "w": 81
+              }
+            ]
+          }
+        },
+        "sizes": {
+          "large": {
+            "h": 408,
+            "w": 828,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 408,
+            "w": 828,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 335,
+            "w": 680,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 408,
+          "width": 828,
+          "focus_rects": [
+            {
+              "x": 99,
+              "y": 0,
+              "w": 729,
+              "h": 408
+            },
+            {
+              "x": 271,
+              "y": 0,
+              "w": 408,
+              "h": 408
+            },
+            {
+              "x": 296,
+              "y": 0,
+              "w": 358,
+              "h": 408
+            },
+            {
+              "x": 373,
+              "y": 0,
+              "w": 204,
+              "h": 408
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 828,
+              "h": 408
+            }
+          ]
+        },
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "media_results": {
+          "result": {
+            "media_key": "3_1909551989676994560"
+          }
+        }
+      },
+      {
+        "display_url": "pic.x.com/wEMj1Ma9nc",
+        "expanded_url": "https://x.com/sloansavery/status/1909551993414185285/photo/1",
+        "id_str": "1909551989576355840",
+        "indices": [
+          109,
+          132
+        ],
+        "media_key": "3_1909551989576355840",
+        "media_url_https": "https://pbs.twimg.com/media/GoAXatLW0AAPoae.jpg",
+        "type": "photo",
+        "url": "https://t.co/wEMj1Ma9nc",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": []
+          },
+          "medium": {
+            "faces": []
+          },
+          "small": {
+            "faces": []
+          },
+          "orig": {
+            "faces": []
+          }
+        },
+        "sizes": {
+          "large": {
+            "h": 409,
+            "w": 828,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 409,
+            "w": 828,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 336,
+            "w": 680,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 409,
+          "width": 828,
+          "focus_rects": [
+            {
+              "x": 98,
+              "y": 0,
+              "w": 730,
+              "h": 409
+            },
+            {
+              "x": 272,
+              "y": 0,
+              "w": 409,
+              "h": 409
+            },
+            {
+              "x": 297,
+              "y": 0,
+              "w": 359,
+              "h": 409
+            },
+            {
+              "x": 374,
+              "y": 0,
+              "w": 205,
+              "h": 409
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 828,
+              "h": 409
+            }
+          ]
+        },
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "media_results": {
+          "result": {
+            "media_key": "3_1909551989576355840"
+          }
+        }
+      },
+      {
+        "display_url": "pic.x.com/wEMj1Ma9nc",
+        "expanded_url": "https://x.com/sloansavery/status/1909551993414185285/photo/1",
+        "id_str": "1909551989370826752",
+        "indices": [
+          109,
+          132
+        ],
+        "media_key": "3_1909551989370826752",
+        "media_url_https": "https://pbs.twimg.com/media/GoAXasaWsAADRMC.jpg",
+        "type": "photo",
+        "url": "https://t.co/wEMj1Ma9nc",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": []
+          },
+          "medium": {
+            "faces": []
+          },
+          "small": {
+            "faces": []
+          },
+          "orig": {
+            "faces": []
+          }
+        },
+        "sizes": {
+          "large": {
+            "h": 403,
+            "w": 828,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 403,
+            "w": 828,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 331,
+            "w": 680,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 403,
+          "width": 828,
+          "focus_rects": [
+            {
+              "x": 74,
+              "y": 0,
+              "w": 720,
+              "h": 403
+            },
+            {
+              "x": 233,
+              "y": 0,
+              "w": 403,
+              "h": 403
+            },
+            {
+              "x": 257,
+              "y": 0,
+              "w": 354,
+              "h": 403
+            },
+            {
+              "x": 333,
+              "y": 0,
+              "w": 202,
+              "h": 403
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 828,
+              "h": 403
+            }
+          ]
+        },
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "media_results": {
+          "result": {
+            "media_key": "3_1909551989370826752"
+          }
+        }
+      },
+      {
+        "display_url": "pic.x.com/wEMj1Ma9nc",
+        "expanded_url": "https://x.com/sloansavery/status/1909551993414185285/photo/1",
+        "id_str": "1909551989626679296",
+        "indices": [
+          109,
+          132
+        ],
+        "media_key": "3_1909551989626679296",
+        "media_url_https": "https://pbs.twimg.com/media/GoAXatXWsAAKXok.jpg",
+        "type": "photo",
+        "url": "https://t.co/wEMj1Ma9nc",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "x": 1312,
+                "y": 122,
+                "h": 322,
+                "w": 322
+              },
+              {
+                "x": 372,
+                "y": 312,
+                "h": 318,
+                "w": 318
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "x": 768,
+                "y": 71,
+                "h": 188,
+                "w": 188
+              },
+              {
+                "x": 217,
+                "y": 182,
+                "h": 186,
+                "w": 186
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "x": 435,
+                "y": 40,
+                "h": 106,
+                "w": 106
+              },
+              {
+                "x": 123,
+                "y": 103,
+                "h": 105,
+                "w": 105
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "x": 1312,
+                "y": 122,
+                "h": 322,
+                "w": 322
+              },
+              {
+                "x": 372,
+                "y": 312,
+                "h": 318,
+                "w": 318
+              }
+            ]
+          }
+        },
+        "sizes": {
+          "large": {
+            "h": 1024,
+            "w": 2048,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 600,
+            "w": 1200,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 340,
+            "w": 680,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 1024,
+          "width": 2048,
+          "focus_rects": [
+            {
+              "x": 219,
+              "y": 0,
+              "w": 1829,
+              "h": 1024
+            },
+            {
+              "x": 972,
+              "y": 0,
+              "w": 1024,
+              "h": 1024
+            },
+            {
+              "x": 1035,
+              "y": 0,
+              "w": 898,
+              "h": 1024
+            },
+            {
+              "x": 1228,
+              "y": 0,
+              "w": 512,
+              "h": 1024
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 2048,
+              "h": 1024
+            }
+          ]
+        },
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "media_results": {
+          "result": {
+            "media_key": "3_1909551989626679296"
+          }
+        }
+      }
+    ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          88,
+          94
+        ],
+        "text": "pulse"
+      },
+      {
+        "indices": [
+          95,
+          108
+        ],
+        "text": "pulsenetflix"
+      }
+    ],
+    "media": [
+      {
+        "display_url": "pic.x.com/wEMj1Ma9nc",
+        "expanded_url": "https://x.com/sloansavery/status/1909551993414185285/photo/1",
+        "id_str": "1909551989676994560",
+        "indices": [
+          109,
+          132
+        ],
+        "media_key": "3_1909551989676994560",
+        "media_url_https": "https://pbs.twimg.com/media/GoAXatjWcAARU6Z.jpg",
+        "type": "photo",
+        "url": "https://t.co/wEMj1Ma9nc",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "x": 433,
+                "y": 67,
+                "h": 81,
+                "w": 81
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "x": 433,
+                "y": 67,
+                "h": 81,
+                "w": 81
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "x": 355,
+                "y": 55,
+                "h": 66,
+                "w": 66
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "x": 433,
+                "y": 67,
+                "h": 81,
+                "w": 81
+              }
+            ]
+          }
+        },
+        "sizes": {
+          "large": {
+            "h": 408,
+            "w": 828,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 408,
+            "w": 828,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 335,
+            "w": 680,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 408,
+          "width": 828,
+          "focus_rects": [
+            {
+              "x": 99,
+              "y": 0,
+              "w": 729,
+              "h": 408
+            },
+            {
+              "x": 271,
+              "y": 0,
+              "w": 408,
+              "h": 408
+            },
+            {
+              "x": 296,
+              "y": 0,
+              "w": 358,
+              "h": 408
+            },
+            {
+              "x": 373,
+              "y": 0,
+              "w": 204,
+              "h": 408
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 828,
+              "h": 408
+            }
+          ]
+        },
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "media_results": {
+          "result": {
+            "media_key": "3_1909551989676994560"
+          }
+        }
+      },
+      {
+        "display_url": "pic.x.com/wEMj1Ma9nc",
+        "expanded_url": "https://x.com/sloansavery/status/1909551993414185285/photo/1",
+        "id_str": "1909551989576355840",
+        "indices": [
+          109,
+          132
+        ],
+        "media_key": "3_1909551989576355840",
+        "media_url_https": "https://pbs.twimg.com/media/GoAXatLW0AAPoae.jpg",
+        "type": "photo",
+        "url": "https://t.co/wEMj1Ma9nc",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": []
+          },
+          "medium": {
+            "faces": []
+          },
+          "small": {
+            "faces": []
+          },
+          "orig": {
+            "faces": []
+          }
+        },
+        "sizes": {
+          "large": {
+            "h": 409,
+            "w": 828,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 409,
+            "w": 828,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 336,
+            "w": 680,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 409,
+          "width": 828,
+          "focus_rects": [
+            {
+              "x": 98,
+              "y": 0,
+              "w": 730,
+              "h": 409
+            },
+            {
+              "x": 272,
+              "y": 0,
+              "w": 409,
+              "h": 409
+            },
+            {
+              "x": 297,
+              "y": 0,
+              "w": 359,
+              "h": 409
+            },
+            {
+              "x": 374,
+              "y": 0,
+              "w": 205,
+              "h": 409
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 828,
+              "h": 409
+            }
+          ]
+        },
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "media_results": {
+          "result": {
+            "media_key": "3_1909551989576355840"
+          }
+        }
+      },
+      {
+        "display_url": "pic.x.com/wEMj1Ma9nc",
+        "expanded_url": "https://x.com/sloansavery/status/1909551993414185285/photo/1",
+        "id_str": "1909551989370826752",
+        "indices": [
+          109,
+          132
+        ],
+        "media_key": "3_1909551989370826752",
+        "media_url_https": "https://pbs.twimg.com/media/GoAXasaWsAADRMC.jpg",
+        "type": "photo",
+        "url": "https://t.co/wEMj1Ma9nc",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": []
+          },
+          "medium": {
+            "faces": []
+          },
+          "small": {
+            "faces": []
+          },
+          "orig": {
+            "faces": []
+          }
+        },
+        "sizes": {
+          "large": {
+            "h": 403,
+            "w": 828,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 403,
+            "w": 828,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 331,
+            "w": 680,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 403,
+          "width": 828,
+          "focus_rects": [
+            {
+              "x": 74,
+              "y": 0,
+              "w": 720,
+              "h": 403
+            },
+            {
+              "x": 233,
+              "y": 0,
+              "w": 403,
+              "h": 403
+            },
+            {
+              "x": 257,
+              "y": 0,
+              "w": 354,
+              "h": 403
+            },
+            {
+              "x": 333,
+              "y": 0,
+              "w": 202,
+              "h": 403
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 828,
+              "h": 403
+            }
+          ]
+        },
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "media_results": {
+          "result": {
+            "media_key": "3_1909551989370826752"
+          }
+        }
+      },
+      {
+        "display_url": "pic.x.com/wEMj1Ma9nc",
+        "expanded_url": "https://x.com/sloansavery/status/1909551993414185285/photo/1",
+        "id_str": "1909551989626679296",
+        "indices": [
+          109,
+          132
+        ],
+        "media_key": "3_1909551989626679296",
+        "media_url_https": "https://pbs.twimg.com/media/GoAXatXWsAAKXok.jpg",
+        "type": "photo",
+        "url": "https://t.co/wEMj1Ma9nc",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "x": 1312,
+                "y": 122,
+                "h": 322,
+                "w": 322
+              },
+              {
+                "x": 372,
+                "y": 312,
+                "h": 318,
+                "w": 318
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "x": 768,
+                "y": 71,
+                "h": 188,
+                "w": 188
+              },
+              {
+                "x": 217,
+                "y": 182,
+                "h": 186,
+                "w": 186
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "x": 435,
+                "y": 40,
+                "h": 106,
+                "w": 106
+              },
+              {
+                "x": 123,
+                "y": 103,
+                "h": 105,
+                "w": 105
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "x": 1312,
+                "y": 122,
+                "h": 322,
+                "w": 322
+              },
+              {
+                "x": 372,
+                "y": 312,
+                "h": 318,
+                "w": 318
+              }
+            ]
+          }
+        },
+        "sizes": {
+          "large": {
+            "h": 1024,
+            "w": 2048,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 600,
+            "w": 1200,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 340,
+            "w": 680,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 1024,
+          "width": 2048,
+          "focus_rects": [
+            {
+              "x": 219,
+              "y": 0,
+              "w": 1829,
+              "h": 1024
+            },
+            {
+              "x": 972,
+              "y": 0,
+              "w": 1024,
+              "h": 1024
+            },
+            {
+              "x": 1035,
+              "y": 0,
+              "w": 898,
+              "h": 1024
+            },
+            {
+              "x": 1228,
+              "y": 0,
+              "w": 512,
+              "h": 1024
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 2048,
+              "h": 1024
+            }
+          ]
+        },
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "media_results": {
+          "result": {
+            "media_key": "3_1909551989626679296"
+          }
+        }
+      }
+    ],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [
+    "https://pbs.twimg.com/media/GoAXatjWcAARU6Z.jpg",
+    "https://pbs.twimg.com/media/GoAXatLW0AAPoae.jpg",
+    "https://pbs.twimg.com/media/GoAXasaWsAADRMC.jpg",
+    "https://pbs.twimg.com/media/GoAXatXWsAAKXok.jpg"
+  ],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "1911810465832874127",
+  "url": "https://x.com/jelevision/status/1911810465832874127",
+  "twitterUrl": "https://twitter.com/jelevision/status/1911810465832874127",
+  "text": "she’s an icon, she’s a legend #pulsenetflix\n\nhttps://t.co/zjrUREKdmb",
+  "fullText": "she’s an icon, she’s a legend #pulsenetflix\n\nhttps://t.co/zjrUREKdmb",
+  "source": "Twitter for iPhone",
+  "retweetCount": 17,
+  "replyCount": 1,
+  "likeCount": 89,
+  "quoteCount": 0,
+  "viewCount": 6752,
+  "createdAt": "Mon Apr 14 15:55:09 +0000 2025",
+  "lang": "en",
+  "quoteId": "1911768056184840424",
+  "bookmarkCount": 11,
+  "isReply": false,
+  "conversationId": "1911810465832874127",
+  "possiblySensitive": false,
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "jelevision",
+    "url": "https://x.com/jelevision",
+    "twitterUrl": "https://twitter.com/jelevision",
+    "id": "1057317932357836801",
+    "name": "ᴊᴇʟᴀ",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1845142990190231565/gMja1-3r_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1057317932357836801/1728752019",
+    "description": "SHE/HER 🩷💜💙 📚📺🎧💻🌅🌌",
+    "location": "",
+    "followers": 3044,
+    "following": 1861,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Tue Oct 30 17:06:53 +0000 2018",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "youtube.com/@jehlaaa6336",
+            "expanded_url": "https://www.youtube.com/@jehlaaa6336",
+            "url": "https://t.co/fLvaUqQDiB",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 118262,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "mediaCount": 26263,
+    "statusesCount": 65860,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1375810084547203073"
+    ]
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "display_url": "pic.x.com/zjrUREKdmb",
+        "expanded_url": "https://x.com/jelevision/status/1911093456362971622/video/1",
+        "id_str": "1911091963471745024",
+        "indices": [
+          45,
+          68
+        ],
+        "media_key": "13_1911091963471745024",
+        "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1911091963471745024/img/8QVyitJXKR63egny.jpg",
+        "source_status_id_str": "1911093456362971622",
+        "source_user_id_str": "1057317932357836801",
+        "type": "video",
+        "url": "https://t.co/zjrUREKdmb",
+        "additional_media_info": {
+          "monetizable": false,
+          "source_user": {
+            "user_results": {
+              "result": {
+                "__typename": "User",
+                "id": "VXNlcjoxMDU3MzE3OTMyMzU3ODM2ODAx",
+                "rest_id": "1057317932357836801",
+                "affiliates_highlighted_label": {},
+                "has_graduated_access": true,
+                "is_blue_verified": false,
+                "profile_image_shape": "Circle",
+                "legacy": {
+                  "can_dm": true,
+                  "can_media_tag": false,
+                  "created_at": "Tue Oct 30 17:06:53 +0000 2018",
+                  "default_profile": false,
+                  "default_profile_image": false,
+                  "description": "SHE/HER 🩷💜💙 📚📺🎧💻🌅🌌",
+                  "entities": {
+                    "description": {
+                      "urls": []
+                    },
+                    "url": {
+                      "urls": [
+                        {
+                          "display_url": "youtube.com/@jehlaaa6336",
+                          "expanded_url": "https://www.youtube.com/@jehlaaa6336",
+                          "url": "https://t.co/fLvaUqQDiB",
+                          "indices": [
+                            0,
+                            23
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  "fast_followers_count": 0,
+                  "favourites_count": 118262,
+                  "followers_count": 3044,
+                  "friends_count": 1861,
+                  "has_custom_timelines": false,
+                  "is_translator": false,
+                  "listed_count": 18,
+                  "location": "",
+                  "media_count": 26263,
+                  "name": "ᴊᴇʟᴀ",
+                  "normal_followers_count": 3044,
+                  "pinned_tweet_ids_str": [
+                    "1375810084547203073"
+                  ],
+                  "possibly_sensitive": false,
+                  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1057317932357836801/1728752019",
+                  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1845142990190231565/gMja1-3r_normal.jpg",
+                  "profile_interstitial_type": "",
+                  "screen_name": "jelevision",
+                  "statuses_count": 65860,
+                  "translator_type": "none",
+                  "url": "https://t.co/fLvaUqQDiB",
+                  "verified": false,
+                  "want_retweets": false,
+                  "withheld_in_countries": []
+                },
+                "tipjar_settings": {}
+              }
+            }
+          }
+        },
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "sizes": {
+          "large": {
+            "h": 1080,
+            "w": 1920,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 675,
+            "w": 1200,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 383,
+            "w": 680,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 1080,
+          "width": 1920,
+          "focus_rects": []
+        },
+        "video_info": {
+          "aspect_ratio": [
+            16,
+            9
+          ],
+          "duration_millis": 51926,
+          "variants": [
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/amplify_video/1911091963471745024/pl/IqrurxY0WWDJAtt-.m3u8?tag=14"
+            },
+            {
+              "bitrate": 288000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1911091963471745024/vid/avc1/480x270/mQFP2KSDxlo6DsnU.mp4?tag=14"
+            },
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1911091963471745024/vid/avc1/640x360/iTpQevlZL9dmXjj9.mp4?tag=14"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1911091963471745024/vid/avc1/1280x720/wO1McXy63qfH6Esa.mp4?tag=14"
+            }
+          ]
+        },
+        "media_results": {
+          "result": {
+            "media_key": "13_1911091963471745024"
+          }
+        }
+      }
+    ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          30,
+          43
+        ],
+        "text": "pulsenetflix"
+      }
+    ],
+    "media": [
+      {
+        "display_url": "pic.x.com/zjrUREKdmb",
+        "expanded_url": "https://x.com/jelevision/status/1911093456362971622/video/1",
+        "id_str": "1911091963471745024",
+        "indices": [
+          45,
+          68
+        ],
+        "media_key": "13_1911091963471745024",
+        "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1911091963471745024/img/8QVyitJXKR63egny.jpg",
+        "source_status_id_str": "1911093456362971622",
+        "source_user_id_str": "1057317932357836801",
+        "type": "video",
+        "url": "https://t.co/zjrUREKdmb",
+        "additional_media_info": {
+          "monetizable": false,
+          "source_user": {
+            "user_results": {
+              "result": {
+                "__typename": "User",
+                "id": "VXNlcjoxMDU3MzE3OTMyMzU3ODM2ODAx",
+                "rest_id": "1057317932357836801",
+                "affiliates_highlighted_label": {},
+                "has_graduated_access": true,
+                "is_blue_verified": false,
+                "profile_image_shape": "Circle",
+                "legacy": {
+                  "can_dm": true,
+                  "can_media_tag": false,
+                  "created_at": "Tue Oct 30 17:06:53 +0000 2018",
+                  "default_profile": false,
+                  "default_profile_image": false,
+                  "description": "SHE/HER 🩷💜💙 📚📺🎧💻🌅🌌",
+                  "entities": {
+                    "description": {
+                      "urls": []
+                    },
+                    "url": {
+                      "urls": [
+                        {
+                          "display_url": "youtube.com/@jehlaaa6336",
+                          "expanded_url": "https://www.youtube.com/@jehlaaa6336",
+                          "url": "https://t.co/fLvaUqQDiB",
+                          "indices": [
+                            0,
+                            23
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  "fast_followers_count": 0,
+                  "favourites_count": 118262,
+                  "followers_count": 3044,
+                  "friends_count": 1861,
+                  "has_custom_timelines": false,
+                  "is_translator": false,
+                  "listed_count": 18,
+                  "location": "",
+                  "media_count": 26263,
+                  "name": "ᴊᴇʟᴀ",
+                  "normal_followers_count": 3044,
+                  "pinned_tweet_ids_str": [
+                    "1375810084547203073"
+                  ],
+                  "possibly_sensitive": false,
+                  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1057317932357836801/1728752019",
+                  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1845142990190231565/gMja1-3r_normal.jpg",
+                  "profile_interstitial_type": "",
+                  "screen_name": "jelevision",
+                  "statuses_count": 65860,
+                  "translator_type": "none",
+                  "url": "https://t.co/fLvaUqQDiB",
+                  "verified": false,
+                  "want_retweets": false,
+                  "withheld_in_countries": []
+                },
+                "tipjar_settings": {}
+              }
+            }
+          }
+        },
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "sizes": {
+          "large": {
+            "h": 1080,
+            "w": 1920,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 675,
+            "w": 1200,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 383,
+            "w": 680,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 1080,
+          "width": 1920,
+          "focus_rects": []
+        },
+        "video_info": {
+          "aspect_ratio": [
+            16,
+            9
+          ],
+          "duration_millis": 51926,
+          "variants": [
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/amplify_video/1911091963471745024/pl/IqrurxY0WWDJAtt-.m3u8?tag=14"
+            },
+            {
+              "bitrate": 288000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1911091963471745024/vid/avc1/480x270/mQFP2KSDxlo6DsnU.mp4?tag=14"
+            },
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1911091963471745024/vid/avc1/640x360/iTpQevlZL9dmXjj9.mp4?tag=14"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1911091963471745024/vid/avc1/1280x720/wO1McXy63qfH6Esa.mp4?tag=14"
+            }
+          ]
+        },
+        "media_results": {
+          "result": {
+            "media_key": "13_1911091963471745024"
+          }
+        }
+      }
+    ],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": true,
+  "quote": {
+    "type": "tweet",
+    "id": "1911768056184840424",
+    "text": "She said “I call you Cinnabon cause I know it’s bad for me but I still want to eat the whole thing.” She ate that so baddddddd #PulseNetflix",
+    "source": "Twitter for iPhone",
+    "retweetCount": 0,
+    "replyCount": 0,
+    "likeCount": 20,
+    "quoteCount": 1,
+    "viewCount": 7328,
+    "createdAt": "Mon Apr 14 13:06:38 +0000 2025",
+    "lang": "en",
+    "bookmarkCount": 1,
+    "isPinned": false,
+    "author": {
+      "type": "user",
+      "userName": "devmrshl",
+      "url": "https://x.com/devmrshl",
+      "twitterUrl": "https://twitter.com/devmrshl",
+      "id": "251961247",
+      "name": "D$V.",
+      "isVerified": false,
+      "isBlueVerified": false,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1762603064484081665/jqWMoZKc_normal.jpg",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/251961247/1731696455",
+      "description": "28. PNS. Progress Over Perfection. IG: devmrshl",
+      "location": "Philadelphia, PA",
+      "followers": 12545,
+      "following": 1563,
+      "status": "",
+      "canDm": true,
+      "canMediaTag": false,
+      "createdAt": "Mon Feb 14 05:33:59 +0000 2011",
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 13342,
+      "hasCustomTimelines": true,
+      "isTranslator": false,
+      "mediaCount": 363,
+      "statusesCount": 55426,
+      "withheldInCountries": [],
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": [
+        "1870672370417152039"
+      ]
+    },
+    "extendedEntities": {},
+    "card": {},
+    "place": {},
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            127,
+            140
+          ],
+          "text": "PulseNetflix"
+        }
+      ],
+      "symbols": [],
+      "timestamps": [],
+      "urls": [],
+      "user_mentions": []
+    }
+  },
+  "media": [
+    "https://pbs.twimg.com/amplify_video_thumb/1911091963471745024/img/8QVyitJXKR63egny.jpg"
+  ],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "1909593825598652470",
+  "url": "https://x.com/lexipcdia/status/1909593825598652470",
+  "twitterUrl": "https://twitter.com/lexipcdia/status/1909593825598652470",
+  "text": "complex fictional rs are truly so lost on y’all it's concerning. The power dynamic in #pulsenetflix led to a sense of internal conflict where danny struggled with guilt&amp;insecurity about her success,feared her achievements might be seen as a result of favoritism rather than merit- https://t.co/Iaqt3nhzfu",
+  "fullText": "complex fictional rs are truly so lost on y’all it's concerning. The power dynamic in #pulsenetflix led to a sense of internal conflict where danny struggled with guilt&amp;insecurity about her success,feared her achievements might be seen as a result of favoritism rather than merit- https://t.co/Iaqt3nhzfu",
+  "source": "Twitter for iPhone",
+  "retweetCount": 6,
+  "replyCount": 5,
+  "likeCount": 79,
+  "quoteCount": 0,
+  "viewCount": 7325,
+  "createdAt": "Tue Apr 08 13:07:01 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 10,
+  "isReply": false,
+  "conversationId": "1909593825598652470",
+  "possiblySensitive": false,
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "lexipcdia",
+    "url": "https://x.com/lexipcdia",
+    "twitterUrl": "https://twitter.com/lexipcdia",
+    "id": "1002184843608936448",
+    "name": "nadine",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1913368376358879232/7127TRqK_normal.jpg",
+    "description": "",
+    "location": "late 20s.",
+    "followers": 885,
+    "following": 98,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Thu May 31 13:47:41 +0000 2018",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 65982,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 13738,
+    "statusesCount": 41910,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": []
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "display_url": "pic.x.com/Iaqt3nhzfu",
+        "expanded_url": "https://x.com/lexipcdia/status/1909593825598652470/photo/1",
+        "ext_alt_text": "Kamala Harris Facts GIF",
+        "id_str": "1909593816979349504",
+        "indices": [
+          285,
+          308
+        ],
+        "media_key": "16_1909593816979349504",
+        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/GoA9dYZWIAAI72R.jpg",
+        "type": "animated_gif",
+        "url": "https://t.co/Iaqt3nhzfu",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "sizes": {
+          "large": {
+            "h": 156,
+            "w": 220,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 156,
+            "w": 220,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 156,
+            "w": 220,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 156,
+          "width": 220,
+          "focus_rects": []
+        },
+        "video_info": {
+          "aspect_ratio": [
+            55,
+            39
+          ],
+          "variants": [
+            {
+              "bitrate": 0,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/tweet_video/GoA9dYZWIAAI72R.mp4"
+            }
+          ]
+        },
+        "media_results": {
+          "result": {
+            "media_key": "16_1909593816979349504"
+          }
+        }
+      }
+    ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          86,
+          99
+        ],
+        "text": "pulsenetflix"
+      }
+    ],
+    "media": [
+      {
+        "display_url": "pic.x.com/Iaqt3nhzfu",
+        "expanded_url": "https://x.com/lexipcdia/status/1909593825598652470/photo/1",
+        "ext_alt_text": "Kamala Harris Facts GIF",
+        "id_str": "1909593816979349504",
+        "indices": [
+          285,
+          308
+        ],
+        "media_key": "16_1909593816979349504",
+        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/GoA9dYZWIAAI72R.jpg",
+        "type": "animated_gif",
+        "url": "https://t.co/Iaqt3nhzfu",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "sizes": {
+          "large": {
+            "h": 156,
+            "w": 220,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 156,
+            "w": 220,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 156,
+            "w": 220,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 156,
+          "width": 220,
+          "focus_rects": []
+        },
+        "video_info": {
+          "aspect_ratio": [
+            55,
+            39
+          ],
+          "variants": [
+            {
+              "bitrate": 0,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/tweet_video/GoA9dYZWIAAI72R.mp4"
+            }
+          ]
+        },
+        "media_results": {
+          "result": {
+            "media_key": "16_1909593816979349504"
+          }
+        }
+      }
+    ],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [
+    "https://pbs.twimg.com/tweet_video_thumb/GoA9dYZWIAAI72R.jpg"
+  ],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "1908354793627660525",
+  "url": "https://x.com/nadiaelites/status/1908354793627660525",
+  "twitterUrl": "https://twitter.com/nadiaelites/status/1908354793627660525",
+  "text": "NOTHING GAGGED ME MORE THAN THIS SCENE…….\n#PulseNetflix https://t.co/zBR37x6m3p",
+  "fullText": "NOTHING GAGGED ME MORE THAN THIS SCENE…….\n#PulseNetflix https://t.co/zBR37x6m3p",
+  "source": "Twitter for iPhone",
+  "retweetCount": 52,
+  "replyCount": 9,
+  "likeCount": 401,
+  "quoteCount": 18,
+  "viewCount": 109190,
+  "createdAt": "Sat Apr 05 03:03:32 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 85,
+  "isReply": false,
+  "conversationId": "1908354793627660525",
+  "possiblySensitive": false,
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "nadiaelites",
+    "url": "https://x.com/nadiaelites",
+    "twitterUrl": "https://twitter.com/nadiaelites",
+    "id": "1239680441310986246",
+    "name": "ari ☆",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1900606496615829504/MOxpNFIT_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1239680441310986246/1741970301",
+    "description": "constantly switching from tyannie to soljae to oshamir to peterose",
+    "location": "she/her | 24",
+    "followers": 846,
+    "following": 318,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": false,
+    "createdAt": "Mon Mar 16 22:30:45 +0000 2020",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 203983,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 18345,
+    "statusesCount": 33872,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1882959687265730618"
+    ]
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "display_url": "pic.x.com/zBR37x6m3p",
+        "expanded_url": "https://x.com/nadiaelites/status/1908354793627660525/video/1",
+        "id_str": "1908354615969554432",
+        "indices": [
+          56,
+          79
+        ],
+        "media_key": "13_1908354615969554432",
+        "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1908354615969554432/img/ZyC8WCoPepnYFiwZ.jpg",
+        "type": "video",
+        "url": "https://t.co/zBR37x6m3p",
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "sizes": {
+          "large": {
+            "h": 700,
+            "w": 1280,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 656,
+            "w": 1200,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 372,
+            "w": 680,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 700,
+          "width": 1280,
+          "focus_rects": []
+        },
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "video_info": {
+          "aspect_ratio": [
+            64,
+            35
+          ],
+          "duration_millis": 97391,
+          "variants": [
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/amplify_video/1908354615969554432/pl/p0EcOs-WQB5ZTLYB.m3u8?tag=14"
+            },
+            {
+              "bitrate": 288000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1908354615969554432/vid/avc1/492x270/VLdrUrWQ4G0mQ4td.mp4?tag=14"
+            },
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1908354615969554432/vid/avc1/658x360/yRi704NYdMZfZOeh.mp4?tag=14"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1908354615969554432/vid/avc1/1280x700/2ziodDGxu6_m_aEv.mp4?tag=14"
+            }
+          ]
+        },
+        "media_results": {
+          "result": {
+            "media_key": "13_1908354615969554432"
+          }
+        }
+      }
+    ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          42,
+          55
+        ],
+        "text": "PulseNetflix"
+      }
+    ],
+    "media": [
+      {
+        "display_url": "pic.x.com/zBR37x6m3p",
+        "expanded_url": "https://x.com/nadiaelites/status/1908354793627660525/video/1",
+        "id_str": "1908354615969554432",
+        "indices": [
+          56,
+          79
+        ],
+        "media_key": "13_1908354615969554432",
+        "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1908354615969554432/img/ZyC8WCoPepnYFiwZ.jpg",
+        "type": "video",
+        "url": "https://t.co/zBR37x6m3p",
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "sizes": {
+          "large": {
+            "h": 700,
+            "w": 1280,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 656,
+            "w": 1200,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 372,
+            "w": 680,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 700,
+          "width": 1280,
+          "focus_rects": []
+        },
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "video_info": {
+          "aspect_ratio": [
+            64,
+            35
+          ],
+          "duration_millis": 97391,
+          "variants": [
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/amplify_video/1908354615969554432/pl/p0EcOs-WQB5ZTLYB.m3u8?tag=14"
+            },
+            {
+              "bitrate": 288000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1908354615969554432/vid/avc1/492x270/VLdrUrWQ4G0mQ4td.mp4?tag=14"
+            },
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1908354615969554432/vid/avc1/658x360/yRi704NYdMZfZOeh.mp4?tag=14"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1908354615969554432/vid/avc1/1280x700/2ziodDGxu6_m_aEv.mp4?tag=14"
+            }
+          ]
+        },
+        "media_results": {
+          "result": {
+            "media_key": "13_1908354615969554432"
+          }
+        }
+      }
+    ],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [
+    "https://pbs.twimg.com/amplify_video_thumb/1908354615969554432/img/ZyC8WCoPepnYFiwZ.jpg"
+  ],
+  "isConversationControlled": false
+}]

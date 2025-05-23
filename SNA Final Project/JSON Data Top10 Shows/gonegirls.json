@@ -1,0 +1,2491 @@
+[{
+  "type": "tweet",
+  "id": "1908895257040650689",
+  "url": "https://x.com/cammiemark/status/1908895257040650689",
+  "twitterUrl": "https://twitter.com/cammiemark/status/1908895257040650689",
+  "text": "The police are so useless. I don’t know why it still shocks me. Like she disappeared in a specific area and you don’t search it for 19 fucking months????????? #gonegirls https://t.co/RYGQyH3CyG",
+  "fullText": "The police are so useless. I don’t know why it still shocks me. Like she disappeared in a specific area and you don’t search it for 19 fucking months????????? #gonegirls https://t.co/RYGQyH3CyG",
+  "source": "Twitter for iPhone",
+  "retweetCount": 3,
+  "replyCount": 1,
+  "likeCount": 28,
+  "quoteCount": 0,
+  "viewCount": 1259,
+  "createdAt": "Sun Apr 06 14:51:09 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "conversationId": "1908895257040650689",
+  "possiblySensitive": false,
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "cammiemark",
+    "url": "https://x.com/cammiemark",
+    "twitterUrl": "https://twitter.com/cammiemark",
+    "id": "1219746421085175808",
+    "name": "Camm",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1897722587280519168/Pv84hmQO_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1219746421085175808/1741445016",
+    "description": "f1 fan. #TeamLH. reality tv junkie. avid reader.",
+    "location": "Canada",
+    "followers": 1068,
+    "following": 238,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Tue Jan 21 22:21:34 +0000 2020",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "bsky.app/profile/cammie…",
+            "expanded_url": "https://bsky.app/profile/cammiemark.bsky.social",
+            "url": "https://t.co/t63uURTS8Q",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 12714,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 4117,
+    "statusesCount": 19412,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1801816568545919478"
+    ]
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "display_url": "pic.x.com/RYGQyH3CyG",
+        "expanded_url": "https://x.com/cammiemark/status/1908895257040650689/photo/1",
+        "id_str": "1908895251277713408",
+        "indices": [
+          170,
+          193
+        ],
+        "media_key": "16_1908895251277713408",
+        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Gn3CHgXWkAARqYi.jpg",
+        "type": "animated_gif",
+        "url": "https://t.co/RYGQyH3CyG",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "sizes": {
+          "large": {
+            "h": 278,
+            "w": 498,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 278,
+            "w": 498,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 278,
+            "w": 498,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 278,
+          "width": 498,
+          "focus_rects": []
+        },
+        "video_info": {
+          "aspect_ratio": [
+            249,
+            139
+          ],
+          "variants": [
+            {
+              "bitrate": 0,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/tweet_video/Gn3CHgXWkAARqYi.mp4"
+            }
+          ]
+        },
+        "media_results": {
+          "result": {
+            "media_key": "16_1908895251277713408"
+          }
+        }
+      }
+    ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          159,
+          169
+        ],
+        "text": "gonegirls"
+      }
+    ],
+    "media": [
+      {
+        "display_url": "pic.x.com/RYGQyH3CyG",
+        "expanded_url": "https://x.com/cammiemark/status/1908895257040650689/photo/1",
+        "id_str": "1908895251277713408",
+        "indices": [
+          170,
+          193
+        ],
+        "media_key": "16_1908895251277713408",
+        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Gn3CHgXWkAARqYi.jpg",
+        "type": "animated_gif",
+        "url": "https://t.co/RYGQyH3CyG",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "sizes": {
+          "large": {
+            "h": 278,
+            "w": 498,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 278,
+            "w": 498,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 278,
+            "w": 498,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 278,
+          "width": 498,
+          "focus_rects": []
+        },
+        "video_info": {
+          "aspect_ratio": [
+            249,
+            139
+          ],
+          "variants": [
+            {
+              "bitrate": 0,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/tweet_video/Gn3CHgXWkAARqYi.mp4"
+            }
+          ]
+        },
+        "media_results": {
+          "result": {
+            "media_key": "16_1908895251277713408"
+          }
+        }
+      }
+    ],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [
+    "https://pbs.twimg.com/tweet_video_thumb/Gn3CHgXWkAARqYi.jpg"
+  ],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "1907453408568877538",
+  "url": "https://x.com/Atia_Anishah/status/1907453408568877538",
+  "twitterUrl": "https://twitter.com/Atia_Anishah/status/1907453408568877538",
+  "text": "Watched this Netflix doc, and honestly, by the end I was more furious at the police than the actual SK. They captured everything ,the misogyny, the corruption, and the agonizing delays in justice.\n\n#gonegirls\n#gilgobeach\n\n https://t.co/RIX2pv7yuL",
+  "fullText": "Watched this Netflix doc, and honestly, by the end I was more furious at the police than the actual SK. They captured everything ,the misogyny, the corruption, and the agonizing delays in justice.\n\n#gonegirls\n#gilgobeach\n\n https://t.co/RIX2pv7yuL",
+  "source": "Twitter for Android",
+  "retweetCount": 12,
+  "replyCount": 3,
+  "likeCount": 132,
+  "quoteCount": 3,
+  "viewCount": 7118,
+  "createdAt": "Wed Apr 02 15:21:46 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 3,
+  "isReply": false,
+  "conversationId": "1907453408568877538",
+  "possiblySensitive": false,
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "Atia_Anishah",
+    "url": "https://x.com/Atia_Anishah",
+    "twitterUrl": "https://twitter.com/Atia_Anishah",
+    "id": "1563938949667495936",
+    "name": "آتية🪷",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1907837763388583942/hpbgiFtR_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1563938949667495936/1741422741",
+    "description": "Navigating life one plot twist at a time👩‍⚕️🩺 🌷🪽",
+    "location": "",
+    "followers": 395,
+    "following": 255,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": false,
+    "createdAt": "Sun Aug 28 17:18:33 +0000 2022",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 47346,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "mediaCount": 1216,
+    "statusesCount": 13602,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1870102304197886046"
+    ]
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "display_url": "pic.x.com/RIX2pv7yuL",
+        "expanded_url": "https://x.com/netflix/status/1907145944950350091/video/1",
+        "id_str": "1907140383617712129",
+        "indices": [
+          223,
+          246
+        ],
+        "media_key": "13_1907140383617712129",
+        "media_url_https": "https://pbs.twimg.com/media/GneGJtvWQAEWPSi.jpg",
+        "source_status_id_str": "1907145944950350091",
+        "source_user_id_str": "16573941",
+        "type": "video",
+        "url": "https://t.co/RIX2pv7yuL",
+        "additional_media_info": {
+          "monetizable": false,
+          "source_user": {
+            "user_results": {
+              "result": {
+                "__typename": "User",
+                "id": "VXNlcjoxNjU3Mzk0MQ==",
+                "rest_id": "16573941",
+                "affiliates_highlighted_label": {},
+                "has_graduated_access": true,
+                "is_blue_verified": true,
+                "profile_image_shape": "Square",
+                "legacy": {
+                  "following": false,
+                  "can_dm": true,
+                  "can_media_tag": false,
+                  "created_at": "Fri Oct 03 04:16:17 +0000 2008",
+                  "default_profile": false,
+                  "default_profile_image": false,
+                  "description": "barnies",
+                  "entities": {
+                    "description": {
+                      "urls": []
+                    },
+                    "url": {
+                      "urls": [
+                        {
+                          "display_url": "netflix.com",
+                          "expanded_url": "https://netflix.com",
+                          "url": "https://t.co/plHjUOcU1u",
+                          "indices": [
+                            0,
+                            23
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  "fast_followers_count": 0,
+                  "favourites_count": 16002,
+                  "followers_count": 22853498,
+                  "friends_count": 2222,
+                  "has_custom_timelines": true,
+                  "is_translator": false,
+                  "listed_count": 21035,
+                  "location": "California, USA",
+                  "media_count": 20272,
+                  "name": "Netflix",
+                  "normal_followers_count": 22853498,
+                  "pinned_tweet_ids_str": [],
+                  "possibly_sensitive": false,
+                  "profile_banner_url": "https://pbs.twimg.com/profile_banners/16573941/1744271035",
+                  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1872671711700582400/6WLZxYpq_normal.jpg",
+                  "profile_interstitial_type": "",
+                  "screen_name": "netflix",
+                  "statuses_count": 59778,
+                  "translator_type": "none",
+                  "url": "https://t.co/plHjUOcU1u",
+                  "verified": false,
+                  "verified_type": "Business",
+                  "want_retweets": false,
+                  "withheld_in_countries": []
+                },
+                "tipjar_settings": {}
+              }
+            }
+          }
+        },
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "sizes": {
+          "large": {
+            "h": 405,
+            "w": 720,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 405,
+            "w": 720,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 383,
+            "w": 680,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 405,
+          "width": 720,
+          "focus_rects": []
+        },
+        "video_info": {
+          "aspect_ratio": [
+            16,
+            9
+          ],
+          "duration_millis": 67442,
+          "variants": [
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/amplify_video/1907140383617712129/pl/AYxokVakH__7iGiG.m3u8?tag=16&v=a14"
+            },
+            {
+              "bitrate": 288000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1907140383617712129/vid/avc1/480x270/CgUWS6vrYT4dlG6m.mp4?tag=16"
+            },
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1907140383617712129/vid/avc1/640x360/6Fz2s2k4fQyiWIjL.mp4?tag=16"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1907140383617712129/vid/avc1/1280x720/wNcf3OgSm54bV7O6.mp4?tag=16"
+            },
+            {
+              "bitrate": 10368000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1907140383617712129/vid/avc1/1920x1080/ZwhNYiQwFD79K2Gp.mp4?tag=16"
+            }
+          ]
+        },
+        "media_results": {
+          "result": {
+            "media_key": "13_1907140383617712129"
+          }
+        }
+      }
+    ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          198,
+          208
+        ],
+        "text": "gonegirls"
+      },
+      {
+        "indices": [
+          209,
+          220
+        ],
+        "text": "gilgobeach"
+      }
+    ],
+    "media": [
+      {
+        "display_url": "pic.x.com/RIX2pv7yuL",
+        "expanded_url": "https://x.com/netflix/status/1907145944950350091/video/1",
+        "id_str": "1907140383617712129",
+        "indices": [
+          223,
+          246
+        ],
+        "media_key": "13_1907140383617712129",
+        "media_url_https": "https://pbs.twimg.com/media/GneGJtvWQAEWPSi.jpg",
+        "source_status_id_str": "1907145944950350091",
+        "source_user_id_str": "16573941",
+        "type": "video",
+        "url": "https://t.co/RIX2pv7yuL",
+        "additional_media_info": {
+          "monetizable": false,
+          "source_user": {
+            "user_results": {
+              "result": {
+                "__typename": "User",
+                "id": "VXNlcjoxNjU3Mzk0MQ==",
+                "rest_id": "16573941",
+                "affiliates_highlighted_label": {},
+                "has_graduated_access": true,
+                "is_blue_verified": true,
+                "profile_image_shape": "Square",
+                "legacy": {
+                  "following": false,
+                  "can_dm": true,
+                  "can_media_tag": false,
+                  "created_at": "Fri Oct 03 04:16:17 +0000 2008",
+                  "default_profile": false,
+                  "default_profile_image": false,
+                  "description": "barnies",
+                  "entities": {
+                    "description": {
+                      "urls": []
+                    },
+                    "url": {
+                      "urls": [
+                        {
+                          "display_url": "netflix.com",
+                          "expanded_url": "https://netflix.com",
+                          "url": "https://t.co/plHjUOcU1u",
+                          "indices": [
+                            0,
+                            23
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  "fast_followers_count": 0,
+                  "favourites_count": 16002,
+                  "followers_count": 22853498,
+                  "friends_count": 2222,
+                  "has_custom_timelines": true,
+                  "is_translator": false,
+                  "listed_count": 21035,
+                  "location": "California, USA",
+                  "media_count": 20272,
+                  "name": "Netflix",
+                  "normal_followers_count": 22853498,
+                  "pinned_tweet_ids_str": [],
+                  "possibly_sensitive": false,
+                  "profile_banner_url": "https://pbs.twimg.com/profile_banners/16573941/1744271035",
+                  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1872671711700582400/6WLZxYpq_normal.jpg",
+                  "profile_interstitial_type": "",
+                  "screen_name": "netflix",
+                  "statuses_count": 59778,
+                  "translator_type": "none",
+                  "url": "https://t.co/plHjUOcU1u",
+                  "verified": false,
+                  "verified_type": "Business",
+                  "want_retweets": false,
+                  "withheld_in_countries": []
+                },
+                "tipjar_settings": {}
+              }
+            }
+          }
+        },
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "sizes": {
+          "large": {
+            "h": 405,
+            "w": 720,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 405,
+            "w": 720,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 383,
+            "w": 680,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 405,
+          "width": 720,
+          "focus_rects": []
+        },
+        "video_info": {
+          "aspect_ratio": [
+            16,
+            9
+          ],
+          "duration_millis": 67442,
+          "variants": [
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/amplify_video/1907140383617712129/pl/AYxokVakH__7iGiG.m3u8?tag=16&v=a14"
+            },
+            {
+              "bitrate": 288000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1907140383617712129/vid/avc1/480x270/CgUWS6vrYT4dlG6m.mp4?tag=16"
+            },
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1907140383617712129/vid/avc1/640x360/6Fz2s2k4fQyiWIjL.mp4?tag=16"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1907140383617712129/vid/avc1/1280x720/wNcf3OgSm54bV7O6.mp4?tag=16"
+            },
+            {
+              "bitrate": 10368000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1907140383617712129/vid/avc1/1920x1080/ZwhNYiQwFD79K2Gp.mp4?tag=16"
+            }
+          ]
+        },
+        "media_results": {
+          "result": {
+            "media_key": "13_1907140383617712129"
+          }
+        }
+      }
+    ],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [
+    "https://pbs.twimg.com/media/GneGJtvWQAEWPSi.jpg"
+  ],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "1909042054325231877",
+  "url": "https://x.com/RakitaMode/status/1909042054325231877",
+  "twitterUrl": "https://twitter.com/RakitaMode/status/1909042054325231877",
+  "text": "#GoneGirls was an eerie docuseries about a serial killer. And this case was solved fairly recently that I had no idea about until I watched this series. Engaging series. Just 3 episodes. 👍🏽👍🏽 https://t.co/ilQqfuGExR",
+  "fullText": "#GoneGirls was an eerie docuseries about a serial killer. And this case was solved fairly recently that I had no idea about until I watched this series. Engaging series. Just 3 episodes. 👍🏽👍🏽 https://t.co/ilQqfuGExR",
+  "source": "Twitter for Android",
+  "retweetCount": 0,
+  "replyCount": 1,
+  "likeCount": 4,
+  "quoteCount": 0,
+  "viewCount": 623,
+  "createdAt": "Mon Apr 07 00:34:28 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "conversationId": "1909042054325231877",
+  "possiblySensitive": false,
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "RakitaMode",
+    "url": "https://x.com/RakitaMode",
+    "twitterUrl": "https://twitter.com/RakitaMode",
+    "id": "1024461095220785152",
+    "name": "Zan",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1823702383156699136/mH0GgruP_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1024461095220785152/1690913321",
+    "description": "Films & Series | Current Affairs | Cricket | Books",
+    "location": "United States",
+    "followers": 1998,
+    "following": 240,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": false,
+    "createdAt": "Wed Aug 01 01:05:33 +0000 2018",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 85924,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 4849,
+    "statusesCount": 48609,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1892241919826170286"
+    ]
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "display_url": "pic.x.com/ilQqfuGExR",
+        "expanded_url": "https://x.com/RakitaMode/status/1909042054325231877/photo/1",
+        "id_str": "1909042052370690049",
+        "indices": [
+          192,
+          215
+        ],
+        "media_key": "3_1909042052370690049",
+        "media_url_https": "https://pbs.twimg.com/media/Gn5HodDWcAElQ8s.jpg",
+        "type": "photo",
+        "url": "https://t.co/ilQqfuGExR",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": []
+          },
+          "medium": {
+            "faces": []
+          },
+          "small": {
+            "faces": []
+          },
+          "orig": {
+            "faces": []
+          }
+        },
+        "sizes": {
+          "large": {
+            "h": 1500,
+            "w": 1200,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 1200,
+            "w": 960,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 680,
+            "w": 544,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 1500,
+          "width": 1200,
+          "focus_rects": [
+            {
+              "x": 0,
+              "y": 826,
+              "w": 1200,
+              "h": 672
+            },
+            {
+              "x": 0,
+              "y": 300,
+              "w": 1200,
+              "h": 1200
+            },
+            {
+              "x": 0,
+              "y": 132,
+              "w": 1200,
+              "h": 1368
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 750,
+              "h": 1500
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 1200,
+              "h": 1500
+            }
+          ]
+        },
+        "media_results": {
+          "result": {
+            "media_key": "3_1909042052370690049"
+          }
+        }
+      }
+    ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          0,
+          10
+        ],
+        "text": "GoneGirls"
+      }
+    ],
+    "media": [
+      {
+        "display_url": "pic.x.com/ilQqfuGExR",
+        "expanded_url": "https://x.com/RakitaMode/status/1909042054325231877/photo/1",
+        "id_str": "1909042052370690049",
+        "indices": [
+          192,
+          215
+        ],
+        "media_key": "3_1909042052370690049",
+        "media_url_https": "https://pbs.twimg.com/media/Gn5HodDWcAElQ8s.jpg",
+        "type": "photo",
+        "url": "https://t.co/ilQqfuGExR",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": []
+          },
+          "medium": {
+            "faces": []
+          },
+          "small": {
+            "faces": []
+          },
+          "orig": {
+            "faces": []
+          }
+        },
+        "sizes": {
+          "large": {
+            "h": 1500,
+            "w": 1200,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 1200,
+            "w": 960,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 680,
+            "w": 544,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 1500,
+          "width": 1200,
+          "focus_rects": [
+            {
+              "x": 0,
+              "y": 826,
+              "w": 1200,
+              "h": 672
+            },
+            {
+              "x": 0,
+              "y": 300,
+              "w": 1200,
+              "h": 1200
+            },
+            {
+              "x": 0,
+              "y": 132,
+              "w": 1200,
+              "h": 1368
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 750,
+              "h": 1500
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 1200,
+              "h": 1500
+            }
+          ]
+        },
+        "media_results": {
+          "result": {
+            "media_key": "3_1909042052370690049"
+          }
+        }
+      }
+    ],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [
+    "https://pbs.twimg.com/media/Gn5HodDWcAElQ8s.jpg"
+  ],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "1907921212635783371",
+  "url": "https://x.com/PhD_OnTheCouch/status/1907921212635783371",
+  "twitterUrl": "https://twitter.com/PhD_OnTheCouch/status/1907921212635783371",
+  "text": "#gonegirls The Long Island Serial Killer on is very well done/victim centric &amp; the families are participating!\nMust watch!\n\nGreat to see our Buffalo victim #MelissaBarthelemy's baby sister Amanda all grown up &amp; continuing to be BRAVE AF ❣️👊🏽 #Gilgo4 #LISK #RexHeuermann https://t.co/1Vfj2uDhoY",
+  "fullText": "#gonegirls The Long Island Serial Killer on is very well done/victim centric &amp; the families are participating!\nMust watch!\n\nGreat to see our Buffalo victim #MelissaBarthelemy's baby sister Amanda all grown up &amp; continuing to be BRAVE AF ❣️👊🏽 #Gilgo4 #LISK #RexHeuermann https://t.co/1Vfj2uDhoY",
+  "source": "Twitter for Android",
+  "retweetCount": 0,
+  "replyCount": 1,
+  "likeCount": 4,
+  "quoteCount": 0,
+  "viewCount": 714,
+  "createdAt": "Thu Apr 03 22:20:39 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "conversationId": "1907921212635783371",
+  "possiblySensitive": false,
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "PhD_OnTheCouch",
+    "url": "https://x.com/PhD_OnTheCouch",
+    "twitterUrl": "https://twitter.com/PhD_OnTheCouch",
+    "id": "312301196",
+    "name": "Ashley from 4th grade",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1857478959509774336/7b40Ekom_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/312301196/1649528428",
+    "description": "🖤💛 Nocturnal species 💛🖤\n\nLiars, narcissists & predators make me BOIL 🔥 \nAlso, I swear alot byyyyyyee",
+    "location": "Nunya",
+    "followers": 6158,
+    "following": 4707,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Mon Jun 06 22:19:29 +0000 2011",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 119073,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 16279,
+    "statusesCount": 81330,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1627546299930214400"
+    ]
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "display_url": "pic.x.com/1Vfj2uDhoY",
+        "expanded_url": "https://x.com/PhD_OnTheCouch/status/1907921212635783371/video/1",
+        "id_str": "1907921051956252672",
+        "indices": [
+          278,
+          301
+        ],
+        "media_key": "7_1907921051956252672",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1907921051956252672/pu/img/Pe429G8Zql15vGaB.jpg",
+        "type": "video",
+        "url": "https://t.co/1Vfj2uDhoY",
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "sizes": {
+          "large": {
+            "h": 662,
+            "w": 1280,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 621,
+            "w": 1200,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 352,
+            "w": 680,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 662,
+          "width": 1280,
+          "focus_rects": []
+        },
+        "video_info": {
+          "aspect_ratio": [
+            640,
+            331
+          ],
+          "duration_millis": 79145,
+          "variants": [
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/ext_tw_video/1907921051956252672/pu/pl/IWgug4zH0bqzOSzm.m3u8?tag=12"
+            },
+            {
+              "bitrate": 256000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1907921051956252672/pu/vid/avc1/522x270/PiRC0m04QZ6Gx6lj.mp4?tag=12"
+            },
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1907921051956252672/pu/vid/avc1/696x360/N3FV30FkAtZP-d48.mp4?tag=12"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1907921051956252672/pu/vid/avc1/1280x662/wxQK6M-FaENQxYBg.mp4?tag=12"
+            }
+          ]
+        },
+        "media_results": {
+          "result": {
+            "media_key": "7_1907921051956252672"
+          }
+        }
+      }
+    ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          0,
+          10
+        ],
+        "text": "gonegirls"
+      },
+      {
+        "indices": [
+          160,
+          178
+        ],
+        "text": "MelissaBarthelemy"
+      },
+      {
+        "indices": [
+          250,
+          257
+        ],
+        "text": "Gilgo4"
+      },
+      {
+        "indices": [
+          258,
+          263
+        ],
+        "text": "LISK"
+      },
+      {
+        "indices": [
+          264,
+          277
+        ],
+        "text": "RexHeuermann"
+      }
+    ],
+    "media": [
+      {
+        "display_url": "pic.x.com/1Vfj2uDhoY",
+        "expanded_url": "https://x.com/PhD_OnTheCouch/status/1907921212635783371/video/1",
+        "id_str": "1907921051956252672",
+        "indices": [
+          278,
+          301
+        ],
+        "media_key": "7_1907921051956252672",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1907921051956252672/pu/img/Pe429G8Zql15vGaB.jpg",
+        "type": "video",
+        "url": "https://t.co/1Vfj2uDhoY",
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "sizes": {
+          "large": {
+            "h": 662,
+            "w": 1280,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 621,
+            "w": 1200,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 352,
+            "w": 680,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 662,
+          "width": 1280,
+          "focus_rects": []
+        },
+        "video_info": {
+          "aspect_ratio": [
+            640,
+            331
+          ],
+          "duration_millis": 79145,
+          "variants": [
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/ext_tw_video/1907921051956252672/pu/pl/IWgug4zH0bqzOSzm.m3u8?tag=12"
+            },
+            {
+              "bitrate": 256000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1907921051956252672/pu/vid/avc1/522x270/PiRC0m04QZ6Gx6lj.mp4?tag=12"
+            },
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1907921051956252672/pu/vid/avc1/696x360/N3FV30FkAtZP-d48.mp4?tag=12"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1907921051956252672/pu/vid/avc1/1280x662/wxQK6M-FaENQxYBg.mp4?tag=12"
+            }
+          ]
+        },
+        "media_results": {
+          "result": {
+            "media_key": "7_1907921051956252672"
+          }
+        }
+      }
+    ],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [
+    "https://pbs.twimg.com/ext_tw_video_thumb/1907921051956252672/pu/img/Pe429G8Zql15vGaB.jpg"
+  ],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "1906836949488517132",
+  "url": "https://x.com/Nubiandarkchild/status/1906836949488517132",
+  "twitterUrl": "https://twitter.com/Nubiandarkchild/status/1906836949488517132",
+  "text": "One thing Netflix is going to do is let us know the police didn’t do their damn job smdh #gonegirls",
+  "fullText": "One thing Netflix is going to do is let us know the police didn’t do their damn job smdh #gonegirls",
+  "source": "Twitter for iPhone",
+  "retweetCount": 20,
+  "replyCount": 3,
+  "likeCount": 115,
+  "quoteCount": 1,
+  "viewCount": 3692,
+  "createdAt": "Mon Mar 31 22:32:10 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "conversationId": "1906836949488517132",
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "Nubiandarkchild",
+    "url": "https://x.com/Nubiandarkchild",
+    "twitterUrl": "https://twitter.com/Nubiandarkchild",
+    "id": "1142559546675748865",
+    "name": "Nina",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1720925680739737600/pJGKhNYF_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1142559546675748865/1699135641",
+    "description": "Alien Superstar 🙃💛🌻🌼🐝🏵",
+    "location": "",
+    "followers": 55,
+    "following": 361,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Sat Jun 22 22:26:38 +0000 2019",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 79815,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 890,
+    "statusesCount": 7608,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": []
+  },
+  "extendedEntities": {},
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          89,
+          99
+        ],
+        "text": "gonegirls"
+      }
+    ],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "1907624907619397896",
+  "url": "https://x.com/_CWOW/status/1907624907619397896",
+  "twitterUrl": "https://twitter.com/_CWOW/status/1907624907619397896",
+  "text": "The way this just PMO wym she was found a half a mile away from where she was last seen??!!!   Omgg that really has me mad!! #gonegirls https://t.co/tTAnAhVPLz",
+  "fullText": "The way this just PMO wym she was found a half a mile away from where she was last seen??!!!   Omgg that really has me mad!! #gonegirls https://t.co/tTAnAhVPLz",
+  "source": "Twitter for iPhone",
+  "retweetCount": 1,
+  "replyCount": 0,
+  "likeCount": 21,
+  "quoteCount": 1,
+  "viewCount": 1220,
+  "createdAt": "Thu Apr 03 02:43:14 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "conversationId": "1907624907619397896",
+  "possiblySensitive": false,
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "_CWOW",
+    "url": "https://x.com/_CWOW",
+    "twitterUrl": "https://twitter.com/_CWOW",
+    "id": "325342446",
+    "name": "Ms. Hilton ⭐️",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1891507950302228480/WPID1Yag_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/325342446/1739805624",
+    "description": "SLIM. SINGLE. 🌿♌️",
+    "location": "South Carolina, USA",
+    "followers": 472,
+    "following": 1099,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": false,
+    "createdAt": "Tue Jun 28 04:09:32 +0000 2011",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 87593,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 2147,
+    "statusesCount": 97952,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": []
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "display_url": "pic.x.com/tTAnAhVPLz",
+        "expanded_url": "https://x.com/_CWOW/status/1907624907619397896/photo/1",
+        "ext_alt_text": "Buck Nasty Hater GIF",
+        "id_str": "1907624899587227648",
+        "indices": [
+          136,
+          159
+        ],
+        "media_key": "16_1907624899587227648",
+        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Gnk-vTiWQAAry4t.jpg",
+        "type": "animated_gif",
+        "url": "https://t.co/tTAnAhVPLz",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "sizes": {
+          "large": {
+            "h": 220,
+            "w": 220,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 220,
+            "w": 220,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 220,
+            "w": 220,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 220,
+          "width": 220,
+          "focus_rects": []
+        },
+        "video_info": {
+          "aspect_ratio": [
+            1,
+            1
+          ],
+          "variants": [
+            {
+              "bitrate": 0,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/tweet_video/Gnk-vTiWQAAry4t.mp4"
+            }
+          ]
+        },
+        "media_results": {
+          "result": {
+            "media_key": "16_1907624899587227648"
+          }
+        }
+      }
+    ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          125,
+          135
+        ],
+        "text": "gonegirls"
+      }
+    ],
+    "media": [
+      {
+        "display_url": "pic.x.com/tTAnAhVPLz",
+        "expanded_url": "https://x.com/_CWOW/status/1907624907619397896/photo/1",
+        "ext_alt_text": "Buck Nasty Hater GIF",
+        "id_str": "1907624899587227648",
+        "indices": [
+          136,
+          159
+        ],
+        "media_key": "16_1907624899587227648",
+        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Gnk-vTiWQAAry4t.jpg",
+        "type": "animated_gif",
+        "url": "https://t.co/tTAnAhVPLz",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "sizes": {
+          "large": {
+            "h": 220,
+            "w": 220,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 220,
+            "w": 220,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 220,
+            "w": 220,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 220,
+          "width": 220,
+          "focus_rects": []
+        },
+        "video_info": {
+          "aspect_ratio": [
+            1,
+            1
+          ],
+          "variants": [
+            {
+              "bitrate": 0,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/tweet_video/Gnk-vTiWQAAry4t.mp4"
+            }
+          ]
+        },
+        "media_results": {
+          "result": {
+            "media_key": "16_1907624899587227648"
+          }
+        }
+      }
+    ],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [
+    "https://pbs.twimg.com/tweet_video_thumb/Gnk-vTiWQAAry4t.jpg"
+  ],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "1908449509840990484",
+  "url": "https://x.com/jleeangela/status/1908449509840990484",
+  "twitterUrl": "https://twitter.com/jleeangela/status/1908449509840990484",
+  "text": "I cannot believe that the costello ladys friends literally saved her life from that man, just for her to go and die because the cops didnt do their job. That is insane!!!#gonegirls",
+  "fullText": "I cannot believe that the costello ladys friends literally saved her life from that man, just for her to go and die because the cops didnt do their job. That is insane!!!#gonegirls",
+  "source": "Twitter for Android",
+  "retweetCount": 0,
+  "replyCount": 1,
+  "likeCount": 8,
+  "quoteCount": 0,
+  "viewCount": 895,
+  "createdAt": "Sat Apr 05 09:19:55 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "conversationId": "1908449509840990484",
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "jleeangela",
+    "url": "https://x.com/jleeangela",
+    "twitterUrl": "https://twitter.com/jleeangela",
+    "id": "3436302231",
+    "name": "James Brown",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1800955218063986689/8qgZIJUH_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/3436302231/1630171227",
+    "description": "10.06.21 🕊\nOctobers Very Own\n🇿🇦",
+    "location": "",
+    "followers": 595,
+    "following": 428,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sun Aug 23 05:14:43 +0000 2015",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 12416,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 911,
+    "statusesCount": 21929,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1462489626627784710"
+    ]
+  },
+  "extendedEntities": {},
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          170,
+          180
+        ],
+        "text": "gonegirls"
+      }
+    ],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "1910055426986508295",
+  "url": "https://x.com/TheL1P/status/1910055426986508295",
+  "twitterUrl": "https://twitter.com/TheL1P/status/1910055426986508295",
+  "text": "\"... The first hour is too slow and too conventional and the good shit suddenly bursts forth halfway through the second episode, causing a jam-packed rush to the finish.\"\n\nMy ★★★★ review of #GoneGirls: #TheLongIslandSerialKiller\n\nhttps://t.co/uYVnlaQbkQ https://t.co/FF8SuqCnkb",
+  "fullText": "\"... The first hour is too slow and too conventional and the good shit suddenly bursts forth halfway through the second episode, causing a jam-packed rush to the finish.\"\n\nMy ★★★★ review of #GoneGirls: #TheLongIslandSerialKiller\n\nhttps://t.co/uYVnlaQbkQ https://t.co/FF8SuqCnkb",
+  "source": "Twitter for Android",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 72,
+  "createdAt": "Wed Apr 09 19:41:15 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "conversationId": "1910055426986508295",
+  "possiblySensitive": false,
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "TheL1P",
+    "url": "https://x.com/TheL1P",
+    "twitterUrl": "https://twitter.com/TheL1P",
+    "id": "1696098211943833600",
+    "name": "The L1P",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1874473480734846976/sjunNqPh_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1696098211943833600/1734792416",
+    "description": "The 'Jason Bourne of Uselessness', and as close/personal a friend to @leonard_mcclane as Clark Kent was to Superman. THE YIPPEE KI-YAY PRINCIPLE is on sale now.",
+    "location": "",
+    "followers": 93,
+    "following": 120,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": false,
+    "createdAt": "Mon Aug 28 09:51:49 +0000 2023",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "linktr.ee/leonard_mcclane",
+            "expanded_url": "http://linktr.ee/leonard_mcclane",
+            "url": "https://t.co/WcWzuTmxxt",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1577,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "mediaCount": 3221,
+    "statusesCount": 6842,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1895256655807553981"
+    ]
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "display_url": "pic.x.com/FF8SuqCnkb",
+        "expanded_url": "https://x.com/TheL1P/status/1910055426986508295/photo/1",
+        "id_str": "1910055422003679232",
+        "indices": [
+          254,
+          277
+        ],
+        "media_key": "3_1910055422003679232",
+        "media_url_https": "https://pbs.twimg.com/media/GoHhSVHWkAAvkJ-.jpg",
+        "type": "photo",
+        "url": "https://t.co/FF8SuqCnkb",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": []
+          },
+          "medium": {
+            "faces": []
+          },
+          "small": {
+            "faces": []
+          },
+          "orig": {
+            "faces": []
+          }
+        },
+        "sizes": {
+          "large": {
+            "h": 1250,
+            "w": 1000,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 1200,
+            "w": 960,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 680,
+            "w": 544,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 1250,
+          "width": 1000,
+          "focus_rects": [
+            {
+              "x": 0,
+              "y": 688,
+              "w": 1000,
+              "h": 560
+            },
+            {
+              "x": 0,
+              "y": 250,
+              "w": 1000,
+              "h": 1000
+            },
+            {
+              "x": 0,
+              "y": 110,
+              "w": 1000,
+              "h": 1140
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 625,
+              "h": 1250
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 1000,
+              "h": 1250
+            }
+          ]
+        },
+        "media_results": {
+          "result": {
+            "media_key": "3_1910055422003679232"
+          }
+        }
+      }
+    ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          190,
+          200
+        ],
+        "text": "GoneGirls"
+      },
+      {
+        "indices": [
+          202,
+          228
+        ],
+        "text": "TheLongIslandSerialKiller"
+      }
+    ],
+    "media": [
+      {
+        "display_url": "pic.x.com/FF8SuqCnkb",
+        "expanded_url": "https://x.com/TheL1P/status/1910055426986508295/photo/1",
+        "id_str": "1910055422003679232",
+        "indices": [
+          254,
+          277
+        ],
+        "media_key": "3_1910055422003679232",
+        "media_url_https": "https://pbs.twimg.com/media/GoHhSVHWkAAvkJ-.jpg",
+        "type": "photo",
+        "url": "https://t.co/FF8SuqCnkb",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": []
+          },
+          "medium": {
+            "faces": []
+          },
+          "small": {
+            "faces": []
+          },
+          "orig": {
+            "faces": []
+          }
+        },
+        "sizes": {
+          "large": {
+            "h": 1250,
+            "w": 1000,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 1200,
+            "w": 960,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 680,
+            "w": 544,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 1250,
+          "width": 1000,
+          "focus_rects": [
+            {
+              "x": 0,
+              "y": 688,
+              "w": 1000,
+              "h": 560
+            },
+            {
+              "x": 0,
+              "y": 250,
+              "w": 1000,
+              "h": 1000
+            },
+            {
+              "x": 0,
+              "y": 110,
+              "w": 1000,
+              "h": 1140
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 625,
+              "h": 1250
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 1000,
+              "h": 1250
+            }
+          ]
+        },
+        "media_results": {
+          "result": {
+            "media_key": "3_1910055422003679232"
+          }
+        }
+      }
+    ],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "boxd.it/9mHqLN",
+        "expanded_url": "https://boxd.it/9mHqLN",
+        "url": "https://t.co/uYVnlaQbkQ",
+        "indices": [
+          230,
+          253
+        ]
+      }
+    ],
+    "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [
+    "https://pbs.twimg.com/media/GoHhSVHWkAAvkJ-.jpg"
+  ],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "1907941302668505246",
+  "url": "https://x.com/Maddelirium3d/status/1907941302668505246",
+  "twitterUrl": "https://twitter.com/Maddelirium3d/status/1907941302668505246",
+  "text": "Watching now. #RexHeuermann could end up being  one of the most notorious serial killers in American history and we may never know. There could be so many more undiscovered victims. #lisk #gonegirls #netflix https://t.co/nHT8vBn5cB",
+  "fullText": "Watching now. #RexHeuermann could end up being  one of the most notorious serial killers in American history and we may never know. There could be so many more undiscovered victims. #lisk #gonegirls #netflix https://t.co/nHT8vBn5cB",
+  "source": "Twitter Web App",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 4,
+  "quoteCount": 0,
+  "viewCount": 528,
+  "createdAt": "Thu Apr 03 23:40:29 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "conversationId": "1907941302668505246",
+  "possiblySensitive": false,
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "Maddelirium3d",
+    "url": "https://x.com/Maddelirium3d",
+    "twitterUrl": "https://twitter.com/Maddelirium3d",
+    "id": "1632518730747088896",
+    "name": "Madz 🇨🇦",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1911194705892716544/UCddMUDp_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1632518730747088896/1740897757",
+    "description": "3D Character Model Creator/3D Graphic Artist.\n\nTrue Crime, Nature, Sci-Fi and Fantasy TV/Movies, Cat mom and wannabe Dragon tamer.",
+    "location": "",
+    "followers": 90,
+    "following": 137,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Sun Mar 05 23:09:39 +0000 2023",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 2226,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "mediaCount": 63,
+    "statusesCount": 1602,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1632524993019121666"
+    ]
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "display_url": "pic.x.com/nHT8vBn5cB",
+        "expanded_url": "https://x.com/Maddelirium3d/status/1907941302668505246/photo/1",
+        "id_str": "1907941110632402944",
+        "indices": [
+          208,
+          231
+        ],
+        "media_key": "3_1907941110632402944",
+        "media_url_https": "https://pbs.twimg.com/media/GnpeVNeb0AAZwn2.jpg",
+        "type": "photo",
+        "url": "https://t.co/nHT8vBn5cB",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "x": 242,
+                "y": 150,
+                "h": 38,
+                "w": 38
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "x": 242,
+                "y": 150,
+                "h": 38,
+                "w": 38
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "x": 242,
+                "y": 150,
+                "h": 38,
+                "w": 38
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "x": 242,
+                "y": 150,
+                "h": 38,
+                "w": 38
+              }
+            ]
+          }
+        },
+        "sizes": {
+          "large": {
+            "h": 266,
+            "w": 474,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 266,
+            "w": 474,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 266,
+            "w": 474,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 266,
+          "width": 474,
+          "focus_rects": [
+            {
+              "x": 0,
+              "y": 1,
+              "w": 474,
+              "h": 265
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 266,
+              "h": 266
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 233,
+              "h": 266
+            },
+            {
+              "x": 40,
+              "y": 0,
+              "w": 133,
+              "h": 266
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 474,
+              "h": 266
+            }
+          ]
+        },
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "media_results": {
+          "result": {
+            "media_key": "3_1907941110632402944"
+          }
+        }
+      }
+    ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          14,
+          27
+        ],
+        "text": "RexHeuermann"
+      },
+      {
+        "indices": [
+          182,
+          187
+        ],
+        "text": "lisk"
+      },
+      {
+        "indices": [
+          188,
+          198
+        ],
+        "text": "gonegirls"
+      },
+      {
+        "indices": [
+          199,
+          207
+        ],
+        "text": "netflix"
+      }
+    ],
+    "media": [
+      {
+        "display_url": "pic.x.com/nHT8vBn5cB",
+        "expanded_url": "https://x.com/Maddelirium3d/status/1907941302668505246/photo/1",
+        "id_str": "1907941110632402944",
+        "indices": [
+          208,
+          231
+        ],
+        "media_key": "3_1907941110632402944",
+        "media_url_https": "https://pbs.twimg.com/media/GnpeVNeb0AAZwn2.jpg",
+        "type": "photo",
+        "url": "https://t.co/nHT8vBn5cB",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "x": 242,
+                "y": 150,
+                "h": 38,
+                "w": 38
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "x": 242,
+                "y": 150,
+                "h": 38,
+                "w": 38
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "x": 242,
+                "y": 150,
+                "h": 38,
+                "w": 38
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "x": 242,
+                "y": 150,
+                "h": 38,
+                "w": 38
+              }
+            ]
+          }
+        },
+        "sizes": {
+          "large": {
+            "h": 266,
+            "w": 474,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 266,
+            "w": 474,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 266,
+            "w": 474,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 266,
+          "width": 474,
+          "focus_rects": [
+            {
+              "x": 0,
+              "y": 1,
+              "w": 474,
+              "h": 265
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 266,
+              "h": 266
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 233,
+              "h": 266
+            },
+            {
+              "x": 40,
+              "y": 0,
+              "w": 133,
+              "h": 266
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 474,
+              "h": 266
+            }
+          ]
+        },
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "media_results": {
+          "result": {
+            "media_key": "3_1907941110632402944"
+          }
+        }
+      }
+    ],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [
+    "https://pbs.twimg.com/media/GnpeVNeb0AAZwn2.jpg"
+  ],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "1907448353400430660",
+  "url": "https://x.com/Wallflower2u/status/1907448353400430660",
+  "twitterUrl": "https://twitter.com/Wallflower2u/status/1907448353400430660",
+  "text": "WTF?!?!\nRULES &amp; GUIDELINES to keep her \nSAFE?!?!\nHow about telling your FRIEND or \nFAMILY MEMBER to NOT be an \nESCORT in the first place!!!!\n#GoneGirlsTheLongIslandSerialKiller\n#GoneGirls #LongIslandSerialKiller\n#RexHeuermann #Netflix @netflix \n#TrueCrime #SerialKiller https://t.co/pj8dF77jQA",
+  "fullText": "WTF?!?!\nRULES &amp; GUIDELINES to keep her \nSAFE?!?!\nHow about telling your FRIEND or \nFAMILY MEMBER to NOT be an \nESCORT in the first place!!!!\n#GoneGirlsTheLongIslandSerialKiller\n#GoneGirls #LongIslandSerialKiller\n#RexHeuermann #Netflix @netflix \n#TrueCrime #SerialKiller https://t.co/pj8dF77jQA",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 177,
+  "createdAt": "Wed Apr 02 15:01:40 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "conversationId": "1907448353400430660",
+  "possiblySensitive": false,
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "Wallflower2u",
+    "url": "https://x.com/Wallflower2u",
+    "twitterUrl": "https://twitter.com/Wallflower2u",
+    "id": "854876958",
+    "name": "JamieLee",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "profilePicture": "https://pbs.twimg.com/profile_images/2683123125/f0ce9c6d3841d7e2060bce1cd70dc4be_normal.jpeg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/854876958/1731831841",
+    "description": "I post Trivia for TV SHOWS& MOVIES🎥 Mom of Teddy the Chakita & Stevie the No-eyed Boxer",
+    "location": "New York, USA",
+    "followers": 4063,
+    "following": 3614,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Sun Sep 30 15:22:31 +0000 2012",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 439138,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 12652,
+    "statusesCount": 33851,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1733966892816064761"
+    ]
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "display_url": "pic.x.com/pj8dF77jQA",
+        "expanded_url": "https://x.com/Wallflower2u/status/1907448353400430660/video/1",
+        "id_str": "1907448267656298496",
+        "indices": [
+          274,
+          297
+        ],
+        "media_key": "13_1907448267656298496",
+        "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1907448267656298496/img/YeamY1zyFlwu79vf.jpg",
+        "type": "video",
+        "url": "https://t.co/pj8dF77jQA",
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "sizes": {
+          "large": {
+            "h": 720,
+            "w": 1280,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 675,
+            "w": 1200,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 383,
+            "w": 680,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 720,
+          "width": 1280,
+          "focus_rects": []
+        },
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "video_info": {
+          "aspect_ratio": [
+            16,
+            9
+          ],
+          "duration_millis": 57025,
+          "variants": [
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/amplify_video/1907448267656298496/pl/_pVx2CCUuXNJ_U9m.m3u8?tag=16"
+            },
+            {
+              "bitrate": 288000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1907448267656298496/vid/avc1/480x270/xdCnn79XGjMhzNY3.mp4?tag=16"
+            },
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1907448267656298496/vid/avc1/640x360/vpSw2FQ8D_wAq3zX.mp4?tag=16"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1907448267656298496/vid/avc1/1280x720/r2hFbAtepX27rw5l.mp4?tag=16"
+            }
+          ]
+        },
+        "media_results": {
+          "result": {
+            "media_key": "13_1907448267656298496"
+          }
+        }
+      }
+    ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          145,
+          180
+        ],
+        "text": "GoneGirlsTheLongIslandSerialKiller"
+      },
+      {
+        "indices": [
+          181,
+          191
+        ],
+        "text": "GoneGirls"
+      },
+      {
+        "indices": [
+          192,
+          215
+        ],
+        "text": "LongIslandSerialKiller"
+      },
+      {
+        "indices": [
+          216,
+          229
+        ],
+        "text": "RexHeuermann"
+      },
+      {
+        "indices": [
+          230,
+          238
+        ],
+        "text": "Netflix"
+      },
+      {
+        "indices": [
+          249,
+          259
+        ],
+        "text": "TrueCrime"
+      },
+      {
+        "indices": [
+          260,
+          273
+        ],
+        "text": "SerialKiller"
+      }
+    ],
+    "media": [
+      {
+        "display_url": "pic.x.com/pj8dF77jQA",
+        "expanded_url": "https://x.com/Wallflower2u/status/1907448353400430660/video/1",
+        "id_str": "1907448267656298496",
+        "indices": [
+          274,
+          297
+        ],
+        "media_key": "13_1907448267656298496",
+        "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1907448267656298496/img/YeamY1zyFlwu79vf.jpg",
+        "type": "video",
+        "url": "https://t.co/pj8dF77jQA",
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "sizes": {
+          "large": {
+            "h": 720,
+            "w": 1280,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 675,
+            "w": 1200,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 383,
+            "w": 680,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 720,
+          "width": 1280,
+          "focus_rects": []
+        },
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "video_info": {
+          "aspect_ratio": [
+            16,
+            9
+          ],
+          "duration_millis": 57025,
+          "variants": [
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/amplify_video/1907448267656298496/pl/_pVx2CCUuXNJ_U9m.m3u8?tag=16"
+            },
+            {
+              "bitrate": 288000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1907448267656298496/vid/avc1/480x270/xdCnn79XGjMhzNY3.mp4?tag=16"
+            },
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1907448267656298496/vid/avc1/640x360/vpSw2FQ8D_wAq3zX.mp4?tag=16"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1907448267656298496/vid/avc1/1280x720/r2hFbAtepX27rw5l.mp4?tag=16"
+            }
+          ]
+        },
+        "media_results": {
+          "result": {
+            "media_key": "13_1907448267656298496"
+          }
+        }
+      }
+    ],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id_str": "16573941",
+        "name": "Netflix",
+        "screen_name": "netflix",
+        "indices": [
+          239,
+          247
+        ]
+      }
+    ]
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [
+    "https://pbs.twimg.com/amplify_video_thumb/1907448267656298496/img/YeamY1zyFlwu79vf.jpg"
+  ],
+  "isConversationControlled": false
+}]

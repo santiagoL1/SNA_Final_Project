@@ -1,0 +1,3272 @@
+[{
+  "type": "tweet",
+  "id": "1911279158291734635",
+  "url": "https://x.com/tify330/status/1911279158291734635",
+  "twitterUrl": "https://twitter.com/tify330/status/1911279158291734635",
+  "text": "Highly recommend North of the North on Netflix. Loved learning about the Inuit culture. Such a fun and well written show. https://t.co/FNUGBSFfFF",
+  "fullText": "Highly recommend North of the North on Netflix. Loved learning about the Inuit culture. Such a fun and well written show. https://t.co/FNUGBSFfFF",
+  "source": "Twitter for iPhone",
+  "retweetCount": 64,
+  "replyCount": 16,
+  "likeCount": 460,
+  "quoteCount": 11,
+  "viewCount": 104761,
+  "createdAt": "Sun Apr 13 04:43:55 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 64,
+  "isReply": false,
+  "conversationId": "1911279158291734635",
+  "possiblySensitive": false,
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "tify330",
+    "url": "https://x.com/tify330",
+    "twitterUrl": "https://twitter.com/tify330",
+    "id": "345110600",
+    "name": "Candidly Tiff",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1909207108333015040/xoGeru4B_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/345110600/1736106704",
+    "description": "MD Resident | Born & Raised in Brooklyn | 🇧🇿🇵🇷| Threads, TikTok, IG: candidly_tiff | Bluesky: tify330 | 2024 DNC Delegate",
+    "location": "Maryland",
+    "followers": 52736,
+    "following": 6018,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Sat Jul 30 02:32:40 +0000 2011",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "tiktok.com/@candidly_tiff",
+            "expanded_url": "http://www.tiktok.com/@candidly_tiff",
+            "url": "https://t.co/pb9k7jc5Ka",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 850242,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 27382,
+    "statusesCount": 275705,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1854341149554581825"
+    ]
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "display_url": "pic.x.com/FNUGBSFfFF",
+        "expanded_url": "https://x.com/tify330/status/1911279158291734635/photo/1",
+        "id_str": "1911279154663763968",
+        "indices": [
+          122,
+          145
+        ],
+        "media_key": "3_1911279154663763968",
+        "media_url_https": "https://pbs.twimg.com/media/GoY6Q8hXsAAoBR3.jpg",
+        "type": "photo",
+        "url": "https://t.co/FNUGBSFfFF",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "x": 561,
+                "y": 363,
+                "h": 80,
+                "w": 80
+              },
+              {
+                "x": 629,
+                "y": 1126,
+                "h": 64,
+                "w": 64
+              },
+              {
+                "x": 654,
+                "y": 1265,
+                "h": 62,
+                "w": 62
+              },
+              {
+                "x": 364,
+                "y": 1098,
+                "h": 65,
+                "w": 65
+              },
+              {
+                "x": 1020,
+                "y": 1138,
+                "h": 67,
+                "w": 67
+              },
+              {
+                "x": 312,
+                "y": 388,
+                "h": 104,
+                "w": 104
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "x": 448,
+                "y": 290,
+                "h": 64,
+                "w": 64
+              },
+              {
+                "x": 503,
+                "y": 900,
+                "h": 51,
+                "w": 51
+              },
+              {
+                "x": 523,
+                "y": 1012,
+                "h": 49,
+                "w": 49
+              },
+              {
+                "x": 291,
+                "y": 878,
+                "h": 52,
+                "w": 52
+              },
+              {
+                "x": 816,
+                "y": 910,
+                "h": 53,
+                "w": 53
+              },
+              {
+                "x": 249,
+                "y": 310,
+                "h": 83,
+                "w": 83
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "x": 254,
+                "y": 164,
+                "h": 36,
+                "w": 36
+              },
+              {
+                "x": 285,
+                "y": 510,
+                "h": 29,
+                "w": 29
+              },
+              {
+                "x": 296,
+                "y": 573,
+                "h": 28,
+                "w": 28
+              },
+              {
+                "x": 165,
+                "y": 497,
+                "h": 29,
+                "w": 29
+              },
+              {
+                "x": 462,
+                "y": 515,
+                "h": 30,
+                "w": 30
+              },
+              {
+                "x": 141,
+                "y": 175,
+                "h": 47,
+                "w": 47
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "x": 561,
+                "y": 363,
+                "h": 80,
+                "w": 80
+              },
+              {
+                "x": 629,
+                "y": 1126,
+                "h": 64,
+                "w": 64
+              },
+              {
+                "x": 654,
+                "y": 1265,
+                "h": 62,
+                "w": 62
+              },
+              {
+                "x": 364,
+                "y": 1098,
+                "h": 65,
+                "w": 65
+              },
+              {
+                "x": 1020,
+                "y": 1138,
+                "h": 67,
+                "w": 67
+              },
+              {
+                "x": 312,
+                "y": 388,
+                "h": 104,
+                "w": 104
+              }
+            ]
+          }
+        },
+        "sizes": {
+          "large": {
+            "h": 1500,
+            "w": 1200,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 1200,
+            "w": 960,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 680,
+            "w": 544,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 1500,
+          "width": 1200,
+          "focus_rects": [
+            {
+              "x": 0,
+              "y": 151,
+              "w": 1200,
+              "h": 672
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 1200,
+              "h": 1200
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 1200,
+              "h": 1368
+            },
+            {
+              "x": 262,
+              "y": 0,
+              "w": 750,
+              "h": 1500
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 1200,
+              "h": 1500
+            }
+          ]
+        },
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "media_results": {
+          "result": {
+            "media_key": "3_1911279154663763968"
+          }
+        }
+      }
+    ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [],
+    "media": [
+      {
+        "display_url": "pic.x.com/FNUGBSFfFF",
+        "expanded_url": "https://x.com/tify330/status/1911279158291734635/photo/1",
+        "id_str": "1911279154663763968",
+        "indices": [
+          122,
+          145
+        ],
+        "media_key": "3_1911279154663763968",
+        "media_url_https": "https://pbs.twimg.com/media/GoY6Q8hXsAAoBR3.jpg",
+        "type": "photo",
+        "url": "https://t.co/FNUGBSFfFF",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "x": 561,
+                "y": 363,
+                "h": 80,
+                "w": 80
+              },
+              {
+                "x": 629,
+                "y": 1126,
+                "h": 64,
+                "w": 64
+              },
+              {
+                "x": 654,
+                "y": 1265,
+                "h": 62,
+                "w": 62
+              },
+              {
+                "x": 364,
+                "y": 1098,
+                "h": 65,
+                "w": 65
+              },
+              {
+                "x": 1020,
+                "y": 1138,
+                "h": 67,
+                "w": 67
+              },
+              {
+                "x": 312,
+                "y": 388,
+                "h": 104,
+                "w": 104
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "x": 448,
+                "y": 290,
+                "h": 64,
+                "w": 64
+              },
+              {
+                "x": 503,
+                "y": 900,
+                "h": 51,
+                "w": 51
+              },
+              {
+                "x": 523,
+                "y": 1012,
+                "h": 49,
+                "w": 49
+              },
+              {
+                "x": 291,
+                "y": 878,
+                "h": 52,
+                "w": 52
+              },
+              {
+                "x": 816,
+                "y": 910,
+                "h": 53,
+                "w": 53
+              },
+              {
+                "x": 249,
+                "y": 310,
+                "h": 83,
+                "w": 83
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "x": 254,
+                "y": 164,
+                "h": 36,
+                "w": 36
+              },
+              {
+                "x": 285,
+                "y": 510,
+                "h": 29,
+                "w": 29
+              },
+              {
+                "x": 296,
+                "y": 573,
+                "h": 28,
+                "w": 28
+              },
+              {
+                "x": 165,
+                "y": 497,
+                "h": 29,
+                "w": 29
+              },
+              {
+                "x": 462,
+                "y": 515,
+                "h": 30,
+                "w": 30
+              },
+              {
+                "x": 141,
+                "y": 175,
+                "h": 47,
+                "w": 47
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "x": 561,
+                "y": 363,
+                "h": 80,
+                "w": 80
+              },
+              {
+                "x": 629,
+                "y": 1126,
+                "h": 64,
+                "w": 64
+              },
+              {
+                "x": 654,
+                "y": 1265,
+                "h": 62,
+                "w": 62
+              },
+              {
+                "x": 364,
+                "y": 1098,
+                "h": 65,
+                "w": 65
+              },
+              {
+                "x": 1020,
+                "y": 1138,
+                "h": 67,
+                "w": 67
+              },
+              {
+                "x": 312,
+                "y": 388,
+                "h": 104,
+                "w": 104
+              }
+            ]
+          }
+        },
+        "sizes": {
+          "large": {
+            "h": 1500,
+            "w": 1200,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 1200,
+            "w": 960,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 680,
+            "w": 544,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 1500,
+          "width": 1200,
+          "focus_rects": [
+            {
+              "x": 0,
+              "y": 151,
+              "w": 1200,
+              "h": 672
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 1200,
+              "h": 1200
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 1200,
+              "h": 1368
+            },
+            {
+              "x": 262,
+              "y": 0,
+              "w": 750,
+              "h": 1500
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 1200,
+              "h": 1500
+            }
+          ]
+        },
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "media_results": {
+          "result": {
+            "media_key": "3_1911279154663763968"
+          }
+        }
+      }
+    ],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [
+    "https://pbs.twimg.com/media/GoY6Q8hXsAAoBR3.jpg"
+  ],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "1911279006005268719",
+  "url": "https://x.com/goatbree/status/1911279006005268719",
+  "twitterUrl": "https://twitter.com/goatbree/status/1911279006005268719",
+  "text": "Okay for real North of North is genuinely just a solid good watch https://t.co/Zbluo0OphM",
+  "fullText": "Okay for real North of North is genuinely just a solid good watch https://t.co/Zbluo0OphM",
+  "source": "Twitter for iPhone",
+  "retweetCount": 2,
+  "replyCount": 0,
+  "likeCount": 18,
+  "quoteCount": 0,
+  "viewCount": 864,
+  "createdAt": "Sun Apr 13 04:43:19 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "conversationId": "1911279006005268719",
+  "possiblySensitive": false,
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "goatbree",
+    "url": "https://x.com/goatbree",
+    "twitterUrl": "https://twitter.com/goatbree",
+    "id": "470837523",
+    "name": "Goatbree",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1887630781616697344/LKELK54U_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/470837523/1740359664",
+    "description": "She/Her | Demi-Queer Muslimah Raging Against the Machine",
+    "location": "PNW",
+    "followers": 391,
+    "following": 550,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": false,
+    "createdAt": "Sun Jan 22 06:18:31 +0000 2012",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 66139,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 2575,
+    "statusesCount": 22219,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": []
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "display_url": "pic.x.com/Zbluo0OphM",
+        "expanded_url": "https://x.com/goatbree/status/1911279006005268719/photo/1",
+        "ext_alt_text": "Feeling Cool Siaja GIF",
+        "id_str": "1911278999013060608",
+        "indices": [
+          66,
+          89
+        ],
+        "media_key": "16_1911278999013060608",
+        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/GoY6H4rWcAAPgnI.jpg",
+        "type": "animated_gif",
+        "url": "https://t.co/Zbluo0OphM",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "sizes": {
+          "large": {
+            "h": 220,
+            "w": 220,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 220,
+            "w": 220,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 220,
+            "w": 220,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 220,
+          "width": 220,
+          "focus_rects": []
+        },
+        "video_info": {
+          "aspect_ratio": [
+            1,
+            1
+          ],
+          "variants": [
+            {
+              "bitrate": 0,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/tweet_video/GoY6H4rWcAAPgnI.mp4"
+            }
+          ]
+        },
+        "media_results": {
+          "result": {
+            "media_key": "16_1911278999013060608"
+          }
+        }
+      }
+    ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [],
+    "media": [
+      {
+        "display_url": "pic.x.com/Zbluo0OphM",
+        "expanded_url": "https://x.com/goatbree/status/1911279006005268719/photo/1",
+        "ext_alt_text": "Feeling Cool Siaja GIF",
+        "id_str": "1911278999013060608",
+        "indices": [
+          66,
+          89
+        ],
+        "media_key": "16_1911278999013060608",
+        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/GoY6H4rWcAAPgnI.jpg",
+        "type": "animated_gif",
+        "url": "https://t.co/Zbluo0OphM",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "sizes": {
+          "large": {
+            "h": 220,
+            "w": 220,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 220,
+            "w": 220,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 220,
+            "w": 220,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 220,
+          "width": 220,
+          "focus_rects": []
+        },
+        "video_info": {
+          "aspect_ratio": [
+            1,
+            1
+          ],
+          "variants": [
+            {
+              "bitrate": 0,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/tweet_video/GoY6H4rWcAAPgnI.mp4"
+            }
+          ]
+        },
+        "media_results": {
+          "result": {
+            "media_key": "16_1911278999013060608"
+          }
+        }
+      }
+    ],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [
+    "https://pbs.twimg.com/tweet_video_thumb/GoY6H4rWcAAPgnI.jpg"
+  ],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "1911071810726002812",
+  "url": "https://x.com/netflix/status/1911071810726002812",
+  "twitterUrl": "https://twitter.com/netflix/status/1911071810726002812",
+  "text": "New comfort show loading...North of North is now playing! https://t.co/ZUJfX2yQpJ",
+  "fullText": "New comfort show loading...North of North is now playing! https://t.co/ZUJfX2yQpJ",
+  "source": "Netflix",
+  "retweetCount": 138,
+  "replyCount": 34,
+  "likeCount": 2179,
+  "quoteCount": 51,
+  "viewCount": 670046,
+  "createdAt": "Sat Apr 12 15:00:00 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 642,
+  "isReply": false,
+  "conversationId": "1911071810726002812",
+  "possiblySensitive": false,
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "netflix",
+    "url": "https://x.com/netflix",
+    "twitterUrl": "https://twitter.com/netflix",
+    "id": "16573941",
+    "name": "Netflix",
+    "isVerified": false,
+    "verifiedType": "Business",
+    "isBlueVerified": true,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1872671711700582400/6WLZxYpq_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/16573941/1744271035",
+    "description": "barnies",
+    "location": "California, USA",
+    "followers": 22853435,
+    "following": 2222,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Fri Oct 03 04:16:17 +0000 2008",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "netflix.com",
+            "expanded_url": "https://netflix.com",
+            "url": "https://t.co/plHjUOcU1u",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 16002,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 20272,
+    "statusesCount": 59778,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": []
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "display_url": "pic.x.com/ZUJfX2yQpJ",
+        "expanded_url": "https://x.com/netflix/status/1911071810726002812/video/1",
+        "id_str": "1910876019130544128",
+        "indices": [
+          58,
+          81
+        ],
+        "media_key": "13_1910876019130544128",
+        "media_url_https": "https://pbs.twimg.com/media/GoTLq8bXkAAYH15.png",
+        "type": "video",
+        "url": "https://t.co/ZUJfX2yQpJ",
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "sizes": {
+          "large": {
+            "h": 405,
+            "w": 720,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 405,
+            "w": 720,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 383,
+            "w": 680,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 405,
+          "width": 720,
+          "focus_rects": []
+        },
+        "video_info": {
+          "aspect_ratio": [
+            16,
+            9
+          ],
+          "duration_millis": 40700,
+          "variants": [
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/amplify_video/1910876019130544128/pl/0B0CYV6MFwvX5Kg1.m3u8?tag=16&v=87e"
+            },
+            {
+              "bitrate": 288000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1910876019130544128/vid/avc1/480x270/r09H9N1wWJCcXSNR.mp4?tag=16"
+            },
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1910876019130544128/vid/avc1/640x360/w2bgV_4ZouDgT1wn.mp4?tag=16"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1910876019130544128/vid/avc1/1280x720/KaOJekFh2Qdpf0QC.mp4?tag=16"
+            },
+            {
+              "bitrate": 10368000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1910876019130544128/vid/avc1/1920x1080/GrNgvs1toSr6oKr6.mp4?tag=16"
+            }
+          ]
+        },
+        "media_results": {
+          "result": {
+            "media_key": "13_1910876019130544128"
+          }
+        }
+      }
+    ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [],
+    "media": [
+      {
+        "display_url": "pic.x.com/ZUJfX2yQpJ",
+        "expanded_url": "https://x.com/netflix/status/1911071810726002812/video/1",
+        "id_str": "1910876019130544128",
+        "indices": [
+          58,
+          81
+        ],
+        "media_key": "13_1910876019130544128",
+        "media_url_https": "https://pbs.twimg.com/media/GoTLq8bXkAAYH15.png",
+        "type": "video",
+        "url": "https://t.co/ZUJfX2yQpJ",
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "sizes": {
+          "large": {
+            "h": 405,
+            "w": 720,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 405,
+            "w": 720,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 383,
+            "w": 680,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 405,
+          "width": 720,
+          "focus_rects": []
+        },
+        "video_info": {
+          "aspect_ratio": [
+            16,
+            9
+          ],
+          "duration_millis": 40700,
+          "variants": [
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/amplify_video/1910876019130544128/pl/0B0CYV6MFwvX5Kg1.m3u8?tag=16&v=87e"
+            },
+            {
+              "bitrate": 288000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1910876019130544128/vid/avc1/480x270/r09H9N1wWJCcXSNR.mp4?tag=16"
+            },
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1910876019130544128/vid/avc1/640x360/w2bgV_4ZouDgT1wn.mp4?tag=16"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1910876019130544128/vid/avc1/1280x720/KaOJekFh2Qdpf0QC.mp4?tag=16"
+            },
+            {
+              "bitrate": 10368000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1910876019130544128/vid/avc1/1920x1080/GrNgvs1toSr6oKr6.mp4?tag=16"
+            }
+          ]
+        },
+        "media_results": {
+          "result": {
+            "media_key": "13_1910876019130544128"
+          }
+        }
+      }
+    ],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [
+    "https://pbs.twimg.com/media/GoTLq8bXkAAYH15.png"
+  ],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "1913407081148813526",
+  "url": "https://x.com/JoshEakle/status/1913407081148813526",
+  "twitterUrl": "https://twitter.com/JoshEakle/status/1913407081148813526",
+  "text": "A photo of Boston's old North Church last night. https://t.co/FP5jyvy3DD",
+  "fullText": "A photo of Boston's old North Church last night. https://t.co/FP5jyvy3DD",
+  "source": "Twitter for Android",
+  "retweetCount": 9812,
+  "replyCount": 795,
+  "likeCount": 65873,
+  "quoteCount": 286,
+  "viewCount": 1701336,
+  "createdAt": "Sat Apr 19 01:39:32 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 2221,
+  "isReply": false,
+  "conversationId": "1913407081148813526",
+  "possiblySensitive": false,
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "JoshEakle",
+    "url": "https://x.com/JoshEakle",
+    "twitterUrl": "https://twitter.com/JoshEakle",
+    "id": "88016448",
+    "name": "Joshua Reed Eakle 🗽",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1741680372453183488/qJWJEhNE_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/88016448/1721018627",
+    "description": "Executive Director @ProjectLiberal. Husband and father. Liberal. Views are my own.",
+    "location": "",
+    "followers": 57305,
+    "following": 7599,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Fri Nov 06 19:42:22 +0000 2009",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "joshuaeakle.com",
+            "expanded_url": "http://joshuaeakle.com",
+            "url": "https://t.co/DAFbXDYnth",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 104262,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 5826,
+    "statusesCount": 28395,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1903545418446770550"
+    ]
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "display_url": "pic.x.com/FP5jyvy3DD",
+        "expanded_url": "https://x.com/JoshEakle/status/1913407081148813526/photo/1",
+        "id_str": "1913407078921633792",
+        "indices": [
+          49,
+          72
+        ],
+        "media_key": "3_1913407078921633792",
+        "media_url_https": "https://pbs.twimg.com/media/Go3JmcHXgAAXFhq.jpg",
+        "type": "photo",
+        "url": "https://t.co/FP5jyvy3DD",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": []
+          },
+          "medium": {
+            "faces": []
+          },
+          "small": {
+            "faces": []
+          },
+          "orig": {
+            "faces": []
+          }
+        },
+        "sizes": {
+          "large": {
+            "h": 1288,
+            "w": 1053,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 1200,
+            "w": 981,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 680,
+            "w": 556,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 1288,
+          "width": 1053,
+          "focus_rects": [
+            {
+              "x": 0,
+              "y": 444,
+              "w": 1053,
+              "h": 590
+            },
+            {
+              "x": 0,
+              "y": 213,
+              "w": 1053,
+              "h": 1053
+            },
+            {
+              "x": 0,
+              "y": 88,
+              "w": 1053,
+              "h": 1200
+            },
+            {
+              "x": 160,
+              "y": 0,
+              "w": 644,
+              "h": 1288
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 1053,
+              "h": 1288
+            }
+          ]
+        },
+        "media_results": {
+          "result": {
+            "media_key": "3_1913407078921633792"
+          }
+        }
+      }
+    ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [],
+    "media": [
+      {
+        "display_url": "pic.x.com/FP5jyvy3DD",
+        "expanded_url": "https://x.com/JoshEakle/status/1913407081148813526/photo/1",
+        "id_str": "1913407078921633792",
+        "indices": [
+          49,
+          72
+        ],
+        "media_key": "3_1913407078921633792",
+        "media_url_https": "https://pbs.twimg.com/media/Go3JmcHXgAAXFhq.jpg",
+        "type": "photo",
+        "url": "https://t.co/FP5jyvy3DD",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": []
+          },
+          "medium": {
+            "faces": []
+          },
+          "small": {
+            "faces": []
+          },
+          "orig": {
+            "faces": []
+          }
+        },
+        "sizes": {
+          "large": {
+            "h": 1288,
+            "w": 1053,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 1200,
+            "w": 981,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 680,
+            "w": 556,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 1288,
+          "width": 1053,
+          "focus_rects": [
+            {
+              "x": 0,
+              "y": 444,
+              "w": 1053,
+              "h": 590
+            },
+            {
+              "x": 0,
+              "y": 213,
+              "w": 1053,
+              "h": 1053
+            },
+            {
+              "x": 0,
+              "y": 88,
+              "w": 1053,
+              "h": 1200
+            },
+            {
+              "x": 160,
+              "y": 0,
+              "w": 644,
+              "h": 1288
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 1053,
+              "h": 1288
+            }
+          ]
+        },
+        "media_results": {
+          "result": {
+            "media_key": "3_1913407078921633792"
+          }
+        }
+      }
+    ],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [
+    "https://pbs.twimg.com/media/Go3JmcHXgAAXFhq.jpg"
+  ],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "1912113676271624472",
+  "url": "https://x.com/netflix/status/1912113676271624472",
+  "twitterUrl": "https://twitter.com/netflix/status/1912113676271624472",
+  "text": "North of North is for the real yearners https://t.co/MxsG3mFdYf",
+  "fullText": "North of North is for the real yearners https://t.co/MxsG3mFdYf",
+  "source": "Netflix",
+  "retweetCount": 71,
+  "replyCount": 42,
+  "likeCount": 867,
+  "quoteCount": 17,
+  "viewCount": 298332,
+  "createdAt": "Tue Apr 15 12:00:00 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 208,
+  "isReply": false,
+  "conversationId": "1912113676271624472",
+  "possiblySensitive": false,
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "netflix",
+    "url": "https://x.com/netflix",
+    "twitterUrl": "https://twitter.com/netflix",
+    "id": "16573941",
+    "name": "Netflix",
+    "isVerified": false,
+    "verifiedType": "Business",
+    "isBlueVerified": true,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1872671711700582400/6WLZxYpq_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/16573941/1744271035",
+    "description": "barnies",
+    "location": "California, USA",
+    "followers": 22853435,
+    "following": 2222,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Fri Oct 03 04:16:17 +0000 2008",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "netflix.com",
+            "expanded_url": "https://netflix.com",
+            "url": "https://t.co/plHjUOcU1u",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 16002,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 20272,
+    "statusesCount": 59778,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": []
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "display_url": "pic.x.com/MxsG3mFdYf",
+        "expanded_url": "https://x.com/netflix/status/1912113676271624472/video/1",
+        "id_str": "1911943459956457473",
+        "indices": [
+          40,
+          63
+        ],
+        "media_key": "13_1911943459956457473",
+        "media_url_https": "https://pbs.twimg.com/media/GoiWgOrXgAAYDan.png",
+        "type": "video",
+        "url": "https://t.co/MxsG3mFdYf",
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "sizes": {
+          "large": {
+            "h": 405,
+            "w": 720,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 405,
+            "w": 720,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 383,
+            "w": 680,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 405,
+          "width": 720,
+          "focus_rects": []
+        },
+        "video_info": {
+          "aspect_ratio": [
+            16,
+            9
+          ],
+          "duration_millis": 21966,
+          "variants": [
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/amplify_video/1911943459956457473/pl/HBjYDpJJwl8axUL-.m3u8?tag=16&v=1cf"
+            },
+            {
+              "bitrate": 288000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1911943459956457473/vid/avc1/480x270/aw-2Jub_c57wO0Pz.mp4?tag=16"
+            },
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1911943459956457473/vid/avc1/640x360/hQl0NdiZIlZYjo_Y.mp4?tag=16"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1911943459956457473/vid/avc1/1280x720/Hl0Qzs7HqLiSQFaP.mp4?tag=16"
+            },
+            {
+              "bitrate": 10368000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1911943459956457473/vid/avc1/1920x1080/MfTZp2065qrVz5s4.mp4?tag=16"
+            }
+          ]
+        },
+        "media_results": {
+          "result": {
+            "media_key": "13_1911943459956457473"
+          }
+        }
+      }
+    ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [],
+    "media": [
+      {
+        "display_url": "pic.x.com/MxsG3mFdYf",
+        "expanded_url": "https://x.com/netflix/status/1912113676271624472/video/1",
+        "id_str": "1911943459956457473",
+        "indices": [
+          40,
+          63
+        ],
+        "media_key": "13_1911943459956457473",
+        "media_url_https": "https://pbs.twimg.com/media/GoiWgOrXgAAYDan.png",
+        "type": "video",
+        "url": "https://t.co/MxsG3mFdYf",
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "sizes": {
+          "large": {
+            "h": 405,
+            "w": 720,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 405,
+            "w": 720,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 383,
+            "w": 680,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 405,
+          "width": 720,
+          "focus_rects": []
+        },
+        "video_info": {
+          "aspect_ratio": [
+            16,
+            9
+          ],
+          "duration_millis": 21966,
+          "variants": [
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/amplify_video/1911943459956457473/pl/HBjYDpJJwl8axUL-.m3u8?tag=16&v=1cf"
+            },
+            {
+              "bitrate": 288000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1911943459956457473/vid/avc1/480x270/aw-2Jub_c57wO0Pz.mp4?tag=16"
+            },
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1911943459956457473/vid/avc1/640x360/hQl0NdiZIlZYjo_Y.mp4?tag=16"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1911943459956457473/vid/avc1/1280x720/Hl0Qzs7HqLiSQFaP.mp4?tag=16"
+            },
+            {
+              "bitrate": 10368000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1911943459956457473/vid/avc1/1920x1080/MfTZp2065qrVz5s4.mp4?tag=16"
+            }
+          ]
+        },
+        "media_results": {
+          "result": {
+            "media_key": "13_1911943459956457473"
+          }
+        }
+      }
+    ],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [
+    "https://pbs.twimg.com/media/GoiWgOrXgAAYDan.png"
+  ],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "1900185138694414624",
+  "url": "https://x.com/netflix/status/1900185138694414624",
+  "twitterUrl": "https://twitter.com/netflix/status/1900185138694414624",
+  "text": "She lives up north but her life just went south —  time to find a new direction. \n\nNorth of North, a new comedy series premieres April 10. https://t.co/JAw2Lm7YwQ",
+  "fullText": "She lives up north but her life just went south —  time to find a new direction. \n\nNorth of North, a new comedy series premieres April 10. https://t.co/JAw2Lm7YwQ",
+  "source": "Twitter Media Studio",
+  "retweetCount": 263,
+  "replyCount": 65,
+  "likeCount": 2465,
+  "quoteCount": 65,
+  "viewCount": 164920,
+  "createdAt": "Thu Mar 13 14:00:15 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 610,
+  "isReply": false,
+  "conversationId": "1900185138694414624",
+  "possiblySensitive": false,
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "netflix",
+    "url": "https://x.com/netflix",
+    "twitterUrl": "https://twitter.com/netflix",
+    "id": "16573941",
+    "name": "Netflix",
+    "isVerified": false,
+    "verifiedType": "Business",
+    "isBlueVerified": true,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1872671711700582400/6WLZxYpq_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/16573941/1744271035",
+    "description": "barnies",
+    "location": "California, USA",
+    "followers": 22853435,
+    "following": 2222,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Fri Oct 03 04:16:17 +0000 2008",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "netflix.com",
+            "expanded_url": "https://netflix.com",
+            "url": "https://t.co/plHjUOcU1u",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 16002,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 20272,
+    "statusesCount": 59778,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": []
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "display_url": "pic.x.com/JAw2Lm7YwQ",
+        "expanded_url": "https://x.com/netflix/status/1900185138694414624/video/1",
+        "id_str": "1900172382947467264",
+        "indices": [
+          139,
+          162
+        ],
+        "media_key": "13_1900172382947467264",
+        "media_url_https": "https://pbs.twimg.com/media/Gl7E-cDWwAAjg02.jpg",
+        "type": "video",
+        "url": "https://t.co/JAw2Lm7YwQ",
+        "additional_media_info": {
+          "title": "",
+          "description": "",
+          "embeddable": true,
+          "monetizable": false
+        },
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "sizes": {
+          "large": {
+            "h": 720,
+            "w": 1280,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 675,
+            "w": 1200,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 383,
+            "w": 680,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 720,
+          "width": 1280,
+          "focus_rects": []
+        },
+        "allow_download_status": {
+          "allow_download": false
+        },
+        "video_info": {
+          "aspect_ratio": [
+            16,
+            9
+          ],
+          "duration_millis": 129461,
+          "variants": [
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/amplify_video/1900172382947467264/pl/EjxvMUq5nFenVvsB.m3u8?tag=14"
+            },
+            {
+              "bitrate": 288000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1900172382947467264/vid/avc1/480x270/iFb33Rca0VWsxQdc.mp4?tag=14"
+            },
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1900172382947467264/vid/avc1/640x360/ojoRa6t5SeqhVOlo.mp4?tag=14"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1900172382947467264/vid/avc1/1280x720/kkNZXQSCQC2LV40S.mp4?tag=14"
+            }
+          ]
+        },
+        "media_results": {
+          "result": {
+            "media_key": "13_1900172382947467264"
+          }
+        }
+      }
+    ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [],
+    "media": [
+      {
+        "display_url": "pic.x.com/JAw2Lm7YwQ",
+        "expanded_url": "https://x.com/netflix/status/1900185138694414624/video/1",
+        "id_str": "1900172382947467264",
+        "indices": [
+          139,
+          162
+        ],
+        "media_key": "13_1900172382947467264",
+        "media_url_https": "https://pbs.twimg.com/media/Gl7E-cDWwAAjg02.jpg",
+        "type": "video",
+        "url": "https://t.co/JAw2Lm7YwQ",
+        "additional_media_info": {
+          "title": "",
+          "description": "",
+          "embeddable": true,
+          "monetizable": false
+        },
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "sizes": {
+          "large": {
+            "h": 720,
+            "w": 1280,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 675,
+            "w": 1200,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 383,
+            "w": 680,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 720,
+          "width": 1280,
+          "focus_rects": []
+        },
+        "allow_download_status": {
+          "allow_download": false
+        },
+        "video_info": {
+          "aspect_ratio": [
+            16,
+            9
+          ],
+          "duration_millis": 129461,
+          "variants": [
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/amplify_video/1900172382947467264/pl/EjxvMUq5nFenVvsB.m3u8?tag=14"
+            },
+            {
+              "bitrate": 288000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1900172382947467264/vid/avc1/480x270/iFb33Rca0VWsxQdc.mp4?tag=14"
+            },
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1900172382947467264/vid/avc1/640x360/ojoRa6t5SeqhVOlo.mp4?tag=14"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1900172382947467264/vid/avc1/1280x720/kkNZXQSCQC2LV40S.mp4?tag=14"
+            }
+          ]
+        },
+        "media_results": {
+          "result": {
+            "media_key": "13_1900172382947467264"
+          }
+        }
+      }
+    ],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [
+    "https://pbs.twimg.com/media/Gl7E-cDWwAAjg02.jpg"
+  ],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "1913566543415230703",
+  "url": "https://x.com/Mollyploofkins/status/1913566543415230703",
+  "twitterUrl": "https://twitter.com/Mollyploofkins/status/1913566543415230703",
+  "text": "Boston’s Old North Church on the 250th anniversary of Paul Revere’s midnight ride. https://t.co/d5GX0LUXFq",
+  "fullText": "Boston’s Old North Church on the 250th anniversary of Paul Revere’s midnight ride. https://t.co/d5GX0LUXFq",
+  "source": "Twitter Web App",
+  "retweetCount": 189,
+  "replyCount": 7,
+  "likeCount": 421,
+  "quoteCount": 6,
+  "viewCount": 6224,
+  "createdAt": "Sat Apr 19 12:13:10 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 11,
+  "isReply": false,
+  "conversationId": "1913566543415230703",
+  "possiblySensitive": false,
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "Mollyploofkins",
+    "url": "https://x.com/Mollyploofkins",
+    "twitterUrl": "https://twitter.com/Mollyploofkins",
+    "id": "1274695868793458689",
+    "name": "Molly Ploofkins",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1900939743099314176/rw-DqgO5_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1274695868793458689/1634211125",
+    "description": "Retired Army Medic | Registered Nurse | Pro-Democracy News/Politics/Discussion/Books/My Dog Molly \n\nAs an Amazon Associate I earn from qualifying purchases.",
+    "location": "USA",
+    "followers": 102433,
+    "following": 8273,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": false,
+    "createdAt": "Sun Jun 21 13:29:19 +0000 2020",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "amzn.to/3Q6L1Ur",
+            "expanded_url": "https://amzn.to/3Q6L1Ur",
+            "url": "https://t.co/1W4AXsaFeO",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 797269,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 1438,
+    "statusesCount": 4988,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1676204807776792579"
+    ]
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "display_url": "pic.x.com/d5GX0LUXFq",
+        "expanded_url": "https://x.com/Mollyploofkins/status/1913566543415230703/photo/1",
+        "id_str": "1913566539657195520",
+        "indices": [
+          83,
+          106
+        ],
+        "media_key": "3_1913566539657195520",
+        "media_url_https": "https://pbs.twimg.com/media/Go5aoRpXMAAQZh1.jpg",
+        "type": "photo",
+        "url": "https://t.co/d5GX0LUXFq",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "x": 529,
+                "y": 285,
+                "h": 151,
+                "w": 151
+              },
+              {
+                "x": 833,
+                "y": 138,
+                "h": 264,
+                "w": 264
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "x": 529,
+                "y": 285,
+                "h": 151,
+                "w": 151
+              },
+              {
+                "x": 833,
+                "y": 138,
+                "h": 264,
+                "w": 264
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "x": 299,
+                "y": 161,
+                "h": 85,
+                "w": 85
+              },
+              {
+                "x": 472,
+                "y": 78,
+                "h": 149,
+                "w": 149
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "x": 529,
+                "y": 285,
+                "h": 151,
+                "w": 151
+              },
+              {
+                "x": 833,
+                "y": 138,
+                "h": 264,
+                "w": 264
+              }
+            ]
+          }
+        },
+        "sizes": {
+          "large": {
+            "h": 594,
+            "w": 1200,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 594,
+            "w": 1200,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 337,
+            "w": 680,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 594,
+          "width": 1200,
+          "focus_rects": [
+            {
+              "x": 100,
+              "y": 0,
+              "w": 1061,
+              "h": 594
+            },
+            {
+              "x": 333,
+              "y": 0,
+              "w": 594,
+              "h": 594
+            },
+            {
+              "x": 370,
+              "y": 0,
+              "w": 521,
+              "h": 594
+            },
+            {
+              "x": 482,
+              "y": 0,
+              "w": 297,
+              "h": 594
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 1200,
+              "h": 594
+            }
+          ]
+        },
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "media_results": {
+          "result": {
+            "media_key": "3_1913566539657195520"
+          }
+        }
+      }
+    ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [],
+    "media": [
+      {
+        "display_url": "pic.x.com/d5GX0LUXFq",
+        "expanded_url": "https://x.com/Mollyploofkins/status/1913566543415230703/photo/1",
+        "id_str": "1913566539657195520",
+        "indices": [
+          83,
+          106
+        ],
+        "media_key": "3_1913566539657195520",
+        "media_url_https": "https://pbs.twimg.com/media/Go5aoRpXMAAQZh1.jpg",
+        "type": "photo",
+        "url": "https://t.co/d5GX0LUXFq",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "x": 529,
+                "y": 285,
+                "h": 151,
+                "w": 151
+              },
+              {
+                "x": 833,
+                "y": 138,
+                "h": 264,
+                "w": 264
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "x": 529,
+                "y": 285,
+                "h": 151,
+                "w": 151
+              },
+              {
+                "x": 833,
+                "y": 138,
+                "h": 264,
+                "w": 264
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "x": 299,
+                "y": 161,
+                "h": 85,
+                "w": 85
+              },
+              {
+                "x": 472,
+                "y": 78,
+                "h": 149,
+                "w": 149
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "x": 529,
+                "y": 285,
+                "h": 151,
+                "w": 151
+              },
+              {
+                "x": 833,
+                "y": 138,
+                "h": 264,
+                "w": 264
+              }
+            ]
+          }
+        },
+        "sizes": {
+          "large": {
+            "h": 594,
+            "w": 1200,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 594,
+            "w": 1200,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 337,
+            "w": 680,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 594,
+          "width": 1200,
+          "focus_rects": [
+            {
+              "x": 100,
+              "y": 0,
+              "w": 1061,
+              "h": 594
+            },
+            {
+              "x": 333,
+              "y": 0,
+              "w": 594,
+              "h": 594
+            },
+            {
+              "x": 370,
+              "y": 0,
+              "w": 521,
+              "h": 594
+            },
+            {
+              "x": 482,
+              "y": 0,
+              "w": 297,
+              "h": 594
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 1200,
+              "h": 594
+            }
+          ]
+        },
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "media_results": {
+          "result": {
+            "media_key": "3_1913566539657195520"
+          }
+        }
+      }
+    ],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [
+    "https://pbs.twimg.com/media/Go5aoRpXMAAQZh1.jpg"
+  ],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "1911614461208908134",
+  "url": "https://x.com/girlnameddi/status/1911614461208908134",
+  "twitterUrl": "https://twitter.com/girlnameddi/status/1911614461208908134",
+  "text": "North of North is about an Inuk woman taking back her life… and, maybe… finding love? I love the show and the soundtrack is ice cold. ❄️ https://t.co/cbJaGOeLdb",
+  "fullText": "North of North is about an Inuk woman taking back her life… and, maybe… finding love? I love the show and the soundtrack is ice cold. ❄️ https://t.co/cbJaGOeLdb",
+  "source": "Twitter for iPhone",
+  "retweetCount": 3,
+  "replyCount": 1,
+  "likeCount": 35,
+  "quoteCount": 0,
+  "viewCount": 1211,
+  "createdAt": "Mon Apr 14 02:56:18 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 2,
+  "isReply": false,
+  "conversationId": "1911614461208908134",
+  "possiblySensitive": false,
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "girlnameddi",
+    "url": "https://x.com/girlnameddi",
+    "twitterUrl": "https://twitter.com/girlnameddi",
+    "id": "1513416942064910337",
+    "name": "Diana Williston",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1773342991161200640/V4Xm9bPn_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1513416942064910337/1742769307",
+    "description": "🔆Choctaw—Mississipi Choctaw 🔆Indigiqueer                                    🔆Follower of brown-skinned Jesus 🔆Child advocate",
+    "location": "Wright City, OK",
+    "followers": 435,
+    "following": 331,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": false,
+    "createdAt": "Mon Apr 11 07:21:44 +0000 2022",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 2652,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 92,
+    "statusesCount": 194,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1858439909448790414"
+    ]
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "display_url": "pic.x.com/cbJaGOeLdb",
+        "expanded_url": "https://x.com/girlnameddi/status/1911614461208908134/video/1",
+        "id_str": "1911614353998028801",
+        "indices": [
+          137,
+          160
+        ],
+        "media_key": "13_1911614353998028801",
+        "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1911614353998028801/img/3ldFRECjWE3QqP63.jpg",
+        "type": "video",
+        "url": "https://t.co/cbJaGOeLdb",
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "sizes": {
+          "large": {
+            "h": 1024,
+            "w": 576,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 1024,
+            "w": 576,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 680,
+            "w": 383,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 1024,
+          "width": 576,
+          "focus_rects": []
+        },
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "video_info": {
+          "aspect_ratio": [
+            9,
+            16
+          ],
+          "duration_millis": 51185,
+          "variants": [
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/amplify_video/1911614353998028801/pl/n8vcVN2vnvb1gUQF.m3u8?tag=14"
+            },
+            {
+              "bitrate": 632000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1911614353998028801/vid/avc1/320x568/5k4tuRuBOf8QGuET.mp4?tag=14"
+            },
+            {
+              "bitrate": 950000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1911614353998028801/vid/avc1/480x852/HPEEwRBmXR-8BiBn.mp4?tag=14"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1911614353998028801/vid/avc1/576x1024/iBG3cT0D0Kug2lJG.mp4?tag=14"
+            }
+          ]
+        },
+        "media_results": {
+          "result": {
+            "media_key": "13_1911614353998028801"
+          }
+        }
+      }
+    ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [],
+    "media": [
+      {
+        "display_url": "pic.x.com/cbJaGOeLdb",
+        "expanded_url": "https://x.com/girlnameddi/status/1911614461208908134/video/1",
+        "id_str": "1911614353998028801",
+        "indices": [
+          137,
+          160
+        ],
+        "media_key": "13_1911614353998028801",
+        "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1911614353998028801/img/3ldFRECjWE3QqP63.jpg",
+        "type": "video",
+        "url": "https://t.co/cbJaGOeLdb",
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "sizes": {
+          "large": {
+            "h": 1024,
+            "w": 576,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 1024,
+            "w": 576,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 680,
+            "w": 383,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 1024,
+          "width": 576,
+          "focus_rects": []
+        },
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "video_info": {
+          "aspect_ratio": [
+            9,
+            16
+          ],
+          "duration_millis": 51185,
+          "variants": [
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/amplify_video/1911614353998028801/pl/n8vcVN2vnvb1gUQF.m3u8?tag=14"
+            },
+            {
+              "bitrate": 632000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1911614353998028801/vid/avc1/320x568/5k4tuRuBOf8QGuET.mp4?tag=14"
+            },
+            {
+              "bitrate": 950000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1911614353998028801/vid/avc1/480x852/HPEEwRBmXR-8BiBn.mp4?tag=14"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1911614353998028801/vid/avc1/576x1024/iBG3cT0D0Kug2lJG.mp4?tag=14"
+            }
+          ]
+        },
+        "media_results": {
+          "result": {
+            "media_key": "13_1911614353998028801"
+          }
+        }
+      }
+    ],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [
+    "https://pbs.twimg.com/amplify_video_thumb/1911614353998028801/img/3ldFRECjWE3QqP63.jpg"
+  ],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "1912897743653126630",
+  "url": "https://x.com/stellarislunvr/status/1912897743653126630",
+  "twitterUrl": "https://twitter.com/stellarislunvr/status/1912897743653126630",
+  "text": "North of North is a delightful and lighthearted comedy but expertly tackles themes of generational trauma, motherhood (young motherhood specifically), and gender norms within your community. Season 2, please! https://t.co/Q1l47eLwnj",
+  "fullText": "North of North is a delightful and lighthearted comedy but expertly tackles themes of generational trauma, motherhood (young motherhood specifically), and gender norms within your community. Season 2, please! https://t.co/Q1l47eLwnj",
+  "source": "Twitter for iPhone",
+  "retweetCount": 3,
+  "replyCount": 0,
+  "likeCount": 8,
+  "quoteCount": 0,
+  "viewCount": 268,
+  "createdAt": "Thu Apr 17 15:55:36 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "conversationId": "1912897743653126630",
+  "possiblySensitive": false,
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "stellarislunvr",
+    "url": "https://x.com/stellarislunvr",
+    "twitterUrl": "https://twitter.com/stellarislunvr",
+    "id": "840029976011427841",
+    "name": "❤️‍🔥",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1881856398092312576/-zCaSC-6_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/840029976011427841/1737504514",
+    "description": "love you mean it",
+    "location": "de la isla",
+    "followers": 1461,
+    "following": 399,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Fri Mar 10 02:42:08 +0000 2017",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 138043,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 3716,
+    "statusesCount": 56034,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1489049219197452295"
+    ]
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "display_url": "pic.x.com/Q1l47eLwnj",
+        "expanded_url": "https://x.com/stellarislunvr/status/1912897743653126630/photo/1",
+        "id_str": "1912897731082825728",
+        "indices": [
+          209,
+          232
+        ],
+        "media_key": "3_1912897731082825728",
+        "media_url_https": "https://pbs.twimg.com/media/Gov6WfjXsAAzKtj.jpg",
+        "type": "photo",
+        "url": "https://t.co/Q1l47eLwnj",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "x": 529,
+                "y": 1086,
+                "h": 65,
+                "w": 65
+              },
+              {
+                "x": 553,
+                "y": 1222,
+                "h": 62,
+                "w": 62
+              },
+              {
+                "x": 464,
+                "y": 350,
+                "h": 79,
+                "w": 79
+              },
+              {
+                "x": 908,
+                "y": 1099,
+                "h": 63,
+                "w": 63
+              },
+              {
+                "x": 396,
+                "y": 827,
+                "h": 87,
+                "w": 87
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "x": 438,
+                "y": 899,
+                "h": 53,
+                "w": 53
+              },
+              {
+                "x": 457,
+                "y": 1011,
+                "h": 51,
+                "w": 51
+              },
+              {
+                "x": 384,
+                "y": 289,
+                "h": 65,
+                "w": 65
+              },
+              {
+                "x": 751,
+                "y": 909,
+                "h": 52,
+                "w": 52
+              },
+              {
+                "x": 327,
+                "y": 684,
+                "h": 72,
+                "w": 72
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "x": 248,
+                "y": 509,
+                "h": 30,
+                "w": 30
+              },
+              {
+                "x": 259,
+                "y": 573,
+                "h": 29,
+                "w": 29
+              },
+              {
+                "x": 217,
+                "y": 164,
+                "h": 37,
+                "w": 37
+              },
+              {
+                "x": 425,
+                "y": 515,
+                "h": 29,
+                "w": 29
+              },
+              {
+                "x": 185,
+                "y": 387,
+                "h": 40,
+                "w": 40
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "x": 529,
+                "y": 1086,
+                "h": 65,
+                "w": 65
+              },
+              {
+                "x": 553,
+                "y": 1222,
+                "h": 62,
+                "w": 62
+              },
+              {
+                "x": 464,
+                "y": 350,
+                "h": 79,
+                "w": 79
+              },
+              {
+                "x": 908,
+                "y": 1099,
+                "h": 63,
+                "w": 63
+              },
+              {
+                "x": 396,
+                "y": 827,
+                "h": 87,
+                "w": 87
+              }
+            ]
+          }
+        },
+        "sizes": {
+          "large": {
+            "h": 1449,
+            "w": 1000,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 1200,
+            "w": 828,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 680,
+            "w": 469,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 1449,
+          "width": 1000,
+          "focus_rects": [
+            {
+              "x": 0,
+              "y": 190,
+              "w": 1000,
+              "h": 560
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 1000,
+              "h": 1000
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 1000,
+              "h": 1140
+            },
+            {
+              "x": 108,
+              "y": 0,
+              "w": 725,
+              "h": 1449
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 1000,
+              "h": 1449
+            }
+          ]
+        },
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "media_results": {
+          "result": {
+            "media_key": "3_1912897731082825728"
+          }
+        }
+      }
+    ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [],
+    "media": [
+      {
+        "display_url": "pic.x.com/Q1l47eLwnj",
+        "expanded_url": "https://x.com/stellarislunvr/status/1912897743653126630/photo/1",
+        "id_str": "1912897731082825728",
+        "indices": [
+          209,
+          232
+        ],
+        "media_key": "3_1912897731082825728",
+        "media_url_https": "https://pbs.twimg.com/media/Gov6WfjXsAAzKtj.jpg",
+        "type": "photo",
+        "url": "https://t.co/Q1l47eLwnj",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "x": 529,
+                "y": 1086,
+                "h": 65,
+                "w": 65
+              },
+              {
+                "x": 553,
+                "y": 1222,
+                "h": 62,
+                "w": 62
+              },
+              {
+                "x": 464,
+                "y": 350,
+                "h": 79,
+                "w": 79
+              },
+              {
+                "x": 908,
+                "y": 1099,
+                "h": 63,
+                "w": 63
+              },
+              {
+                "x": 396,
+                "y": 827,
+                "h": 87,
+                "w": 87
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "x": 438,
+                "y": 899,
+                "h": 53,
+                "w": 53
+              },
+              {
+                "x": 457,
+                "y": 1011,
+                "h": 51,
+                "w": 51
+              },
+              {
+                "x": 384,
+                "y": 289,
+                "h": 65,
+                "w": 65
+              },
+              {
+                "x": 751,
+                "y": 909,
+                "h": 52,
+                "w": 52
+              },
+              {
+                "x": 327,
+                "y": 684,
+                "h": 72,
+                "w": 72
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "x": 248,
+                "y": 509,
+                "h": 30,
+                "w": 30
+              },
+              {
+                "x": 259,
+                "y": 573,
+                "h": 29,
+                "w": 29
+              },
+              {
+                "x": 217,
+                "y": 164,
+                "h": 37,
+                "w": 37
+              },
+              {
+                "x": 425,
+                "y": 515,
+                "h": 29,
+                "w": 29
+              },
+              {
+                "x": 185,
+                "y": 387,
+                "h": 40,
+                "w": 40
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "x": 529,
+                "y": 1086,
+                "h": 65,
+                "w": 65
+              },
+              {
+                "x": 553,
+                "y": 1222,
+                "h": 62,
+                "w": 62
+              },
+              {
+                "x": 464,
+                "y": 350,
+                "h": 79,
+                "w": 79
+              },
+              {
+                "x": 908,
+                "y": 1099,
+                "h": 63,
+                "w": 63
+              },
+              {
+                "x": 396,
+                "y": 827,
+                "h": 87,
+                "w": 87
+              }
+            ]
+          }
+        },
+        "sizes": {
+          "large": {
+            "h": 1449,
+            "w": 1000,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 1200,
+            "w": 828,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 680,
+            "w": 469,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 1449,
+          "width": 1000,
+          "focus_rects": [
+            {
+              "x": 0,
+              "y": 190,
+              "w": 1000,
+              "h": 560
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 1000,
+              "h": 1000
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 1000,
+              "h": 1140
+            },
+            {
+              "x": 108,
+              "y": 0,
+              "w": 725,
+              "h": 1449
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 1000,
+              "h": 1449
+            }
+          ]
+        },
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "media_results": {
+          "result": {
+            "media_key": "3_1912897731082825728"
+          }
+        }
+      }
+    ],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [
+    "https://pbs.twimg.com/media/Gov6WfjXsAAzKtj.jpg"
+  ],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "1911023482642608517",
+  "url": "https://x.com/nvdjas/status/1911023482642608517",
+  "twitterUrl": "https://twitter.com/nvdjas/status/1911023482642608517",
+  "text": "this is the best anyones ever looked in the history of drag race https://t.co/PEC72xnYDr",
+  "fullText": "this is the best anyones ever looked in the history of drag race https://t.co/PEC72xnYDr",
+  "source": "Twitter for iPhone",
+  "retweetCount": 995,
+  "replyCount": 104,
+  "likeCount": 15653,
+  "quoteCount": 245,
+  "viewCount": 524150,
+  "createdAt": "Sat Apr 12 11:47:58 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 581,
+  "isReply": false,
+  "conversationId": "1911023482642608517",
+  "possiblySensitive": false,
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "nvdjas",
+    "url": "https://x.com/nvdjas",
+    "twitterUrl": "https://twitter.com/nvdjas",
+    "id": "1473314882909003783",
+    "name": "north suzie akgae",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1911456260353937408/aYYxBNnw_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1473314882909003783/1744563768",
+    "description": "that one girl that does NOT play about suzie toot",
+    "location": "she her 🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+    "followers": 1767,
+    "following": 1128,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": false,
+    "createdAt": "Tue Dec 21 15:30:22 +0000 2021",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "boxd.it/3q7ih",
+            "expanded_url": "https://boxd.it/3q7ih",
+            "url": "https://t.co/HcTb7eXLQk",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 123168,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 6477,
+    "statusesCount": 40544,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1905792996676636788"
+    ]
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "display_url": "pic.x.com/PEC72xnYDr",
+        "expanded_url": "https://x.com/nvdjas/status/1911023482642608517/photo/1",
+        "id_str": "1911023472362307584",
+        "indices": [
+          65,
+          88
+        ],
+        "media_key": "3_1911023472362307584",
+        "media_url_https": "https://pbs.twimg.com/media/GoVRuRuWwAApK5f.jpg",
+        "type": "photo",
+        "url": "https://t.co/PEC72xnYDr",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": []
+          },
+          "medium": {
+            "faces": []
+          },
+          "small": {
+            "faces": []
+          },
+          "orig": {
+            "faces": []
+          }
+        },
+        "sizes": {
+          "large": {
+            "h": 590,
+            "w": 590,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 590,
+            "w": 590,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 590,
+            "w": 590,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 590,
+          "width": 590,
+          "focus_rects": [
+            {
+              "x": 0,
+              "y": 26,
+              "w": 590,
+              "h": 330
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 590,
+              "h": 590
+            },
+            {
+              "x": 50,
+              "y": 0,
+              "w": 518,
+              "h": 590
+            },
+            {
+              "x": 162,
+              "y": 0,
+              "w": 295,
+              "h": 590
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 590,
+              "h": 590
+            }
+          ]
+        },
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "media_results": {
+          "result": {
+            "media_key": "3_1911023472362307584"
+          }
+        }
+      }
+    ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [],
+    "media": [
+      {
+        "display_url": "pic.x.com/PEC72xnYDr",
+        "expanded_url": "https://x.com/nvdjas/status/1911023482642608517/photo/1",
+        "id_str": "1911023472362307584",
+        "indices": [
+          65,
+          88
+        ],
+        "media_key": "3_1911023472362307584",
+        "media_url_https": "https://pbs.twimg.com/media/GoVRuRuWwAApK5f.jpg",
+        "type": "photo",
+        "url": "https://t.co/PEC72xnYDr",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": []
+          },
+          "medium": {
+            "faces": []
+          },
+          "small": {
+            "faces": []
+          },
+          "orig": {
+            "faces": []
+          }
+        },
+        "sizes": {
+          "large": {
+            "h": 590,
+            "w": 590,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 590,
+            "w": 590,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 590,
+            "w": 590,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 590,
+          "width": 590,
+          "focus_rects": [
+            {
+              "x": 0,
+              "y": 26,
+              "w": 590,
+              "h": 330
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 590,
+              "h": 590
+            },
+            {
+              "x": 50,
+              "y": 0,
+              "w": 518,
+              "h": 590
+            },
+            {
+              "x": 162,
+              "y": 0,
+              "w": 295,
+              "h": 590
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 590,
+              "h": 590
+            }
+          ]
+        },
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "media_results": {
+          "result": {
+            "media_key": "3_1911023472362307584"
+          }
+        }
+      }
+    ],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [
+    "https://pbs.twimg.com/media/GoVRuRuWwAApK5f.jpg"
+  ],
+  "isConversationControlled": false
+}]
